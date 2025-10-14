@@ -1,0 +1,577 @@
+HEAD is now at cd0298b Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch spreads1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-12401_esg1_package.xml
+Already on 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=================================================================================================================================================================================================================================================
+| State   Name                                                                           Type           Path                                                                                                                                      
+| ─────── ────────────────────────────────────────────────────────────────────────────── ────────────── ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created LLC_BI__Collateral__c.Collateral_Group_Layout                                  CompactLayout  force-app\main\default\objects\LLC_BI__Collateral__c\compactLayouts\Collateral_Group_Layout.compactLayout-meta.xml                        
+| Created LLC_BI__Collateral__c.Collateral_Management_Layout                             CompactLayout  force-app\main\default\objects\LLC_BI__Collateral__c\compactLayouts\Collateral_Management_Layout.compactLayout-meta.xml                   
+| Created Account.Is_Blank_EBITA__c                                                      CustomField    force-app\main\default\objects\Account\fields\Is_Blank_EBITA__c.field-meta.xml                                                            
+| Created Account.cm_LegalEntityId__c                                                    CustomField    force-app\main\default\objects\Account\fields\cm_LegalEntityId__c.field-meta.xml                                                          
+| Created Account.cm_Portfolio_Loan_to_Value__c                                          CustomField    force-app\main\default\objects\Account\fields\cm_Portfolio_Loan_to_Value__c.field-meta.xml                                                
+| Created Account.cm_TotalCollaterallendableValue__c                                     CustomField    force-app\main\default\objects\Account\fields\cm_TotalCollaterallendableValue__c.field-meta.xml                                           
+| Created BOI_LinkedDebt__c.cm_ChildLoan__c                                              CustomField    force-app\main\default\objects\BOI_LinkedDebt__c\fields\cm_ChildLoan__c.field-meta.xml                                                    
+| Created BOI_LinkedDebt__c.cm_LinkedDebtName__c                                         CustomField    force-app\main\default\objects\BOI_LinkedDebt__c\fields\cm_LinkedDebtName__c.field-meta.xml                                               
+| Created BOI_LinkedDebt__c.cm_ParentLoan__c                                             CustomField    force-app\main\default\objects\BOI_LinkedDebt__c\fields\cm_ParentLoan__c.field-meta.xml                                                   
+| Created LLC_BI__Account_Collateral__c.LLC_BI__Collateral_Association__c                CustomField    force-app\main\default\objects\LLC_BI__Account_Collateral__c\fields\LLC_BI__Collateral_Association__c.field-meta.xml                      
+| Created LLC_BI__Collateral_Group__c.cm_AssociatedCollateralAddress__c                  CustomField    force-app\main\default\objects\LLC_BI__Collateral_Group__c\fields\cm_AssociatedCollateralAddress__c.field-meta.xml                        
+| Created LLC_BI__Collateral_Group__c.cm_AssociatedCollateralType__c                     CustomField    force-app\main\default\objects\LLC_BI__Collateral_Group__c\fields\cm_AssociatedCollateralType__c.field-meta.xml                           
+| Created LLC_BI__Collateral_Group__c.cm_AssociatedCollateralValue__c                    CustomField    force-app\main\default\objects\LLC_BI__Collateral_Group__c\fields\cm_AssociatedCollateralValue__c.field-meta.xml                          
+| Created LLC_BI__Collateral_Type__c.LLC_BI__Subtype__c                                  CustomField    force-app\main\default\objects\LLC_BI__Collateral_Type__c\fields\LLC_BI__Subtype__c.field-meta.xml                                        
+| Created LLC_BI__Collateral_Type__c.LLC_BI__Type__c                                     CustomField    force-app\main\default\objects\LLC_BI__Collateral_Type__c\fields\LLC_BI__Type__c.field-meta.xml                                           
+| Created LLC_BI__Collateral_Valuation__c.LLC_BI__Type__c                                CustomField    force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\fields\LLC_BI__Type__c.field-meta.xml                                      
+| Created LLC_BI__Collateral_Valuation__c.cm_OtherCurrencyValuationAmount__c             CustomField    force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\fields\cm_OtherCurrencyValuationAmount__c.field-meta.xml                   
+| Created LLC_BI__Collateral_Valuation__c.cm_ValuationCurrency__c                        CustomField    force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\fields\cm_ValuationCurrency__c.field-meta.xml                              
+| Created LLC_BI__Collateral__c.Collateral_Address__c                                    CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\Collateral_Address__c.field-meta.xml                                          
+| Created LLC_BI__Collateral__c.Energy_Rating_Score__c                                   CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\Energy_Rating_Score__c.field-meta.xml                                         
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Type__c                               CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\LLC_BI__Collateral_Type__c.field-meta.xml                                     
+| Created LLC_BI__Collateral__c.LLC_BI__Status__c                                        CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\LLC_BI__Status__c.field-meta.xml                                              
+| Created LLC_BI__Collateral__c.cm_BIPSID1__c                                            CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_BIPSID1__c.field-meta.xml                                                  
+| Created LLC_BI__Collateral__c.cm_BIPSID2__c                                            CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_BIPSID2__c.field-meta.xml                                                  
+| Created LLC_BI__Collateral__c.cm_BaselEligibleFlag__c                                  CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_BaselEligibleFlag__c.field-meta.xml                                        
+| Created LLC_BI__Collateral__c.cm_BuildingQuality__c                                    CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_BuildingQuality__c.field-meta.xml                                          
+| Created LLC_BI__Collateral__c.cm_CollateAssetID__c                                     CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_CollateAssetID__c.field-meta.xml                                           
+| Created LLC_BI__Collateral__c.cm_Collateral_Address__c                                 CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_Collateral_Address__c.field-meta.xml                                       
+| Created LLC_BI__Collateral__c.cm_DisplayInformation__c                                 CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_DisplayInformation__c.field-meta.xml                                       
+| Created LLC_BI__Collateral__c.cm_FamilyHome__c                                         CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_FamilyHome__c.field-meta.xml                                               
+| Created LLC_BI__Collateral__c.cm_FolioNumber__c                                        CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_FolioNumber__c.field-meta.xml                                              
+| Created LLC_BI__Collateral__c.cm_FreeholdorLease__c                                    CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_FreeholdorLease__c.field-meta.xml                                          
+| Created LLC_BI__Collateral__c.cm_Guarantee_Recourse_Code__c                            CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_Guarantee_Recourse_Code__c.field-meta.xml                                  
+| Created LLC_BI__Collateral__c.cm_IPRE__c                                               CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_IPRE__c.field-meta.xml                                                     
+| Created LLC_BI__Collateral__c.cm_IndexType__c                                          CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_IndexType__c.field-meta.xml                                                
+| Created LLC_BI__Collateral__c.cm_LEDID__c                                              CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_LEDID__c.field-meta.xml                                                    
+| Created LLC_BI__Collateral__c.cm_LandAreaCode__c                                       CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_LandAreaCode__c.field-meta.xml                                             
+| Created LLC_BI__Collateral__c.cm_LandArea__c                                           CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_LandArea__c.field-meta.xml                                                 
+| Created LLC_BI__Collateral__c.cm_LocationQuality__c                                    CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_LocationQuality__c.field-meta.xml                                          
+| Created LLC_BI__Collateral__c.cm_MapImage__c                                           CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_MapImage__c.field-meta.xml                                                 
+| Created LLC_BI__Collateral__c.cm_Morethan1BorrowingEntity__c                           CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_Morethan1BorrowingEntity__c.field-meta.xml                                 
+| Created LLC_BI__Collateral__c.cm_RegionCode__c                                         CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_RegionCode__c.field-meta.xml                                               
+| Created LLC_BI__Collateral__c.cm_Ringfenced__c                                         CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_Ringfenced__c.field-meta.xml                                               
+| Created LLC_BI__Collateral__c.cm_Status__c                                             CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_Status__c.field-meta.xml                                                   
+| Created LLC_BI__Collateral__c.cm_TenantQuality__c                                      CustomField    force-app\main\default\objects\LLC_BI__Collateral__c\fields\cm_TenantQuality__c.field-meta.xml                                            
+| Created LLC_BI__Loan__c.cm_OtherLoanforLinkedDebtotLTV__c                              CustomField    force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_OtherLoanforLinkedDebtotLTV__c.field-meta.xml                                    
+| Created LLC_BI__Loan__c.cm_ProductExposureFilter__c                                    CustomField    force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_ProductExposureFilter__c.field-meta.xml                                          
+| Created LLC_BI__Loan__c.cm_SumofLinkedDebtsAmount__c                                   CustomField    force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_SumofLinkedDebtsAmount__c.field-meta.xml                                         
+| Created LLC_BI__Loan__c.cm_TotalExposureforTransactionalLTV__c                         CustomField    force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_TotalExposureforTransactionalLTV__c.field-meta.xml                               
+| Created LLC_BI__Loan__c.cm_TransactionalLTV__c                                         CustomField    force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_TransactionalLTV__c.field-meta.xml                                               
+| Created cm_ConnectedLED__c.cm_Collateral_Mgmt__c                                       CustomField    force-app\main\default\objects\cm_ConnectedLED__c\fields\cm_Collateral_Mgmt__c.field-meta.xml                                             
+| Created cm_ConnectedLED__c.cm_LED__c                                                   CustomField    force-app\main\default\objects\cm_ConnectedLED__c\fields\cm_LED__c.field-meta.xml                                                         
+| Created cm_LED__c.cm_Amount__c                                                         CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_Amount__c.field-meta.xml                                                               
+| Created cm_LED__c.cm_DisplayInformation__c                                             CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_DisplayInformation__c.field-meta.xml                                                   
+| Created cm_LED__c.cm_GuaranteeRecourseCode__c                                          CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_GuaranteeRecourseCode__c.field-meta.xml                                                
+| Created cm_LED__c.cm_GuaranteeType__c                                                  CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_GuaranteeType__c.field-meta.xml                                                        
+| Created cm_LED__c.cm_LEDID__c                                                          CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_LEDID__c.field-meta.xml                                                                
+| Created cm_LED__c.cm_Relationship__c                                                   CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_Relationship__c.field-meta.xml                                                         
+| Created cm_LED__c.cm_SecurityType__c                                                   CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_SecurityType__c.field-meta.xml                                                         
+| Created cm_LED__c.cm_Status__c                                                         CustomField    force-app\main\default\objects\cm_LED__c\fields\cm_Status__c.field-meta.xml                                                               
+| Created BOI_LinkedDebt__c                                                              CustomObject   force-app\main\default\objects\BOI_LinkedDebt__c\BOI_LinkedDebt__c.object-meta.xml                                                        
+| Created cm_ConnectedLED__c                                                             CustomObject   force-app\main\default\objects\cm_ConnectedLED__c\cm_ConnectedLED__c.object-meta.xml                                                      
+| Created cm_LED__c                                                                      CustomObject   force-app\main\default\objects\cm_LED__c\cm_LED__c.object-meta.xml                                                                        
+| Created cm_LED__c                                                                      CustomTab      force-app\main\default\tabs\cm_LED__c.tab-meta.xml                                                                                        
+| Created Account.LLC_BI__Collateral_Relationship_Association                            FieldSet       force-app\main\default\objects\Account\fieldSets\LLC_BI__Collateral_Relationship_Association.fieldSet-meta.xml                            
+| Created BOI_LinkedDebt__c.cm_LinkedDebtinLoanUI                                        FieldSet       force-app\main\default\objects\BOI_LinkedDebt__c\fieldSets\cm_LinkedDebtinLoanUI.fieldSet-meta.xml                                        
+| Created LLC_BI__Account_Collateral__c.LLC_BI__Individual_Collateral_Ownership_Creation FieldSet       force-app\main\default\objects\LLC_BI__Account_Collateral__c\fieldSets\LLC_BI__Individual_Collateral_Ownership_Creation.fieldSet-meta.xml 
+| Created LLC_BI__Collateral_Valuation__c.LLC_BI__Collateral_Valuation_Default           FieldSet       force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\fieldSets\LLC_BI__Collateral_Valuation_Default.fieldSet-meta.xml           
+| Created LLC_BI__Collateral__c.Collateral_Valuation_Real_Estate                         FieldSet       force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\Collateral_Valuation_Real_Estate.fieldSet-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Creation_Display_List                 FieldSet       force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\LLC_BI__Collateral_Creation_Display_List.fieldSet-meta.xml                 
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Creation_Screen_Configuration         FieldSet       force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\LLC_BI__Collateral_Creation_Screen_Configuration.fieldSet-meta.xml         
+| Created LLC_BI__Collateral__c.LLC_BI__Pledge_Card_Details                              FieldSet       force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\LLC_BI__Pledge_Card_Details.fieldSet-meta.xml                              
+| Created LLC_BI__Loan_Collateral2__c.LLC_BI__UI_Collateral_Record_Schedule              FieldSet       force-app\main\default\objects\LLC_BI__Loan_Collateral2__c\fieldSets\LLC_BI__UI_Collateral_Record_Schedule.fieldSet-meta.xml              
+| Created LLC_BI__Loan__c.LLC_BI__UI_Collateral_Summary                                  FieldSet       force-app\main\default\objects\LLC_BI__Loan__c\fieldSets\LLC_BI__UI_Collateral_Summary.fieldSet-meta.xml                                  
+| Created Business_Relationship_Layout                                                   FlexiPage      force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml                                                         
+| Created Coll_Mgmt_Real_Estate_ecb                                                      FlexiPage      force-app\main\default\flexipages\Coll_Mgmt_Real_Estate_ecb.flexipage-meta.xml                                                            
+| Created Coll_Mgmt_Standard                                                             FlexiPage      force-app\main\default\flexipages\Coll_Mgmt_Standard.flexipage-meta.xml                                                                   
+| Created Collateral_Valuation_Layout                                                    FlexiPage      force-app\main\default\flexipages\Collateral_Valuation_Layout.flexipage-meta.xml                                                          
+| Created LED_Record_Page                                                                FlexiPage      force-app\main\default\flexipages\LED_Record_Page.flexipage-meta.xml                                                                      
+| Created Linked_Debt_Record_Page                                                        FlexiPage      force-app\main\default\flexipages\Linked_Debt_Record_Page.flexipage-meta.xml                                                              
+| Created BOI_Autolaunched_Auto_Collateral_Pledged                                       Flow           force-app\main\default\flows\BOI_Autolaunched_Auto_Collateral_Pledged.flow-meta.xml                                                       
+| Created BOI_Autolaunched_Summary_of_Linked_Debts_Amount                                Flow           force-app\main\default\flows\BOI_Autolaunched_Summary_of_Linked_Debts_Amount.flow-meta.xml                                                
+| Created BOI_Record_Trigger_Application_After_Save                                      Flow           force-app\main\default\flows\BOI_Record_Trigger_Application_After_Save.flow-meta.xml                                                      
+| Changed BOI_Record_Trigger_Loan_After_Save                                             Flow           force-app\main\default\flows\BOI_Record_Trigger_Loan_After_Save.flow-meta.xml                                                             
+| Created BOI_Record_Trigger_Loan_Update_Mandatory_Flow                                  Flow           force-app\main\default\flows\BOI_Record_Trigger_Loan_Update_Mandatory_Flow.flow-meta.xml                                                  
+| Created BOI_Screen_Flow_Linked_Debts_to_LTV                                            Flow           force-app\main\default\flows\BOI_Screen_Flow_Linked_Debts_to_LTV.flow-meta.xml                                                            
+| Created Update_Collateral_Lendable_Value_on_Account                                    Flow           force-app\main\default\flows\Update_Collateral_Lendable_Value_on_Account.flow-meta.xml                                                    
+| Created nCino_CM_Screen_Flow_Loan_Creation_2                                           Flow           force-app\main\default\flows\nCino_CM_Screen_Flow_Loan_Creation_2.flow-meta.xml                                                           
+| Created LLC_BI__Collateral__c-LLC_BI__Real Estate                                      Layout         force-app\main\default\layouts\LLC_BI__Collateral__c-LLC_BI__Real Estate.layout-meta.xml                                                  
+| Created BOI_LinkedDebt__c.All                                                          ListView       force-app\main\default\objects\BOI_LinkedDebt__c\listViews\All.listView-meta.xml                                                          
+| Created cm_LED__c.All                                                                  ListView       force-app\main\default\objects\cm_LED__c\listViews\All.listView-meta.xml                                                                  
+| Changed SB%26A Branch                                                                  Profile        force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                                                                            
+| Changed SB%26A CCR Compliance                                                          Profile        force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                                                                    
+| Changed SB%26A Fulfillment                                                             Profile        force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                                       
+| Changed SB%26A Lending Support                                                         Profile        force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                                                   
+| Changed SB%26A Readonly                                                                Profile        force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                                          
+| Changed SB%26A Registration Team                                                       Profile        force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                                                 
+| Changed SB%26A Sales                                                                   Profile        force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                                             
+| Changed SB%26A Sec Ops                                                                 Profile        force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                                           
+| Changed SB%26A Underwriting                                                            Profile        force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                                      
+| Changed Super User                                                                     Profile        force-app\main\default\profiles\Super User.profile-meta.xml                                                                               
+| Created LLC_BI__Loan__c.cm_LinkDebtstoLTV                                              QuickAction    force-app\main\default\quickActions\LLC_BI__Loan__c.cm_LinkDebtstoLTV.quickAction-meta.xml                                                
+| Created LLC_BI__Collateral_Valuation__c.Real_Estate_Valuation                          RecordType     force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\recordTypes\Real_Estate_Valuation.recordType-meta.xml                      
+| Created LLC_BI__Collateral__c.Financials                                               RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\Financials.recordType-meta.xml                                           
+| Created LLC_BI__Collateral__c.Guarantee                                                RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\Guarantee.recordType-meta.xml                                            
+| Created LLC_BI__Collateral__c.LLC_BI__Government_Contracts                             RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Government_Contracts.recordType-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Group                                            RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Group.recordType-meta.xml                                        
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Letter_of_Credit                      RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Letter_of_Credit.recordType-meta.xml                  
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Life_Insurance                        RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Life_Insurance.recordType-meta.xml                    
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Other                                 RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Other.recordType-meta.xml                             
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Savings_CD                            RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Savings_CD.recordType-meta.xml                        
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Securities                            RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Securities.recordType-meta.xml                        
+| Created LLC_BI__Collateral__c.LLC_BI__Real_Estate                                      RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Real_Estate.recordType-meta.xml                                  
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Aircraft                                  RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Aircraft.recordType-meta.xml                              
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Boat                                      RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Boat.recordType-meta.xml                                  
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Mobile_Home                               RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Mobile_Home.recordType-meta.xml                           
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Motor_Vehicle                             RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Motor_Vehicle.recordType-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Trailer_Other                             RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Trailer_Other.recordType-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Vessel                                    RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Vessel.recordType-meta.xml                                
+| Created LLC_BI__Collateral__c.LLC_BI__UCC                                              RecordType     force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__UCC.recordType-meta.xml                                          
+| Created LLC_BI__Collateral__c.Prevent_user_from_creation_of_collateral                 ValidationRule force-app\main\default\objects\LLC_BI__Collateral__c\validationRules\Prevent_user_from_creation_of_collateral.validationRule-meta.xml     
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.spreads1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000luNq5SAE
+
+Test Failures [81]
+• CM_CRIFGatewayAUEInvokeService.
+  message: line 39, column 57: Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayCCRGetPDFService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRGetPDFService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayCCRInvokeService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRInvokeService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayCCRReport.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRReport : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayResponseParser.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayResponseParser : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFPPDocumentUpload.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFPPDocumentUpload : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_Callout.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_Callout : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_CalloutTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_CalloutTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_RequestWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_RequestWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_ResponseWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_ResponseWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_WrapperTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_WrapperTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLog.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLog : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLogTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLogTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidor : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidorTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidorTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_LoanRequirmentsQuery.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_LoanRequirmentsQuery : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocable.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocable : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocableTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocableTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatchTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationData.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationData : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationRecord.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationRecord : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanInvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanInvokeApexFromFlowController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanSubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanSubTotal : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_SmeRegDeclinePeriodBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_SmeRegDeclinePeriodBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_SmeRegDeclinePeriodBatch_Test.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_SmeRegDeclinePeriodBatch_Test : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_TestDataFactory.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_TestDataFactory : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_Utilities.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_Utilities : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesProvidor : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• FinancialUtils.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtils : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• FinancialUtilsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtilsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• ForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• ForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• m_CreditDecisionTimerBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class m_CreditDecisionTimerBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MyProfilePageController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MyProfilePageControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RouteGroupsWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RouteGroupsWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• TestClassTypeProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class TestClassTypeProvider : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepClone : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepCloneTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepCloneTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+
+Test Results Summary
+Passing: 0
+Failing: 81
+Total: 81
+Error (1): Failed to validate the deployment (0Af9Q00000luNq5SAE). Due To:
+

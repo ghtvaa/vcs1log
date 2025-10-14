@@ -1,0 +1,324 @@
+HEAD is now at 0a18103 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/objects/LLC_BI__Classification__c/
+Removing force-app/main/default/objects/LLC_BI__Debt__c/
+Removing force-app/main/default/objects/LLC_BI__Schedule_Entry__c/
+Removing force-app/main/default/objects/LLC_BI__Spread_Projections_Driver__c/
+Removing force-app/main/default/objects/LLC_BI__Spread_Statement_Period__c/
+Removing force-app/main/default/objects/LLC_BI__Spread_Statement_Type__c/
+Removing force-app/main/default/permissionsetgroups/
+On branch r1trn
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-13491_spr2_package.xml
+Already on 'r1trn'
+On branch r1trn
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1dev using the v65.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=========================================================================================================================================================================================================================
+| State   Name                                                             Type               Path                                                                                                                        
+| ─────── ──────────────────────────────────────────────────────────────── ────────────────── ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created LLC_BI__Classification__c.LLC_BI__Category__c                    CustomField        force-app\main\default\objects\LLC_BI__Classification__c\fields\LLC_BI__Category__c.field-meta.xml                          
+| Created LLC_BI__Debt__c.Annual_Payment__c                                CustomField        force-app\main\default\objects\LLC_BI__Debt__c\fields\Annual_Payment__c.field-meta.xml                                      
+| Created LLC_BI__Schedule_Entry__c.Kg_Value_Dairy_Cows__c                 CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Kg_Value_Dairy_Cows__c.field-meta.xml                       
+| Created LLC_BI__Schedule_Entry__c.Kg_Value_Formula__c                    CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Kg_Value_Formula__c.field-meta.xml                          
+| Created LLC_BI__Schedule_Entry__c.Lu__c                                  CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Lu__c.field-meta.xml                                        
+| Created LLC_BI__Schedule_Entry__c.Number__c                              CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Number__c.field-meta.xml                                    
+| Created LLC_BI__Schedule_Entry__c.Total_Lu__c                            CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Lu__c.field-meta.xml                                  
+| Created LLC_BI__Schedule_Entry__c.Total_Org_N__c                         CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Org_N__c.field-meta.xml                               
+| Created LLC_BI__Schedule_Entry__c.Total_Stock__c                         CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Stock__c.field-meta.xml                               
+| Created LLC_BI__Spread_Projections_Driver__c.LLC_BI__Type__c             CustomField        force-app\main\default\objects\LLC_BI__Spread_Projections_Driver__c\fields\LLC_BI__Type__c.field-meta.xml                   
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Source__c             CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Source__c.field-meta.xml                   
+| Created LLC_BI__Spread_Statement_Period__c.cm_Created_By__c              CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\cm_Created_By__c.field-meta.xml                    
+| Created LLC_BI__Spread_Statement_Type__c.LLC_BI__Type__c                 CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Type__c\fields\LLC_BI__Type__c.field-meta.xml                       
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spreads_Period_Header FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Spreads_Period_Header.fieldSet-meta.xml 
+| Created SBA_Fulfilment_PS_group                                          PermissionSetGroup force-app\main\default\permissionsetgroups\SBA_Fulfilment_PS_group.permissionsetgroup-meta.xml                              
+| Created Super_User_PS_group                                              PermissionSetGroup force-app\main\default\permissionsetgroups\Super_User_PS_group.permissionsetgroup-meta.xml                                  
+| Changed SB%26A Fulfillment                                               Profile            force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                         
+| Changed SB%26A Lending Support                                           Profile            force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                                     
+| Changed SB%26A Readonly                                                  Profile            force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                            
+| Changed SB%26A Registration Team                                         Profile            force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                                   
+| Changed SB%26A Sales                                                     Profile            force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                               
+| Changed SB%26A Sec Ops                                                   Profile            force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                             
+| Changed SB%26A Underwriting                                              Profile            force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                        
+| Changed Super User                                                       Profile            force-app\main\default\profiles\Super User.profile-meta.xml                                                                 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1trn using the v65.0 SOAP API.
+Deploy ID: 0Af9X000012yWhkSAE
+
+Test Failures [49]
+• cm_BookingBatchSchedulerTest.adhocSchedule
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerControllerTest.checkRunningSchedulerTest
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerTest.containsHoliday
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchTest.devCustomerType
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.fieldNameNotLedger
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.getLendingOfficerCodeLocNumberTest
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmount1M
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmount800k
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmountBelow120k
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmountZero
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_ExceptionLogTest.log
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.log: line 24, column 1
+
+• cm_ExceptionLogTest.logErrorCode
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logErrorCode: line 66, column 1
+
+• cm_ExceptionLogTest.logException
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logException: line 80, column 1
+
+• cm_ExceptionLogTest.logexceptionfail
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logexceptionfail: line 37, column 1
+
+• cm_ExceptionLogTest.logString
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logString: line 50, column 1
+
+• cm_BookingBatchTest.mdtChildObjAndChildFieldNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtParentObjAndFieldNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtSourceFieldNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtSourceParentChildDateTypeIsNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.parentObjectContainsDot
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• CM_CreditActionRequestTest.performActionResponseTest
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CreditActionRequestTest.buildInformation: line 18, column 1
+
+• CM_CreditActionRequestTest.performCreditActionTestAsyncFalse
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CreditActionRequestTest.buildInformation: line 18, column 1
+
+• CM_CreditActionRequestTest.performCreditActionTestAsyncTrue
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CreditActionRequestTest.buildInformation: line 18, column 1
+
+• cm_BookingBatchSchedulerControllerTest.runSchedulerTest
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerTest.schedule
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerTest.scheduledRunAbort
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchTest.sourceFieldContainMonths
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.testBatch
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_RCC_CopyTTMtoValidforCalcBatchTest.testBatch: line 14, column 1
+
+• cm_BookingBatchTest.testCalculateAge
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testChildFieldContainsDot
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testChildFieldNotContainsDot
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testCreateAttachment
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testDebitInterestRate
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testDebitRateCode
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testDropDoubleQoutes
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testFarmLoanAgri
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testFarmLoanNotAgri
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_PortalLoginScreenControllerTest.testFinishLoginFlowHome
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_PortalLoginScreenControllerTest.testFinishLoginFlowHome: line 77, column 1
+
+• cm_BookingBatchTest.testLegalPrimaryFalse
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testMarketClass
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testMdtDefaultValueNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testMultiLvlImplementation
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testPopulateLedger
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount: line 42, column 1
+
+• cm_BookingBatchTest.testSetColumnHeader
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testSuccessBKKBatch
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testUpdateLoanFields
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_PortalLoginScreenControllerTest.testUpdateUser
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_PortalLoginScreenControllerTest.testUpdateUser: line 35, column 1
+
+• cm_PortalLoginScreenControllerTest.testWindowsloadFinishLoginFlowHome
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_PortalLoginScreenControllerTest.testWindowsloadFinishLoginFlowHome: line 143, column 1
+
+
+Test Results Summary
+Passing: 104
+Failing: 49
+Total: 153
+Time: 102380
+ »   Warning: Average test coverage across all Apex Classes and Triggers is 
+ »   65%, at least 75% test coverage is required.
+Error (1): Failed to validate the deployment (0Af9X000012yWhkSAE). Due To:
+Average test coverage across all Apex Classes and Triggers is 65%, at least 75% test coverage is required.

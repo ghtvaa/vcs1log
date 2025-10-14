@@ -1,0 +1,2 @@
+sh: line 1: syntax error near unexpected token `)'
+sh: line 1: `o2g=amsdev ; sf_tree_clean1 ; sf_retrieve_validate1 )'

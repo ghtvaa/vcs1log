@@ -1,0 +1,81 @@
+fix sfdx branches
+echo amsdev ; git checkout amsdev ; git checkout r1qa ; git checkout -b amsdev
+echo amsdev2 ; git checkout amsdev2 ; git checkout r1qa ; git checkout -b amsdev2
+echo crifmock ; git checkout crifmock ; git checkout r1qa ; git checkout -b crifmock
+echo kajal ; git checkout kajal ; git checkout r1qa ; git checkout -b kajal
+echo preprod ; git checkout preprod ; git checkout r1qa ; git checkout -b preprod
+echo product ; git checkout product ; git checkout r1qa ; git checkout -b product
+echo r1dev ; git checkout r1dev ; git checkout r1qa ; git checkout -b r1dev
+echo r1poc ; git checkout r1poc ; git checkout r1qa ; git checkout -b r1poc
+echo r1qa ; git checkout r1qa ; git checkout r1qa ; git checkout -b r1qa
+echo R1Release ; git checkout R1Release ; git checkout r1qa ; git checkout -b R1Release
+echo R1SIT ; git checkout R1SIT ; git checkout r1qa ; git checkout -b R1SIT
+echo r1trn ; git checkout r1trn ; git checkout r1qa ; git checkout -b r1trn
+echo r2dev ; git checkout r2dev ; git checkout r1qa ; git checkout -b r2dev
+echo rob1 ; git checkout rob1 ; git checkout r1qa ; git checkout -b rob1
+echo sandeep ; git checkout sandeep ; git checkout r1qa ; git checkout -b sandeep
+echo spreads1 ; git checkout spreads1 ; git checkout r1qa ; git checkout -b spreads1
+amsdev
+Switched to branch 'amsdev'
+Switched to branch 'r1qa'
+fatal: a branch named 'amsdev' already exists
+amsdev2
+error: pathspec 'amsdev2' did not match any file(s) known to git
+Already on 'r1qa'
+Switched to a new branch 'amsdev2'
+crifmock
+error: pathspec 'crifmock' did not match any file(s) known to git
+Switched to branch 'r1qa'
+Switched to a new branch 'crifmock'
+kajal
+Switched to branch 'kajal'
+Switched to branch 'r1qa'
+fatal: a branch named 'kajal' already exists
+preprod
+Switched to branch 'preprod'
+Switched to branch 'r1qa'
+fatal: a branch named 'preprod' already exists
+product
+error: pathspec 'product' did not match any file(s) known to git
+Already on 'r1qa'
+Switched to a new branch 'product'
+r1dev
+Switched to branch 'r1dev'
+Switched to branch 'r1qa'
+fatal: a branch named 'r1dev' already exists
+r1poc
+Switched to branch 'r1poc'
+Switched to branch 'r1qa'
+fatal: a branch named 'r1poc' already exists
+r1qa
+Already on 'r1qa'
+Already on 'r1qa'
+fatal: a branch named 'r1qa' already exists
+R1Release
+error: pathspec 'R1Release' did not match any file(s) known to git
+Already on 'r1qa'
+Switched to a new branch 'R1Release'
+R1SIT
+Switched to branch 'R1SIT'
+Switched to branch 'r1qa'
+fatal: a branch named 'R1SIT' already exists
+r1trn
+Switched to branch 'r1trn'
+Switched to branch 'r1qa'
+fatal: a branch named 'r1trn' already exists
+r2dev
+Switched to branch 'r2dev'
+Switched to branch 'r1qa'
+fatal: a branch named 'r2dev' already exists
+rob1
+Switched to branch 'rob1'
+Switched to branch 'r1qa'
+fatal: a branch named 'rob1' already exists
+sandeep
+error: pathspec 'sandeep' did not match any file(s) known to git
+Already on 'r1qa'
+Switched to a new branch 'sandeep'
+spreads1
+Switched to branch 'spreads1'
+Switched to branch 'r1qa'
+fatal: a branch named 'spreads1' already exists

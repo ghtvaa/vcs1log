@@ -1,0 +1,34 @@
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Already on 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Error (1): Error authenticating with the refresh token due to: expired access/refresh token

@@ -1,0 +1,34 @@
+match branch with package test1
+echo "amsdev $o1g $o2g $package1" ; git checkout amsdev && sf_retrieve1 && echo sf_add_retrieved1
+echo "amsdev2 $o1g $o2g $package1" ; git checkout amsdev2 && sf_retrieve1 && echo sf_add_retrieved1
+echo "crifmock $o1g $o2g $package1" ; git checkout crifmock && sf_retrieve1 && echo sf_add_retrieved1
+echo "kajal $o1g $o2g $package1" ; git checkout kajal && sf_retrieve1 && echo sf_add_retrieved1
+echo "preprod $o1g $o2g $package1" ; git checkout preprod && sf_retrieve1 && echo sf_add_retrieved1
+echo "product $o1g $o2g $package1" ; git checkout product && sf_retrieve1 && echo sf_add_retrieved1
+echo "r1dev $o1g $o2g $package1" ; git checkout r1dev && sf_retrieve1 && echo sf_add_retrieved1
+echo "r1poc $o1g $o2g $package1" ; git checkout r1poc && sf_retrieve1 && echo sf_add_retrieved1
+echo "r1qa $o1g $o2g $package1" ; git checkout r1qa && sf_retrieve1 && echo sf_add_retrieved1
+echo "R1Release $o1g $o2g $package1" ; git checkout R1Release && sf_retrieve1 && echo sf_add_retrieved1
+echo "R1SIT $o1g $o2g $package1" ; git checkout R1SIT && sf_retrieve1 && echo sf_add_retrieved1
+echo "r1trn $o1g $o2g $package1" ; git checkout r1trn && sf_retrieve1 && echo sf_add_retrieved1
+echo "r2dev $o1g $o2g $package1" ; git checkout r2dev && sf_retrieve1 && echo sf_add_retrieved1
+echo "rob1 $o1g $o2g $package1" ; git checkout rob1 && sf_retrieve1 && echo sf_add_retrieved1
+echo "sandeep $o1g $o2g $package1" ; git checkout sandeep && sf_retrieve1 && echo sf_add_retrieved1
+echo "spreads1 $o1g $o2g $package1" ; git checkout spreads1 && sf_retrieve1 && echo sf_add_retrieved1
+amsdev   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'amsdev'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+On branch amsdev
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Error (1): Parsing --target-org 
+	No authorization information found for --manifest.
+See more help with --help
+amsdev2   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'amsdev2'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml

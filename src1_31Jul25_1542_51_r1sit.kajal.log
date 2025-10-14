@@ -1,0 +1,80 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-11719t2_cro1_package.xml.woUi
+error: pathspec 'kajal' did not match any file(s) known to git
+On branch r1qa
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   force-app/main/default/profiles/SB%26A Branch.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A CCR Compliance.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Fulfillment.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Lending Support.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Readonly.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Registration Team.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Sales.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Sec Ops.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Underwriting.profile-meta.xml
+	modified:   force-app/main/default/profiles/Super User.profile-meta.xml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+	force-app/main/default/flows/BOI_Record_Trigger_Relationship_After_Save.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Trigger_Relationship_Before_Insert.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Triggered_LoanDocument_After_Save.flow-meta.xml
+	force-app/main/default/labels/
+	force-app/main/default/lwc/
+	force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_IsFlow__c.field-meta.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+Terminate batch job (Y/N)? 
+^C

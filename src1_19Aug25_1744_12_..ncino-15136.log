@@ -1,0 +1,3 @@
+Error (1): Parsing --job-id 
+	The id must be 15 or 18 characters.
+See more help with --help

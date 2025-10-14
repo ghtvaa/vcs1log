@@ -1,0 +1,152 @@
+HEAD is now at 266eb31 Fixed tests apex1
+Removing force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls
+Removing force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls-meta.xml
+Removing force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls
+Removing force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls-meta.xml
+Removing force-app/main/default/classes/LightningLoginFormController.cls
+Removing force-app/main/default/classes/LightningLoginFormController.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStats.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStats.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtility.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtility.cls-meta.xml
+On branch spreads1
+nothing to commit, working tree clean
+test_package spreads1 spreads1 /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15009_atest4_package.xml
+Already on 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                      
+| Created CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml             
+| Created CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                  
+| Created CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml         
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls                 
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls-meta.xml        
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls                 
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls-meta.xml        
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls              
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls-meta.xml     
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.spreads1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000lbMjFSAU
+
+Test Failures [14]
+• CM_CRIFGatewayAUEInvokeService.
+  message: line 39, column 57: Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_Callout.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_Callout : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLog.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLog : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+
+Test Results Summary
+Passing: 0
+Failing: 14
+Total: 14
+Error (1): Failed to validate the deployment (0Af9Q00000lbMjFSAU). Due To:
+

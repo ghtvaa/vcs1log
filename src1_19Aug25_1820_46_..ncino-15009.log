@@ -1,0 +1,2020 @@
+All org diff to get changed vs unchanged for:
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+source is 
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Already on 'amsdev'
+On branch amsdev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.amsdev using the v64.0 SOAP API.
+Deploy ID: 0Afbh000007LJejCAG
+
+Validated Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 153
+Failing: 0
+Total: 153
+Time: 188230
+
+Successfully validated the deployment (0Afbh000007LJejCAG).
+Run "sf project deploy quick --job-id 0Afbh000007LJejCAG" to execute this deploy
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'amsdev2' did not match any file(s) known to git
+On branch amsdev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.amsdev2 using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000LSp1uSAD
+
+Validated Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 156
+Failing: 0
+Total: 156
+Time: 204083
+
+Successfully validated the deployment (0AfbY00000LSp1uSAD).
+Run "sf project deploy quick --job-id 0AfbY00000LSp1uSAD" to execute this deploy
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'crifmock' did not match any file(s) known to git
+On branch amsdev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.crifmock using the v64.0 SOAP API.
+Deploy ID: 0Af9V00000nU5xJSAS
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 158
+Failing: 0
+Total: 158
+Time: 226826
+
+Successfully validated the deployment (0Af9V00000nU5xJSAS).
+Run "sf project deploy quick --job-id 0Af9V00000nU5xJSAS" to execute this deploy
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'kajal'
+On branch kajal
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.kajal using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000LSqqnSAD
+Warning: Network error occurred.  Continuing to poll.
+Error (1): Metadata API request failed: request to https://bankofireland--kajal.sandbox.my.salesforce.com/services/Soap/m/64.0 failed, reason: connect EACCES 192.168.170.140:8080
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch kajal
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'preprod'
+On branch preprod
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Error (1): request to https://bankofireland--r1qa.sandbox.my.salesforce.com/services/Soap/m/64.0 failed, reason: connect EACCES 192.168.170.140:8080
+Preparing retrieve request... done
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.preprod using the v64.0 SOAP API.
+Error (1): request to https://bankofireland--preprod.sandbox.my.salesforce.com/services/Soap/m/64.0 failed, reason: connect EACCES 192.168.170.140:8080
+HEAD is now at ea9b889 Org sync for ncino-15009
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'product' did not match any file(s) known to git
+On branch preprod
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Error (1): request to https://bankofireland--r1qa.sandbox.my.salesforce.com/services/Soap/m/64.0 failed, reason: connect EACCES 192.168.170.140:8080
+Preparing retrieve request... done
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com using the v64.0 SOAP API.
+Error (1): request to https://bankofireland.my.salesforce.com/services/Soap/m/64.0 failed, reason: connect EACCES 192.168.170.140:8080
+HEAD is now at ea9b889 Org sync for ncino-15009
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'r1dev'
+On branch r1dev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1dev using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000LSrenSAD
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 158
+Failing: 0
+Total: 158
+Time: 163863
+
+Successfully validated the deployment (0AfbY00000LSrenSAD).
+Run "sf project deploy quick --job-id 0AfbY00000LSrenSAD" to execute this deploy
+HEAD is now at 671ee84 Update trests org
+On branch r1dev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'r1poc'
+On branch r1poc
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1poc using the v64.0 SOAP API.
+Deploy ID: 0Af9M00000ffxyzSAA
+
+Component Failures [2]
+=================================================================================================
+| Type  Name                                Problem                                               
+| ───── ─────────────────────────────────── ───────────────────────────────────────────────────── 
+| Error UserInterfaceRecordOwnerUtilityTest Field does not exist: cm_Staff_ID__c on User (140:24) 
+| Error UserInterfaceRecordOwnerUtilityTest Field does not exist: cm_Staff_ID__c on User          
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9M00000ffxyzSAA). Due To:
+1 component error(s)
+HEAD is now at 242ef05 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/
+On branch r1poc
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'r1qa'
+On branch r1qa
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1qa using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000l1YB3CAM
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 171
+Failing: 0
+Total: 171
+Time: 226630
+
+Successfully validated the deployment (0Af9b00000l1YB3CAM).
+Run "sf project deploy quick --job-id 0Af9b00000l1YB3CAM" to execute this deploy
+HEAD is now at eb98e44 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'R1Release' did not match any file(s) known to git
+On branch r1qa
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1release using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000LSrzmSAD
+
+Test Failures [59]
+• cm_SchedulerMdtController.
+  message: line 161, column 49: Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_ShermanAmortizationData.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationData : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_ShermanAmortizationRecord.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationRecord : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_ShermanInvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanInvokeApexFromFlowController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_ShermanSubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanSubTotal : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_ShermanTestClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTestClone : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_TestDataFactory.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_TestDataFactory : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• cm_UtilitiesTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesLandingController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesLandingControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesSelfRegConfirmController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesSelfRegConfirmControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• CommunitiesSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• ExceptionLogExample.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ExceptionLogExample : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• FinancialUtils.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtils : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• FinancialUtilsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtilsTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• ForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• ForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• InvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class InvokeApexFromFlowController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• LightningForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• LightningForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• LightningSelfRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• LightningSelfRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• MicrobatchSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• MicrobatchSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• MyProfilePageController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• MyProfilePageControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• POC_JWTAuthProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class POC_JWTAuthProvider : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• RouteGroupsWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RouteGroupsWrapper : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_CoreConstants.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_CoreConstants_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants_TEST : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_IntegrationsSelector_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector_TEST : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SEL_IntegrationsTransformService_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService_TEST : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SiteLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SiteLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SiteRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SiteRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• SubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SubTotal : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• Test_v1.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class Test_v1 : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• TestClassTypeProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class TestClassTypeProvider : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UIRemoveGroupController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupController : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UIRemoveGroupControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupControllerTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UserInterfaceDeepClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepClone : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UserInterfaceDeepCloneTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepCloneTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UserInterfaceLookupKeyUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtility : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UserInterfaceLookupKeyUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtilityTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void getCurrentBatchId() from the type cm_BookingBatch
+
+
+Test Results Summary
+Passing: 0
+Failing: 59
+Total: 59
+Error (1): Failed to validate the deployment (0AfbY00000LSrzmSAD). Due To:
+
+HEAD is now at eb98e44 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'R1SIT'
+On branch R1SIT
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1sit using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000l1YHVCA2
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed   LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed   LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 171
+Failing: 0
+Total: 171
+Time: 171165
+
+Successfully validated the deployment (0Af9b00000l1YHVCA2).
+Run "sf project deploy quick --job-id 0Af9b00000l1YHVCA2" to execute this deploy
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch R1SIT
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'r1trn'
+On branch r1trn
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1trn using the v64.0 SOAP API.
+Deploy ID: 0Af9X000011eVFJSA2
+
+Test Failures [36]
+• cm_BookingBatchSchedulerTest.adhocSchedule
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerControllerTest.checkRunningSchedulerTest
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerTest.containsHoliday
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchTest.devCustomerType
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.fieldNameNotLedger
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.getLendingOfficerCodeLocNumberTest
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmount1M
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmount800k
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmountBelow120k
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.LendingAmountZero
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtChildObjAndChildFieldNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtParentObjAndFieldNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtSourceFieldNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.mdtSourceParentChildDateTypeIsNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.parentObjectContainsDot
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchSchedulerControllerTest.runSchedulerTest
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerTest.schedule
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchSchedulerTest.scheduledRunAbort
+  message: System.QueryException: No such column 'cm_nCinoRelationshipNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatch.start: line 70, column 1
+
+• cm_BookingBatchTest.sourceFieldContainMonths
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testCalculateAge
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testChildFieldContainsDot
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testChildFieldNotContainsDot
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testCreateAttachment
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testDebitInterestRate
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testDebitRateCode
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testDropDoubleQoutes
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testFarmLoanAgri
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testFarmLoanNotAgri
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testLegalPrimaryFalse
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testMarketClass
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testMdtDefaultValueNotNull
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testMultiLvlImplementation
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testPopulateLedger
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testSetColumnHeader
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testSuccessBKKBatch
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+• cm_BookingBatchTest.testUpdateLoanFields
+  message: System.QueryException: No such column 'cm_nCinoTradingNameFormula__c' on entity 'Account'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+  stacktrace: 
+    Class.cm_BookingBatchTest: line 26, column 1
+
+
+Test Results Summary
+Passing: 117
+Failing: 36
+Total: 153
+Time: 79872
+ »   Warning: Average test coverage across all Apex Classes and Triggers is 
+ »   68%, at least 75% test coverage is required.
+Error (1): Failed to validate the deployment (0Af9X000011eVFJSA2). Due To:
+Average test coverage across all Apex Classes and Triggers is 68%, at least 75% test coverage is required.
+HEAD is now at 0a18103 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/
+On branch r1trn
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'r2dev'
+On branch r2dev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r2dev using the v64.0 SOAP API.
+Deploy ID: 0AfFg00000Uqt3zKAB
+
+Test Failures [81]
+• CM_CRIFGatewayInvokeService.
+  message: line 36, column 102: Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayOutputWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayOutputWrapper : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayParsingResultOuterWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayParsingResultOuterWrapper : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayParsingResultWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayParsingResultWrapper : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayUtility : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_CRIFInvocable.
+  message: line 63, column 45: InvocableVariable fields do not support type of List<cm_CompanySearchResult>
+
+• CM_DynamicDeleteBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_DynamicDeleteBatch : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_EntityInvBatchDeleteScheduler.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_EntityInvBatchDeleteScheduler : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_EntityInvDeleteBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_EntityInvDeleteBatch : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_CalloutTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_CalloutTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ERS_RequestWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_RequestWrapper : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ERS_ResponseWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_ResponseWrapper : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ERS_WrapperTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_WrapperTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLog.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLog : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLogTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLogTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidor : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidorTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidorTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocable.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocable : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocableTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocableTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatchTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationData.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationData : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationRecord.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationRecord : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ShermanInvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanInvokeApexFromFlowController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ShermanSubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanSubTotal : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_TestDataFactory.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_TestDataFactory : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• createUpdateMetadata.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class createUpdateMetadata : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• DeployCustomMetadata.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class DeployCustomMetadata : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• FinancialUtils.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtils : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• FinancialUtilsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtilsTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• ForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• ForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MyDeployCallback.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyDeployCallback : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MyProfilePageController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MyProfilePageControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MySoapGetPdfMockResponse.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MySoapGetPdfMockResponse : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• MySoapInvokeMockResponse.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MySoapInvokeMockResponse : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• RobLookupKeyResults.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RobLookupKeyResults : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• RouteGroupsWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RouteGroupsWrapper : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants_TEST : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector_TEST : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService_TEST : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SiteLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SiteLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SiteRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• SiteRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• TestClassTypeProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class TestClassTypeProvider : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupController : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupControllerTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepClone : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepCloneTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepCloneTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtility : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtilityTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+• webserviceCgCrifCom.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class webserviceCgCrifCom : Method does not exist or incorrect signature: void getborowerOrCoBorrowerList(Id) from the type CM_CRIFGatewayService
+
+
+Test Results Summary
+Passing: 0
+Failing: 81
+Total: 81
+Error (1): Failed to validate the deployment (0AfFg00000Uqt3zKAB). Due To:
+
+HEAD is now at 453c649 Test fix from r1qa
+On branch r2dev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000ltBpNSAU
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 166
+Failing: 0
+Total: 166
+Time: 243284
+
+Successfully validated the deployment (0Af9Q00000ltBpNSAU).
+Run "sf project deploy quick --job-id 0Af9Q00000ltBpNSAU" to execute this deploy
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'sandeep' did not match any file(s) known to git
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.sandeep using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000LStv7SAD
+
+Test Failures [80]
+• CM_CRIFGatewayAUEInvokeService.
+  message: line 80, column 55: Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayCCRFinalDisplay.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRFinalDisplay : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayCCRGetPDFService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRGetPDFService : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayCCRInvokeService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRInvokeService : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayCCRInvokeServiceTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRInvokeServiceTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayCCRReport.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRReport : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayResponseParser.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayResponseParser : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayService : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_CRIFGatewayUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayUtility : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_ERS_API_Callout.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_Callout : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_ERS_API_CalloutTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_CalloutTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ERS_RequestWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_RequestWrapper : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ERS_ResponseWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_ResponseWrapper : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ERS_WrapperTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_WrapperTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ExceptionLog.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLog : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ExceptionLogTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLogTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_JwtAuthProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidor : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_JwtAuthProvidorTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidorTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_MergeRelationshipInvocable.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocable : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CM_MergeRelationshipInvocableTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocableTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_PortalLoginScreenController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_PortalLoginScreenControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_RCC_CopyTTMtoValidforCalcBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatch : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatchTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ShermanAmortizationData.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationData : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ShermanAmortizationRecord.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationRecord : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ShermanInvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanInvokeApexFromFlowController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ShermanSubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanSubTotal : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_TestDataFactory.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_TestDataFactory : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_Utilities.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_Utilities : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_UtilitiesProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesProvidor : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• cm_UtilitiesTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesLandingController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesLandingControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesSelfRegConfirmController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesSelfRegConfirmControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• CommunitiesSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• FinancialUtils.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtils : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• FinancialUtilsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtilsTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• ForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• ForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• LightningForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• LightningForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• LightningSelfRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• LightningSelfRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• MicrobatchSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• MicrobatchSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• MyProfilePageController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• MyProfilePageControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• MySoapGetPdfMockResponse.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MySoapGetPdfMockResponse : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• MySoapInvokeMockResponse.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MySoapInvokeMockResponse : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• RouteGroupsWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RouteGroupsWrapper : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_CoreConstants.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_CoreConstants_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants_TEST : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_IntegrationsSelector_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector_TEST : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SEL_IntegrationsTransformService_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService_TEST : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SiteLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SiteLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SiteRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• SiteRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• TestClassTypeProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class TestClassTypeProvider : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UIRemoveGroupController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupController : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UIRemoveGroupControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupControllerTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UserInterfaceDeepClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepClone : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UserInterfaceDeepCloneTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepCloneTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UserInterfaceLookupKeyUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtility : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UserInterfaceLookupKeyUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtilityTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void parseResponse(String, String) from the type CM_CRIFGatewayResponseParser
+
+
+Test Results Summary
+Passing: 0
+Failing: 80
+Total: 80
+Error (1): Failed to validate the deployment (0AfbY00000LStv7SAD). Due To:
+
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls
+Removing force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+Removing force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+Removing force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.spreads1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000ltCFBSA2
+
+Test Failures [78]
+• CM_CRIFGatewayAUEInvokeService.
+  message: line 39, column 57: Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayCCRGetPDFService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRGetPDFService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayCCRInvokeService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRInvokeService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayCCRReport.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayCCRReport : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayResponseParser.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayResponseParser : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFPPDocumentUpload.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFPPDocumentUpload : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_Callout.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_Callout : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_CalloutTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_CalloutTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_RequestWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_RequestWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_ResponseWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_ResponseWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_WrapperTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_WrapperTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLogTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLogTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidor : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidorTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidorTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_LoanRequirmentsQuery.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_LoanRequirmentsQuery : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocable.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocable : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocableTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocableTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatchTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationData.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationData : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationRecord.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationRecord : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanInvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanInvokeApexFromFlowController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanSubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanSubTotal : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_SmeRegDeclinePeriodBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_SmeRegDeclinePeriodBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_SmeRegDeclinePeriodBatch_Test.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_SmeRegDeclinePeriodBatch_Test : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_TestDataFactory.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_TestDataFactory : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_Utilities.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_Utilities : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesProvidor : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• FinancialUtilsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtilsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• ForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• ForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• m_CreditDecisionTimerBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class m_CreditDecisionTimerBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MyProfilePageController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MyProfilePageControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RouteGroupsWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RouteGroupsWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• TestClassTypeProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class TestClassTypeProvider : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepClone : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepCloneTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepCloneTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+
+Test Results Summary
+Passing: 0
+Failing: 78
+Total: 78
+Error (1): Failed to validate the deployment (0Af9Q00000ltCFBSA2). Due To:
+

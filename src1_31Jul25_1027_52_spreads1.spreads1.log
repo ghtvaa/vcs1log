@@ -1,0 +1,53 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+Switched to branch 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.spreads1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000lN0lpSAC
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 15
+Failing: 0
+Total: 15
+Time: 44736
+
+Successfully validated the deployment (0Af9Q00000lN0lpSAC).
+Run "sf project deploy quick --job-id 0Af9Q00000lN0lpSAC" to execute this deploy

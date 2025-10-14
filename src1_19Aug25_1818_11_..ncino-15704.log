@@ -1,0 +1,504 @@
+match all branch with package test2
+o1g=amsdev;o2g=amsdev ; echo "amsdev $o1g $o2g $package1" ; git checkout amsdev && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=amsdev2;o2g=amsdev2 ; echo "amsdev2 $o1g $o2g $package1" ; git checkout amsdev2 && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=crifmock;o2g=crifmock ; echo "crifmock $o1g $o2g $package1" ; git checkout crifmock && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=kajal;o2g=kajal ; echo "kajal $o1g $o2g $package1" ; git checkout kajal && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=preprod;o2g=preprod ; echo "preprod $o1g $o2g $package1" ; git checkout preprod && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=product;o2g=product ; echo "product $o1g $o2g $package1" ; git checkout product && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=r1dev;o2g=r1dev ; echo "r1dev $o1g $o2g $package1" ; git checkout r1dev && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=r1poc;o2g=r1poc ; echo "r1poc $o1g $o2g $package1" ; git checkout r1poc && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=r1qa;o2g=r1qa ; echo "r1qa $o1g $o2g $package1" ; git checkout r1qa && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=R1Release;o2g=R1Release ; echo "R1Release $o1g $o2g $package1" ; git checkout R1Release && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=R1SIT;o2g=R1SIT ; echo "R1SIT $o1g $o2g $package1" ; git checkout R1SIT && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=r1trn;o2g=r1trn ; echo "r1trn $o1g $o2g $package1" ; git checkout r1trn && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=r2dev;o2g=r2dev ; echo "r2dev $o1g $o2g $package1" ; git checkout r2dev && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=rob1;o2g=rob1 ; echo "rob1 $o1g $o2g $package1" ; git checkout rob1 && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=sandeep;o2g=sandeep ; echo "sandeep $o1g $o2g $package1" ; git checkout sandeep && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+o1g=spreads1;o2g=spreads1 ; echo "spreads1 $o1g $o2g $package1" ; git checkout spreads1 && sf_tree_clean1 && sf_retrieve1 && sf_add_retrieved1
+amsdev amsdev amsdev /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'amsdev'
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/profiles/Admin.profile-meta.xml
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'amsdev'
+On branch amsdev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.amsdev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[amsdev df6f68b] recent packages
+ 1 file changed, 893 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch amsdev
+nothing to commit, working tree clean
+amsdev2 amsdev2 amsdev2 /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'amsdev2'
+HEAD is now at f3b93f5 recent packages
+On branch amsdev2
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'amsdev2'
+On branch amsdev2
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.amsdev2 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[amsdev2 32be6b8] recent packages
+ 1 file changed, 898 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch amsdev2
+nothing to commit, working tree clean
+crifmock crifmock crifmock /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'crifmock'
+HEAD is now at f3b93f5 recent packages
+On branch crifmock
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'crifmock'
+On branch crifmock
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.crifmock using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[crifmock 9b3c64b] recent packages
+ 1 file changed, 898 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch crifmock
+nothing to commit, working tree clean
+kajal kajal kajal /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'kajal'
+HEAD is now at 5c60f12 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch kajal
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'kajal'
+On branch kajal
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.kajal using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[kajal cbca720] recent packages
+ 1 file changed, 898 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch kajal
+nothing to commit, working tree clean
+preprod preprod preprod /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'preprod'
+HEAD is now at 5896daf classes folder
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'preprod'
+On branch preprod
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.preprod using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[preprod 49297a6] recent packages
+ 1 file changed, 909 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch preprod
+nothing to commit, working tree clean
+product product product /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'product'
+HEAD is now at f3b93f5 recent packages
+On branch product
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'product'
+On branch product
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[product 42e4414] recent packages
+ 1 file changed, 898 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch product
+nothing to commit, working tree clean
+r1dev r1dev r1dev /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1dev'
+HEAD is now at 5896daf classes folder
+On branch r1dev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1dev'
+On branch r1dev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[r1dev 145d04e] recent packages
+ 1 file changed, 902 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch r1dev
+nothing to commit, working tree clean
+r1poc r1poc r1poc /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1poc'
+HEAD is now at 52ae1dd Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch r1poc
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1poc'
+On branch r1poc
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1poc using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[r1poc 225c59d] recent packages
+ 1 file changed, 878 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch r1poc
+nothing to commit, working tree clean
+r1qa r1qa r1qa /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1qa'
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1qa'
+On branch r1qa
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[r1qa 1d06938] recent packages
+ 1 file changed, 888 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch r1qa
+nothing to commit, working tree clean
+R1Release R1Release R1Release /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'R1Release'
+HEAD is now at f3b93f5 recent packages
+On branch R1Release
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'R1Release'
+On branch R1Release
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1release using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[R1Release d603ab0] recent packages
+ 1 file changed, 870 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch R1Release
+nothing to commit, working tree clean
+R1SIT R1SIT R1SIT /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'R1SIT'
+HEAD is now at 5c60f12 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch R1SIT
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'R1SIT'
+On branch R1SIT
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[R1SIT c8b6791] recent packages
+ 1 file changed, 918 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch R1SIT
+nothing to commit, working tree clean
+r1trn r1trn r1trn /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1trn'
+HEAD is now at 5bad2b3 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch r1trn
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1trn'
+On branch r1trn
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1trn using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[r1trn f597de8] recent packages
+ 1 file changed, 878 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch r1trn
+nothing to commit, working tree clean
+r2dev r2dev r2dev /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r2dev'
+HEAD is now at d95b6a4 recent packages
+On branch r2dev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r2dev'
+On branch r2dev
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r2dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[r2dev 996c7c9] recent packages
+ 1 file changed, 913 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch r2dev
+nothing to commit, working tree clean
+rob1 rob1 rob1 /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'rob1'
+HEAD is now at 5bad2b3 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.rob1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[rob1 2951f11] recent packages
+ 1 file changed, 902 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch rob1
+nothing to commit, working tree clean
+sandeep sandeep sandeep /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'sandeep'
+HEAD is now at f3b93f5 recent packages
+On branch sandeep
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'sandeep'
+On branch sandeep
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.sandeep using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[sandeep c503e1e] recent packages
+ 1 file changed, 898 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch sandeep
+nothing to commit, working tree clean
+spreads1 spreads1 spreads1 /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'spreads1'
+HEAD is now at 266eb31 Fixed tests apex1
+On branch spreads1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+[spreads1 5fa2c89] recent packages
+ 1 file changed, 902 insertions(+)
+ create mode 100644 force-app/main/default/profiles/Admin.profile-meta.xml
+On branch spreads1
+nothing to commit, working tree clean

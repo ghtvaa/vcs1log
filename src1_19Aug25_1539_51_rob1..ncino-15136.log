@@ -1,0 +1,75 @@
+HEAD is now at f3b93f5 recent packages
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard/
+Removing force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+Removing force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+Removing force-app/main/default/groups/
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+Removing force-app/main/default/objects/Colleague_Activity__c/
+Removing force-app/main/default/objects/User/
+Removing force-app/main/default/permissionsets/
+Removing force-app/main/default/profiles/Admin.profile-meta.xml
+Removing force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+Removing force-app/main/default/reports/ColleagueActivityReports/
+Removing force-app/main/default/tabs/
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 1: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 2: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 3: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 4: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 5: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 6: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 7: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 8: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 9: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 10: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 11: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 12: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 13: sf_retrieve_validate1: command not found
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+bash: line 14: sf_retrieve_validate1: command not found

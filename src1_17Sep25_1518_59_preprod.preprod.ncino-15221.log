@@ -1,0 +1,205 @@
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15221_enri8g_package.xml
+=== Test Summary
+NAME                 VALUE                      
+───────────────────  ───────────────────────────
+Outcome              Failed                     
+Tests Ran            181                        
+Pass Rate            98%                        
+Fail Rate            2%                         
+Skip Rate            0%                         
+Test Run Id          7079b000018cgbS            
+Test Execution Time  195411 ms                  
+Org Id               00D0E00000057a3UAA         
+Username             rob.mockler@boi.com.preprod
+
+
+=== Test Results
+TEST NAME                                                                                         OUTCOME  MESSAGE                                                                    RUNTIME (MS)
+────────────────────────────────────────────────────────────────────────────────────────────────  ───────  ─────────────────────────────────────────────────────────────────────────  ────────────
+cm_ExceptionLogTest.createlogattachmentfail                                                       Pass                                                                                330         
+cm_ExceptionLogTest.invocableTest                                                                 Pass                                                                                267         
+cm_ExceptionLogTest.invocableTestFail                                                             Pass                                                                                160         
+cm_ExceptionLogTest.log                                                                           Pass                                                                                1097        
+cm_ExceptionLogTest.logErrorCode                                                                  Pass                                                                                227         
+cm_ExceptionLogTest.logException                                                                  Pass                                                                                220         
+cm_ExceptionLogTest.logString                                                                     Pass                                                                                218         
+cm_ExceptionLogTest.logexceptionfail                                                              Pass                                                                                214         
+cm_ExceptionLogTest.service_call                                                                  Pass                                                                                711         
+cm_ExceptionLogTest.service_callFail                                                              Pass                                                                                285         
+cm_ERS_WrapperTest.getUnitTestERSRequestWrapper                                                   Pass                                                                                27          
+cm_ERS_WrapperTest.getUnitTestERSResponseWrapper                                                  Pass                                                                                18          
+cm_AuditLogReportTest.getOrgWideAddressIdTest                                                     Pass                                                                                687         
+cm_AuditLogReportTest.invalidEmailRecipients                                                      Pass                                                                                506         
+CM_CRIFGatewayCCRInvokeServiceTest.Setup                                                          Pass                                                                                6196        
+CM_CRIFGatewayCCRInvokeServiceTest.testCCRForSoleTrader                                           Pass                                                                                609         
+CM_CRIFGatewayCCRInvokeServiceTest.testCCRForUnregPartnership                                     Pass                                                                                2346        
+MyProfilePageControllerTest.testSave                                                              Pass                                                                                1009        
+MicrobatchSelfRegControllerTest.testMicrobatchSelfRegController                                   Pass                                                                                32          
+CM_MergeRelationshipInvocableTest.setupTestData                                                   Pass                                                                                1291        
+CM_MergeRelationshipInvocableTest.testPerformRelationshipMerge                                    Pass                                                                                1054        
+CM_MergeRelationshipInvocableTest.testPerformRelationshipMergeWithException                       Pass                                                                                39          
+cm_AutomaticExposureCalculationtTest.testdatasetup                                                Pass                                                                                517         
+cm_AutomaticExposureCalculationtTest.performExposureCalculation                                   Pass                                                                                271         
+cm_BookingBatchSchedulerTest.adhocSchedule                                                        Pass                                                                                4642        
+cm_BookingBatchSchedulerTest.adhocScheduleFailed                                                  Pass                                                                                345         
+cm_BookingBatchSchedulerTest.containsHoliday                                                      Pass                                                                                9679        
+cm_BookingBatchSchedulerTest.schedule                                                             Pass                                                                                19732       
+cm_BookingBatchSchedulerTest.scheduleFailed                                                       Pass                                                                                445         
+cm_BookingBatchSchedulerTest.scheduleJobExecuteMethodFail                                         Pass                                                                                248         
+cm_BookingBatchSchedulerTest.scheduledRunAbort                                                    Pass                                                                                19132       
+cm_BookingBatchTest.Setup                                                                         Pass                                                                                6639        
+cm_BookingBatchTest.LendingAmount1M                                                               Pass                                                                                1038        
+cm_BookingBatchTest.LendingAmount800k                                                             Pass                                                                                225         
+cm_BookingBatchTest.LendingAmountBelow120k                                                        Pass                                                                                160         
+cm_BookingBatchTest.LendingAmountZero                                                             Pass                                                                                135         
+cm_BookingBatchTest.devCustomerType                                                               Pass                                                                                126         
+cm_BookingBatchTest.fieldNameNotLedger                                                            Pass                                                                                142         
+cm_BookingBatchTest.getLendingOfficerCodeLocNumberTest                                            Pass                                                                                140         
+cm_BookingBatchTest.mdtChildObjAndChildFieldNotNull                                               Pass                                                                                173         
+cm_BookingBatchTest.mdtParentObjAndFieldNotNull                                                   Pass                                                                                699         
+cm_BookingBatchTest.mdtSourceFieldNotNull                                                         Pass                                                                                618         
+cm_BookingBatchTest.mdtSourceParentChildDateTypeIsNull                                            Pass                                                                                132         
+cm_BookingBatchTest.parentObjectContainsDot                                                       Pass                                                                                122         
+cm_BookingBatchTest.sourceFieldContainMonths                                                      Pass                                                                                324         
+cm_BookingBatchTest.testCalculateAge                                                              Pass                                                                                653         
+cm_BookingBatchTest.testChildFieldContainsDot                                                     Pass                                                                                139         
+cm_BookingBatchTest.testChildFieldNotContainsDot                                                  Pass                                                                                284         
+cm_BookingBatchTest.testCreateAttachment                                                          Pass                                                                                581         
+cm_BookingBatchTest.testDebitInterestRate                                                         Pass                                                                                497         
+cm_BookingBatchTest.testDebitRateCode                                                             Pass                                                                                456         
+cm_BookingBatchTest.testDropDoubleQoutes                                                          Pass                                                                                128         
+cm_BookingBatchTest.testFarmLoanAgri                                                              Pass                                                                                326         
+cm_BookingBatchTest.testFarmLoanNotAgri                                                           Pass                                                                                582         
+cm_BookingBatchTest.testLegalPrimaryFalse                                                         Pass                                                                                139         
+cm_BookingBatchTest.testMarketClass                                                               Pass                                                                                323         
+cm_BookingBatchTest.testMdtDefaultValueNotNull                                                    Pass                                                                                139         
+cm_BookingBatchTest.testMultiLvlImplementation                                                    Pass                                                                                303         
+cm_BookingBatchTest.testPopulateLedger                                                            Pass                                                                                155         
+cm_BookingBatchTest.testSetColumnHeader                                                           Pass                                                                                135         
+cm_BookingBatchTest.testSuccessBKKBatch                                                           Pass                                                                                28715       
+cm_BookingBatchTest.testUpdateLoanFields                                                          Pass                                                                                759         
+cm_BookingBatchSchedulerControllerTest.Setup                                                      Pass                                                                                1214        
+cm_BookingBatchSchedulerControllerTest.checkRunningSchedulerTest                                  Pass                                                                                9981        
+cm_BookingBatchSchedulerControllerTest.csvFileLocationTest                                        Pass                                                                                52          
+cm_BookingBatchSchedulerControllerTest.getBookingScheduleTest                                     Pass                                                                                94          
+cm_BookingBatchSchedulerControllerTest.holidayList                                                Pass                                                                                281         
+cm_BookingBatchSchedulerControllerTest.nullHolidayList                                            Pass                                                                                148         
+cm_BookingBatchSchedulerControllerTest.returnHolidayURLTest                                       Pass                                                                                8           
+cm_BookingBatchSchedulerControllerTest.runSchedulerTest                                           Pass                                                                                15402       
+cm_CreditDecisionTimerBatchTest.setupTestData                                                     Fail     System.QueryException: List has more than 1 row for assignment to SObject  
+                                                                                                           Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1                  
+cm_CreditDecisionTimerBatchTest.testBatchExecution                                                Fail     System.QueryException: List has more than 1 row for assignment to SObject  
+                                                                                                           Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1                  
+cm_CreditDecisionTimerBatchTest.testSchedulableExecution                                          Fail     System.QueryException: List has more than 1 row for assignment to SObject  
+                                                                                                           Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1                  
+cm_CreditDecisionTimerBatchTest.testWithNoEligibleLoans                                           Fail     System.QueryException: List has more than 1 row for assignment to SObject  
+                                                                                                           Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1                  
+nCino_ColleagueActivityHelperTest.setupTestData                                                   Pass                                                                                2476        
+nCino_ColleagueActivityHelperTest.testCreateNewActivity                                           Pass                                                                                3243        
+nCino_ColleagueActivityHelperTest.testCreateNewActivity_InvalidLoanId                             Pass                                                                                69          
+nCino_ColleagueActivityHelperTest.testCreateNewActivity_NoClosedActivities                        Pass                                                                                28          
+nCino_ColleagueActivityHelperTest.testUpdateActivityEndTime                                       Pass                                                                                348         
+nCino_ColleagueActivityHelperTest.testUpdateActivityEndTime_NoActiveRecord                        Pass                                                                                18          
+UserInterfaceLookupKeyUtilityTest.lookupKeyTestDriver                                             Pass                                                                                7245        
+UserInterfaceLookupKeyUtilityTest.lookupKeyTestDriver2                                            Pass                                                                                2224        
+UserInterfaceLookupKeyUtilityTest.lookupKeyTestDriver3                                            Pass                                                                                1698        
+UserInterfaceDeepCloneTest.cloneTestDriver                                                        Pass                                                                                5073        
+UserInterfaceDeepCloneTest.cloneTestDriver2                                                       Pass                                                                                2961        
+UserInterfaceDeepCloneTest.cloneTestError2Driver                                                  Pass                                                                                53          
+UserInterfaceDeepCloneTest.cloneTestErrorDriver                                                   Pass                                                                                520         
+UserInterfaceDeepCloneTest.cloneTestKeyErrorDriver                                                Pass                                                                                3109        
+cm_RCC_CopyTTMtoValidforCalcBatchTest.testBatch                                                   Pass                                                                                7139        
+UIRemoveGroupControllerTest.groupRedirectSuccess1                                                 Pass                                                                                2147        
+SiteRegisterControllerTest.testRegistration                                                       Pass                                                                                22          
+UserInterfaceRecordOwnerUtilityTest.setup                                                         Pass                                                                                4667        
+UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver1                                        Pass                                                                                2447        
+UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver2                                        Pass                                                                                2430        
+UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver3                                        Pass                                                                                1195        
+UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver4                                        Pass                                                                                1036        
+CommunitiesLandingControllerTest.testCommunitiesLandingController                                 Pass                                                                                15          
+ChangePasswordControllerTest.testChangePasswordController                                         Pass                                                                                12          
+TestClassTypeProvider.basic                                                                       Pass                                                                                37          
+cm_AWSServiceTest.testERS_RISK_API                                                                Pass                                                                                1822        
+cm_AWSServiceTest.testExportFileInS3                                                              Pass                                                                                566         
+cm_AWSServiceTest.testRetryAWSCall                                                                Pass                                                                                580         
+cm_AWSServiceTest.testRetryAWSCallNotAvailable                                                    Pass                                                                                791         
+SiteLoginControllerTest.testSiteLoginController                                                   Pass                                                                                21          
+CommunitiesSelfRegControllerTest.testCommunitiesSelfRegController                                 Pass                                                                                38          
+RecalculateRelationshipStatsTest.driver                                                           Pass                                                                                237         
+SEL_IntegrationsTransformService_TEST.constructorError                                            Pass                                                                                24          
+SEL_IntegrationsTransformService_TEST.constructorNormal                                           Pass                                                                                52          
+SEL_IntegrationsTransformService_TEST.getEndpoint                                                 Pass                                                                                7           
+SEL_IntegrationsTransformService_TEST.getHeaders                                                  Pass                                                                                6           
+SEL_IntegrationsTransformService_TEST.groupValuesByTypeEndPoint                                   Pass                                                                                8           
+SEL_IntegrationsTransformService_TEST.groupValuesByTypeHeader                                     Pass                                                                                6           
+CommunitiesSelfRegConfirmControllerTest.testCommunitiesSelfRegConfirmController                   Pass                                                                                15          
+CommunitiesLoginControllerTest.testCommunitiesLoginController                                     Pass                                                                                18          
+SEL_IntegrationsSelector_TEST.selectByDeveloperName                                               Pass                                                                                56          
+SEL_CoreConstants_TEST.getUnitTest                                                                Pass                                                                                15          
+FinancialUtilsTest.testCalculateMonthlyPmt                                                        Pass                                                                                18          
+cm_PortalLoginScreenControllerTest.testCaptureURLOnLoad                                           Pass                                                                                53          
+cm_PortalLoginScreenControllerTest.testFinishLoginFlowHome                                        Pass                                                                                2432        
+cm_PortalLoginScreenControllerTest.testUpdateUser                                                 Pass                                                                                1211        
+cm_PortalLoginScreenControllerTest.testWindowsloadFinishLoginFlowHome                             Pass                                                                                1122        
+cm_UtilitiesTest.testAddBussinessDays                                                             Pass                                                                                1359        
+cm_UtilitiesTest.testAddBussinessDaysWeekend                                                      Pass                                                                                117         
+cm_UtilitiesTest.testCalculateAge                                                                 Pass                                                                                10          
+cm_UtilitiesTest.testCalculateAgeFail                                                             Pass                                                                                423         
+cm_UtilitiesTest.testFormatDate                                                                   Pass                                                                                59          
+cm_UtilitiesTest.testGenerateExtraChar                                                            Pass                                                                                4           
+cm_UtilitiesTest.testGenerateExtraCharFail                                                        Pass                                                                                182         
+cm_UtilitiesTest.testGetAllTransformationSetting                                                  Pass                                                                                44          
+cm_UtilitiesTest.testGetMetadataRecords                                                           Pass                                                                                22          
+cm_UtilitiesTest.testGetSettings                                                                  Pass                                                                                100         
+cm_UtilitiesTest.testReplaceReservedKeywords                                                      Pass                                                                                39          
+cm_UtilitiesTest.testReplaceReservedKeywordsFail                                                  Pass                                                                                503         
+cm_UtilitiesTest.testRetainReservedKeywords                                                       Pass                                                                                10          
+cm_UtilitiesTest.testRetainReservedKeywordsFail                                                   Pass                                                                                148         
+CM_JwtAuthProvidorTest.extractJsonField                                                           Pass                                                                                20          
+CM_JwtAuthProvidorTest.requestAccessTokenTest                                                     Pass                                                                                101         
+CM_JwtAuthProvidorTest.requestAccessTokenTestException                                            Pass                                                                                274         
+CM_JwtAuthProvidorTest.requestAccessTokenTestFail                                                 Pass                                                                                683         
+ForgotPasswordControllerTest.testForgotPasswordController                                         Pass                                                                                22          
+CM_CRIFCRDocumentUploadTest.testUpldCROnDocWithNoID                                               Pass                                                                                515         
+CM_CRIFCRDocumentUploadTest.testUpldCROnDocWithNoPH                                               Pass                                                                                2235        
+CM_CRIFCRDocumentUploadTest.testUpldCROndocWithEx                                                 Pass                                                                                202         
+CM_CRIFCRDocumentUploadTest.testUploadCROndoc                                                     Pass                                                                                1117        
+CM_ERS_API_CalloutTest.testdatasetup                                                              Pass                                                                                1087        
+CM_ERS_API_CalloutTest.createInputVar                                                             Pass                                                                                7           
+CM_ERS_API_CalloutTest.performERSCallExceptionTest                                                Pass                                                                                1244        
+CM_ERS_API_CalloutTest.performERSCallFailTest                                                     Pass                                                                                178         
+CM_ERS_API_CalloutTest.performERSCallMockTest                                                     Pass                                                                                11          
+CM_ERS_API_CalloutTest.performERSCallSuccessTest                                                  Pass                                                                                178         
+cm_ShermanTest.testAmortizationData                                                               Pass                                                                                29          
+cm_ShermanTest.testAmortizationRecord                                                             Pass                                                                                9           
+cm_ShermanTest.testShermanCalc                                                                    Pass                                                                                137         
+cm_ShermanTest.testShermanSubTotal                                                                Pass                                                                                9           
+cm_ShermanTest.testWrappers                                                                       Pass                                                                                12          
+CM_CreditActionRequestTest.buildInformation                                                       Pass                                                                                2624        
+CM_CreditActionRequestTest.performActionResponseTest                                              Pass                                                                                48          
+CM_CreditActionRequestTest.performCreditActionTestAsyncFalse                                      Pass                                                                                280         
+CM_CreditActionRequestTest.performCreditActionTestAsyncTrue                                       Pass                                                                                166         
+CM_CRIFDirectorNIndividualWrapperTest.testCM_CRIFDirectorNIndWrap                                 Pass                                                                                34          
+LightningSelfRegisterControllerTest.LightningSelfRegisterControllerInstantiation                  Pass                                                                                20          
+LightningSelfRegisterControllerTest.testGetExtraFieldsInSelfRegistration                          Pass                                                                                55          
+LightningSelfRegisterControllerTest.testGetNonEmptyExtraFields                                    Pass                                                                                6           
+LightningSelfRegisterControllerTest.testGetNullExtraFields                                        Pass                                                                                3           
+LightningSelfRegisterControllerTest.testIsValidPassword                                           Pass                                                                                1           
+LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount                            Pass                                                                                862         
+LightningSelfRegisterControllerTest.testSelfRegisterWithProperCredentials                         Pass                                                                                6           
+LightningSelfRegisterControllerTest.testSelfRegistration                                          Pass                                                                                4           
+LightningSelfRegisterControllerTest.testSiteAsContainerEnabled                                    Pass                                                                                23          
+LightningLoginFormControllerTest.LightningLoginFormControllerInstantiation                        Pass                                                                                14          
+LightningLoginFormControllerTest.testAuthConfig                                                   Pass                                                                                54          
+LightningLoginFormControllerTest.testGetSelfRegistrationURL                                       Pass                                                                                7           
+LightningLoginFormControllerTest.testIsSelfRegistrationEnabled                                    Pass                                                                                8           
+LightningLoginFormControllerTest.testIsUsernamePasswordEnabled                                    Pass                                                                                22          
+LightningLoginFormControllerTest.testLoginWithInvalidCredentials                                  Pass                                                                                4           
+CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDF                                               Pass                                                                                1785        
+CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDFWithErrRes                                     Pass                                                                                586         
+CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDFWithNoID                                       Pass                                                                                320         
+LightningForgotPasswordControllerTest.LightningForgotPasswordControllerInstantiation              Pass                                                                                24          
+LightningForgotPasswordControllerTest.testLightningForgotPasswordControllerInvalidUserName        Pass                                                                                43          
+LightningForgotPasswordControllerTest.testLightningForgotPasswordControllerWithNullCheckEmailRef  Pass                                                                                2           
+

@@ -1,0 +1,99 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-15009_test4_package.xml
+Switched to branch 'r2dev'
+On branch r2dev
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls
+	force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFControllerTest.cls
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFControllerTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapperTest.cls
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapperTest.cls-meta.xml
+	force-app/main/default/classes/cm_CreditDecisionTimerBatch_Test.cls
+	force-app/main/default/classes/cm_CreditDecisionTimerBatch_Test.cls-meta.xml
+	force-app/main/default/classes/cm_RCC_CopyTTMtoValidforCalcBatchTest.cls
+	force-app/main/default/classes/cm_RCC_CopyTTMtoValidforCalcBatchTest.cls-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r2dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+===========================================================================================================================================
+| State   Name                                  Type      Path                                                                              
+| ─────── ───────────────────────────────────── ───────── ───────────────────────────────────────────────────────────────────────────────── 
+| Changed CM_CRIFCRDocumentUploadTest           ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                    
+| Changed CM_CRIFCRDocumentUploadTest           ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml           
+| Changed CM_CRIFCompanyReportPDFControllerTest ApexClass force-app\main\default\classes\CM_CRIFCompanyReportPDFControllerTest.cls          
+| Changed CM_CRIFCompanyReportPDFControllerTest ApexClass force-app\main\default\classes\CM_CRIFCompanyReportPDFControllerTest.cls-meta.xml 
+| Changed CM_CRIFDirectorNIndividualWrapperTest ApexClass force-app\main\default\classes\CM_CRIFDirectorNIndividualWrapperTest.cls          
+| Changed CM_CRIFDirectorNIndividualWrapperTest ApexClass force-app\main\default\classes\CM_CRIFDirectorNIndividualWrapperTest.cls-meta.xml 
+| Created CM_CRIFGatewayCCRInvokeServiceTest    ApexClass force-app\main\default\classes\CM_CRIFGatewayCCRInvokeServiceTest.cls             
+| Created CM_CRIFGatewayCCRInvokeServiceTest    ApexClass force-app\main\default\classes\CM_CRIFGatewayCCRInvokeServiceTest.cls-meta.xml    
+| Changed LightningLoginFormControllerTest      ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls               
+| Changed LightningLoginFormControllerTest      ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml      
+| Changed RecalculateRelationshipStatsTest      ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls               
+| Changed RecalculateRelationshipStatsTest      ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml      
+| Changed UserInterfaceRecordOwnerUtilityTest   ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls            
+| Changed UserInterfaceRecordOwnerUtilityTest   ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml   
+| Changed cm_CreditDecisionTimerBatchTest       ApexClass force-app\main\default\classes\cm_CreditDecisionTimerBatchTest.cls                
+| Changed cm_CreditDecisionTimerBatchTest       ApexClass force-app\main\default\classes\cm_CreditDecisionTimerBatchTest.cls-meta.xml       
+| Changed cm_RCC_CopyTTMtoValidforCalcBatchTest ApexClass force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatchTest.cls          
+| Changed cm_RCC_CopyTTMtoValidforCalcBatchTest ApexClass force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatchTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r2dev using the v64.0 SOAP API.
+Deploy ID: 0AfFg00000UNz1VKAT
+
+Component Failures [32]
+==========================================================================================================================================
+| Type  Name                             Problem                                                                                           
+| ───── ──────────────────────────────── ───────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c (48:27)           
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c (48:27)       
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c (48:27)                     
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c (48:27) 
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c (37:27)           
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c (37:27)       
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c (37:27)                     
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c (37:27) 
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c (26:27)           
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c (26:27)       
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c (26:27)                     
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c (26:27) 
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c (15:27)           
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c (15:27)       
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c (15:27)                     
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c (15:27) 
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c         
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c                             
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c               
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c                   
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c         
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c                             
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c               
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c                   
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c         
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c                             
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c               
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c                   
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Is_Decision_Extension_requested__c on LLC_BI__Product_Package__c         
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_ERSDecision__c on LLC_BI__Product_Package__c                             
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Was_ERS_called_previously__c on LLC_BI__Product_Package__c               
+| Error cm_CreditDecisionTimerBatch_Test Field does not exist: cm_Credit_Decision_Timer__c on LLC_BI__Product_Package__c                   
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0AfFg00000UNz1VKAT). Due To:
+16 component error(s)

@@ -1,0 +1,18 @@
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.r2dev using the v64.0 SOAP API.
+Deploy ID: 0AfFg00000UEsYpKAL
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 4
+Failing: 0
+Total: 4
+Time: 26546
+
+Successfully validated the deployment (0AfFg00000UEsYpKAL).
+Run "sf project deploy quick --job-id 0AfFg00000UEsYpKAL" to execute this deploy

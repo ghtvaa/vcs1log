@@ -1,0 +1,87 @@
+HEAD is now at c8b6791 recent packages
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard/
+Removing force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+Removing force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+Removing force-app/main/default/groups/
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+Removing force-app/main/default/objects/Colleague_Activity__c/
+Removing force-app/main/default/objects/User/
+Removing force-app/main/default/permissionsets/
+Removing force-app/main/default/reports/ColleagueActivityReports/
+Removing force-app/main/default/tabs/
+On branch r1sit
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15009_atests4_package.xml
+Switched to branch 'product'
+On branch product
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.preprod using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                      
+| Changed CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml             
+| Changed CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                  
+| Changed CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml         
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls                 
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls-meta.xml        
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls                 
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls-meta.xml        
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls              
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls-meta.xml     
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com using the v64.0 SOAP API.
+Deploy ID: 0AfaV000000prQTSAY
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created   CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                      
+| Created   CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml             
+| Created   CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                  
+| Created   CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml         
+| Unchanged LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls                 
+| Unchanged LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls-meta.xml        
+| Changed   LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed   LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls                 
+| Unchanged RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls-meta.xml        
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls              
+| Unchanged UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls-meta.xml     
+| Changed   UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed   UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 160
+Failing: 0
+Total: 160
+Time: 257881
+
+Successfully validated the deployment (0AfaV000000prQTSAY).
+Run "sf project deploy quick --job-id 0AfaV000000prQTSAY" to execute this deploy
+Printing the return value successfull 0 \n/c/Users/c139079/Onedri~1/package_xml/ncino-15009_atests4_package.xml

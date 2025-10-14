@@ -1,0 +1,49 @@
+fix sfdx branches
+echo amsdev ; git checkout amsdev
+echo amsdev2 ; git checkout amsdev2
+echo crifmock ; git checkout crifmock
+echo kajal ; git checkout kajal
+echo preprod ; git checkout preprod
+echo product ; git checkout product
+echo r1dev ; git checkout r1dev
+echo r1poc ; git checkout r1poc
+echo r1qa ; git checkout r1qa
+echo R1Release ; git checkout R1Release
+echo R1SIT ; git checkout R1SIT
+echo r1trn ; git checkout r1trn
+echo r2dev ; git checkout r2dev
+echo rob1 ; git checkout rob1
+echo sandeep ; git checkout sandeep
+echo spreads1 ; git checkout spreads1
+amsdev
+Switched to branch 'amsdev'
+amsdev2
+error: pathspec 'amsdev2' did not match any file(s) known to git
+crifmock
+error: pathspec 'crifmock' did not match any file(s) known to git
+kajal
+Switched to branch 'kajal'
+preprod
+Switched to branch 'preprod'
+product
+error: pathspec 'product' did not match any file(s) known to git
+r1dev
+Switched to branch 'r1dev'
+r1poc
+Switched to branch 'r1poc'
+r1qa
+Switched to branch 'r1qa'
+R1Release
+error: pathspec 'R1Release' did not match any file(s) known to git
+R1SIT
+Switched to branch 'R1SIT'
+r1trn
+Switched to branch 'r1trn'
+r2dev
+Switched to branch 'r2dev'
+rob1
+Switched to branch 'rob1'
+sandeep
+error: pathspec 'sandeep' did not match any file(s) known to git
+spreads1
+Switched to branch 'spreads1'

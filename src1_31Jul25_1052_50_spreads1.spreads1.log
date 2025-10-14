@@ -1,0 +1,60 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-15009_test4_package.xml
+Already on 'spreads1'
+On branch spreads1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/LightningLoginFormControllerTest.cls
+	force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+	force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+	force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+	force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+	force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+===========================================================================================================================================
+| State   Name                                  Type      Path                                                                              
+| ─────── ───────────────────────────────────── ───────── ───────────────────────────────────────────────────────────────────────────────── 
+| Created CM_CRIFCRDocumentUploadTest           ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                    
+| Created CM_CRIFCRDocumentUploadTest           ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml           
+| Created CM_CRIFCompanyReportPDFControllerTest ApexClass force-app\main\default\classes\CM_CRIFCompanyReportPDFControllerTest.cls          
+| Created CM_CRIFCompanyReportPDFControllerTest ApexClass force-app\main\default\classes\CM_CRIFCompanyReportPDFControllerTest.cls-meta.xml 
+| Created CM_CRIFDirectorNIndividualWrapperTest ApexClass force-app\main\default\classes\CM_CRIFDirectorNIndividualWrapperTest.cls          
+| Created CM_CRIFDirectorNIndividualWrapperTest ApexClass force-app\main\default\classes\CM_CRIFDirectorNIndividualWrapperTest.cls-meta.xml 
+| Changed LightningLoginFormControllerTest      ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls               
+| Changed LightningLoginFormControllerTest      ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml      
+| Changed RecalculateRelationshipStatsTest      ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls               
+| Changed RecalculateRelationshipStatsTest      ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml      
+| Changed UserInterfaceRecordOwnerUtilityTest   ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls            
+| Changed UserInterfaceRecordOwnerUtilityTest   ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml   
+| Created cm_CreditDecisionTimerBatch_Test      ApexClass force-app\main\default\classes\cm_CreditDecisionTimerBatch_Test.cls               
+| Created cm_CreditDecisionTimerBatch_Test      ApexClass force-app\main\default\classes\cm_CreditDecisionTimerBatch_Test.cls-meta.xml      
+| Created cm_RCC_CopyTTMtoValidforCalcBatchTest ApexClass force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatchTest.cls          
+| Created cm_RCC_CopyTTMtoValidforCalcBatchTest ApexClass force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatchTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.spreads1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000lMuDOSA0
+
+Component Failures [3]
+===========================================================================================================================================================================
+| Type  Name                               Problem                                                                                                                          
+| ───── ────────────────────────────────── ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error CM_CRIFGatewayCCRInvokeServiceTest An object 'CM_CRIFGatewayCCRInvokeServiceTest' of type ApexClass was named in package.xml, but was not found in zipped directory 
+| Error cm_CreditDecisionTimerBatchTest    An object 'cm_CreditDecisionTimerBatchTest' of type ApexClass was named in package.xml, but was not found in zipped directory    
+| Error nCino_ColleagueActivityHelperTest  An object 'nCino_ColleagueActivityHelperTest' of type ApexClass was named in package.xml, but was not found in zipped directory  
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9Q00000lMuDOSA0). Due To:
+3 component error(s)

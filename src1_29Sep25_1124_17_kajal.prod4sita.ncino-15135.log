@@ -1,0 +1,88 @@
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/PersonsonAccount_Layout.flexipage-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Total_BKK_Exposure__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Total_CCR_External_Exposure__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_CCRContractCode__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_CIPCodeEncrypted__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_CreditLimit__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_Dateoflastpayment__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_FinancedAmount__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_NextPaymentDate__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_OutstandingBalance__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_PaymentFrequencyDesc__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_PaymentFrequency__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_StartDate__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_TotalNumberOfPlannedPayments__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Product_Line__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Product_Type__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Product__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Stage__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Product_Package__c/
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-15135b_testdatagenerator_final_package.xml
+error: pathspec 'prod4sita' did not match any file(s) known to git
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.kajal using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+======================================================================================================================================================
+| State   Name                                        Type      Path                                                                                   
+| ─────── ─────────────────────────────────────────── ───────── ────────────────────────────────────────────────────────────────────────────────────── 
+| Created Test_Data_Generator                         CustomTab force-app\main\default\tabs\Test_Data_Generator.tab-meta.xml                           
+| Created Test_Data_Generator                         FlexiPage force-app\main\default\flexipages\Test_Data_Generator.flexipage-meta.xml               
+| Created BOI_Screen_Flow_CIE_log_Test_Data_Generator Flow      force-app\main\default\flows\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml 
+| Created BOI_Screenflow_Create_Test_Data             Flow      force-app\main\default\flows\BOI_Screenflow_Create_Test_Data.flow-meta.xml             
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.prod4sita using the v64.0 SOAP API.
+Deploy ID: 0Afbh000007fExRCAU
+
+Validated Source
+======================================================================================================================================================
+| State   Name                                        Type      Path                                                                                   
+| ─────── ─────────────────────────────────────────── ───────── ────────────────────────────────────────────────────────────────────────────────────── 
+| Created Test_Data_Generator                         CustomTab force-app\main\default\tabs\Test_Data_Generator.tab-meta.xml                           
+| Created Test_Data_Generator                         FlexiPage force-app\main\default\flexipages\Test_Data_Generator.flexipage-meta.xml               
+| Created BOI_Screen_Flow_CIE_log_Test_Data_Generator Flow      force-app\main\default\flows\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml 
+| Created BOI_Screenflow_Create_Test_Data             Flow      force-app\main\default\flows\BOI_Screenflow_Create_Test_Data.flow-meta.xml             
+
+Test Results Summary
+Passing: 156
+Failing: 0
+Total: 156
+Time: 241074
+
+Successfully validated the deployment (0Afbh000007fExRCAU).
+Run "sf project deploy quick --job-id 0Afbh000007fExRCAU" to execute this deploy
+Printing the return value successfull 0 \n/c/Users/c139079/Onedri~1/package_xml/ncino-15135b_testdatagenerator_final_package.xml

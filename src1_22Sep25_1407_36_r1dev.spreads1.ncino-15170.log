@@ -1,0 +1,41 @@
+HEAD is now at b6b86bc recent packages
+Removing force-app/main/default/flexipages/Coll_Mgmt_Real_Estate_ecb.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Coll_Mgmt_Standard.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Collateral_Valuation_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/LED_Record_Page.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Linked_Debt_Record_Page.flexipage-meta.xml
+Removing force-app/main/default/flows/BOI_Autolaunched_Auto_Collateral_Pledged.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Autolaunched_Summary_of_Linked_Debts_Amount.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Record_Trigger_Application_After_Save.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Record_Trigger_Loan_Update_Mandatory_Flow.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Screen_Flow_Linked_Debts_to_LTV.flow-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Collate_Borrowing_Entity_ID__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Collate_Legal_Entity_ID__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Portfolio_Loan_to_Value__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_TotalCollaterallendableValue__c.field-meta.xml
+Removing force-app/main/default/objects/BOI_LinkedDebt__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Group__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Type__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Valuation__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Loan_Collateral2__c/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fieldSets/LLC_BI__UI_Collateral_Summary.fieldSet-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_OtherLoanforLinkedDebtotLTV__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_ProductExposureFilter__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_SumofLinkedDebtsAmount__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_TotalExposureforTransactionalLTV__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_TransactionalLTV__c.field-meta.xml
+Removing force-app/main/default/objects/cm_ConnectedLED__c/
+Removing force-app/main/default/objects/cm_LED__c/
+Removing force-app/main/default/quickActions/LLC_BI__Loan__c.cm_LinkDebtstoLTV.quickAction-meta.xml
+On branch luke
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15170_test1_package.xml
+Switched to branch 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JError (1): The specified metadata type is unsupported: [uiformatspecificationset]
+Preparing retrieve request... done
+Error (1): The specified metadata type is unsupported: [uiformatspecificationset]

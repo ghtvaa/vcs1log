@@ -1,0 +1,65 @@
+HEAD is now at 5896daf classes folder
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd4_admin_package.xml
+Switched to branch 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JRetrieving v64.0 metadata from rob.mockler@boi.com.crifmock using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Created Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000lt4JGSAY
+
+Component Failures [27]
+==============================================================================================================================================================================================================================
+| Type  Name                                                           Problem                                                                                                                                                 
+| ───── ────────────────────────────────────────────────────────────── ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error nCino_ColleagueActivityHelper                                  An object 'nCino_ColleagueActivityHelper' of type ApexClass was named in package.xml, but was not found in zipped directory                             
+| Error nCino_ColleagueActivityHelperTest                              An object 'nCino_ColleagueActivityHelperTest' of type ApexClass was named in package.xml, but was not found in zipped directory                         
+| Error Colleague_Activity__c.Colleague__c                             An object 'Colleague_Activity__c.Colleague__c' of type CustomField was named in package.xml, but was not found in zipped directory                      
+| Error Colleague_Activity__c.End_DateTime__c                          An object 'Colleague_Activity__c.End_DateTime__c' of type CustomField was named in package.xml, but was not found in zipped directory                   
+| Error Colleague_Activity__c.Loan__c                                  An object 'Colleague_Activity__c.Loan__c' of type CustomField was named in package.xml, but was not found in zipped directory                           
+| Error Colleague_Activity__c.Profile__c                               An object 'Colleague_Activity__c.Profile__c' of type CustomField was named in package.xml, but was not found in zipped directory                        
+| Error Colleague_Activity__c.Stage__c                                 An object 'Colleague_Activity__c.Stage__c' of type CustomField was named in package.xml, but was not found in zipped directory                          
+| Error Colleague_Activity__c.Start_DateTime__c                        An object 'Colleague_Activity__c.Start_DateTime__c' of type CustomField was named in package.xml, but was not found in zipped directory                 
+| Error Colleague_Activity__c.Time__c                                  An object 'Colleague_Activity__c.Time__c' of type CustomField was named in package.xml, but was not found in zipped directory                           
+| Error User.Ongoing_Colleague_Activity_Tracker__c                     An object 'User.Ongoing_Colleague_Activity_Tracker__c' of type CustomField was named in package.xml, but was not found in zipped directory              
+| Error Colleague_Activity__c                                          An object 'Colleague_Activity__c' of type CustomObject was named in package.xml, but was not found in zipped directory                                  
+| Error Colleague_Activity__c                                          An object 'Colleague_Activity__c' of type CustomTab was named in package.xml, but was not found in zipped directory                                     
+| Error ColleagueActivityDashboard                                     An object 'ColleagueActivityDashboard' of type Dashboard was named in package.xml, but was not found in zipped directory                                
+| Error ColleagueActivityDashboard/POhhYpciCCElDzowAlamqKSUORWAOd      An object 'ColleagueActivityDashboard/POhhYpciCCElDzowAlamqKSUORWAOd' of type Dashboard was named in package.xml, but was not found in zipped directory 
+| Error Colleague_Activity                                             An object 'Colleague_Activity' of type FlexiPage was named in package.xml, but was not found in zipped directory                                        
+| Error nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change An object 'nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change' of type Flow was named in package.xml, but was not found in zipped directory 
+| Error nCino_Loan_Page_Colleague_Activity_Tracker                     An object 'nCino_Loan_Page_Colleague_Activity_Tracker' of type Flow was named in package.xml, but was not found in zipped directory                     
+| Error nCino_Tracker_Dashboards                                       An object 'nCino_Tracker_Dashboards' of type Group was named in package.xml, but was not found in zipped directory                                      
+| Error Colleague_Activity__c-Colleague Activity Layout                An object 'Colleague_Activity__c-Colleague Activity Layout' of type Layout was named in package.xml, but was not found in zipped directory              
+| Error nCino_ColleagueActivityTrackerUtility                          An object 'nCino_ColleagueActivityTrackerUtility' of type LightningComponentBundle was named in package.xml, but was not found in zipped directory      
+| Error Colleague_Activity__c.All                                      An object 'Colleague_Activity__c.All' of type ListView was named in package.xml, but was not found in zipped directory                                  
+| Error nCino_Tracker_Admin                                            An object 'nCino_Tracker_Admin' of type PermissionSet was named in package.xml, but was not found in zipped directory                                   
+| Error nCino_Tracker_User                                             An object 'nCino_Tracker_User' of type PermissionSet was named in package.xml, but was not found in zipped directory                                    
+| Error ColleagueActivityReports                                       An object 'ColleagueActivityReports' of type Report was named in package.xml, but was not found in zipped directory                                     
+| Error ColleagueActivityReports/Average_Time_Per_Loan_eET             An object 'ColleagueActivityReports/Average_Time_Per_Loan_eET' of type Report was named in package.xml, but was not found in zipped directory           
+| Error ColleagueActivityReports/Average_Time_per_Role_OA6             An object 'ColleagueActivityReports/Average_Time_per_Role_OA6' of type Report was named in package.xml, but was not found in zipped directory           
+| Error ColleagueActivityReports/Average_Time_per_Stage_FR1            An object 'ColleagueActivityReports/Average_Time_per_Stage_FR1' of type Report was named in package.xml, but was not found in zipped directory          
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9Q00000lt4JGSAY). Due To:
+27 component error(s)

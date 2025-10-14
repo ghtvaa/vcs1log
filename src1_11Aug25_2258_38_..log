@@ -1,0 +1,55 @@
+missing metadata /c/devops/wkr2/vsc1/sfdx1
+flow:BOI_Autolaunched_ERS_Validation
+On branch rob1
+nothing to commit, working tree clean
+Retrieving v64.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+
+Retrieved Source
+=========================================================================================================================
+| State   Name                            Type Path                                                                       
+| ─────── ─────────────────────────────── ──── ────────────────────────────────────────────────────────────────────────── 
+| Created BOI_Autolaunched_ERS_Validation Flow force-app\main\default\flows\BOI_Autolaunched_ERS_Validation.flow-meta.xml 
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9V00000nFdknSAC
+
+Test Failures [6]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver1
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver2
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver3
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver4
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+
+Test Results Summary
+Passing: 150
+Failing: 6
+Total: 156
+Time: 215423

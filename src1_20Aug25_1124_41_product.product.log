@@ -1,0 +1,233 @@
+HEAD is now at cd0298b Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Coll_Mgmt_Real_Estate_ecb.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Coll_Mgmt_Standard.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Collateral_Valuation_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/LED_Record_Page.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Linked_Debt_Record_Page.flexipage-meta.xml
+Removing force-app/main/default/flows/BOI_Autolaunched_Auto_Collateral_Pledged.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Autolaunched_Summary_of_Linked_Debts_Amount.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Record_Trigger_Application_After_Save.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Record_Trigger_Loan_Update_Mandatory_Flow.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Screen_Flow_Linked_Debts_to_LTV.flow-meta.xml
+Removing force-app/main/default/flows/Update_Collateral_Lendable_Value_on_Account.flow-meta.xml
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Loan_Creation_2.flow-meta.xml
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/objects/Account/fieldSets/
+Removing force-app/main/default/objects/Account/fields/Is_Blank_EBITA__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_LegalEntityId__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Portfolio_Loan_to_Value__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_TotalCollaterallendableValue__c.field-meta.xml
+Removing force-app/main/default/objects/BOI_LinkedDebt__c/
+Removing force-app/main/default/objects/LLC_BI__Account_Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Group__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Type__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Valuation__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Loan_Collateral2__c/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fieldSets/LLC_BI__UI_Collateral_Summary.fieldSet-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_OtherLoanforLinkedDebtotLTV__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_ProductExposureFilter__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_SumofLinkedDebtsAmount__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_TotalExposureforTransactionalLTV__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_TransactionalLTV__c.field-meta.xml
+Removing force-app/main/default/objects/cm_ConnectedLED__c/
+Removing force-app/main/default/objects/cm_LED__c/
+Removing force-app/main/default/quickActions/
+Removing force-app/main/default/tabs/
+On branch spreads1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-12401_esg1_package.xml
+error: pathspec 'product' did not match any file(s) known to git
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+================================================================================================================================================================================================================================================
+| State   Name                                                                           Type          Path                                                                                                                                      
+| ─────── ────────────────────────────────────────────────────────────────────────────── ───────────── ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created LLC_BI__Collateral__c.Collateral_Management_Layout                             CompactLayout force-app\main\default\objects\LLC_BI__Collateral__c\compactLayouts\Collateral_Management_Layout.compactLayout-meta.xml                   
+| Created LLC_BI__Account_Collateral__c.LLC_BI__Collateral_Association__c                CustomField   force-app\main\default\objects\LLC_BI__Account_Collateral__c\fields\LLC_BI__Collateral_Association__c.field-meta.xml                      
+| Created LLC_BI__Collateral_Type__c.LLC_BI__Subtype__c                                  CustomField   force-app\main\default\objects\LLC_BI__Collateral_Type__c\fields\LLC_BI__Subtype__c.field-meta.xml                                        
+| Created LLC_BI__Collateral_Type__c.LLC_BI__Type__c                                     CustomField   force-app\main\default\objects\LLC_BI__Collateral_Type__c\fields\LLC_BI__Type__c.field-meta.xml                                           
+| Created LLC_BI__Collateral_Valuation__c.LLC_BI__Type__c                                CustomField   force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\fields\LLC_BI__Type__c.field-meta.xml                                      
+| Created LLC_BI__Collateral__c.Energy_Rating_Score__c                                   CustomField   force-app\main\default\objects\LLC_BI__Collateral__c\fields\Energy_Rating_Score__c.field-meta.xml                                         
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Type__c                               CustomField   force-app\main\default\objects\LLC_BI__Collateral__c\fields\LLC_BI__Collateral_Type__c.field-meta.xml                                     
+| Created LLC_BI__Collateral__c.LLC_BI__Status__c                                        CustomField   force-app\main\default\objects\LLC_BI__Collateral__c\fields\LLC_BI__Status__c.field-meta.xml                                              
+| Created Account.LLC_BI__Collateral_Relationship_Association                            FieldSet      force-app\main\default\objects\Account\fieldSets\LLC_BI__Collateral_Relationship_Association.fieldSet-meta.xml                            
+| Created LLC_BI__Account_Collateral__c.LLC_BI__Individual_Collateral_Ownership_Creation FieldSet      force-app\main\default\objects\LLC_BI__Account_Collateral__c\fieldSets\LLC_BI__Individual_Collateral_Ownership_Creation.fieldSet-meta.xml 
+| Created LLC_BI__Collateral_Valuation__c.LLC_BI__Collateral_Valuation_Default           FieldSet      force-app\main\default\objects\LLC_BI__Collateral_Valuation__c\fieldSets\LLC_BI__Collateral_Valuation_Default.fieldSet-meta.xml           
+| Created LLC_BI__Collateral__c.Collateral_Valuation_Real_Estate                         FieldSet      force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\Collateral_Valuation_Real_Estate.fieldSet-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Creation_Display_List                 FieldSet      force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\LLC_BI__Collateral_Creation_Display_List.fieldSet-meta.xml                 
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Creation_Screen_Configuration         FieldSet      force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\LLC_BI__Collateral_Creation_Screen_Configuration.fieldSet-meta.xml         
+| Created LLC_BI__Collateral__c.LLC_BI__Pledge_Card_Details                              FieldSet      force-app\main\default\objects\LLC_BI__Collateral__c\fieldSets\LLC_BI__Pledge_Card_Details.fieldSet-meta.xml                              
+| Created LLC_BI__Loan_Collateral2__c.LLC_BI__UI_Collateral_Record_Schedule              FieldSet      force-app\main\default\objects\LLC_BI__Loan_Collateral2__c\fieldSets\LLC_BI__UI_Collateral_Record_Schedule.fieldSet-meta.xml              
+| Created LLC_BI__Loan__c.LLC_BI__UI_Collateral_Summary                                  FieldSet      force-app\main\default\objects\LLC_BI__Loan__c\fieldSets\LLC_BI__UI_Collateral_Summary.fieldSet-meta.xml                                  
+| Created Business_Relationship_Layout                                                   FlexiPage     force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml                                                         
+| Created Coll_Mgmt_Real_Estate_ecb                                                      FlexiPage     force-app\main\default\flexipages\Coll_Mgmt_Real_Estate_ecb.flexipage-meta.xml                                                            
+| Created Collateral_Valuation_Layout                                                    FlexiPage     force-app\main\default\flexipages\Collateral_Valuation_Layout.flexipage-meta.xml                                                          
+| Created BOI_Record_Trigger_Application_After_Save                                      Flow          force-app\main\default\flows\BOI_Record_Trigger_Application_After_Save.flow-meta.xml                                                      
+| Changed BOI_Record_Trigger_Loan_After_Save                                             Flow          force-app\main\default\flows\BOI_Record_Trigger_Loan_After_Save.flow-meta.xml                                                             
+| Created BOI_Record_Trigger_Loan_Update_Mandatory_Flow                                  Flow          force-app\main\default\flows\BOI_Record_Trigger_Loan_Update_Mandatory_Flow.flow-meta.xml                                                  
+| Created nCino_CM_Screen_Flow_Loan_Creation_2                                           Flow          force-app\main\default\flows\nCino_CM_Screen_Flow_Loan_Creation_2.flow-meta.xml                                                           
+| Created LLC_BI__Collateral__c-LLC_BI__Real Estate                                      Layout        force-app\main\default\layouts\LLC_BI__Collateral__c-LLC_BI__Real Estate.layout-meta.xml                                                  
+| Changed SB%26A Branch                                                                  Profile       force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                                                                            
+| Changed SB%26A CCR Compliance                                                          Profile       force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                                                                    
+| Changed SB%26A Fulfillment                                                             Profile       force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                                       
+| Changed SB%26A Lending Support                                                         Profile       force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                                                   
+| Changed SB%26A Readonly                                                                Profile       force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                                          
+| Changed SB%26A Registration Team                                                       Profile       force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                                                 
+| Changed SB%26A Sales                                                                   Profile       force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                                             
+| Changed SB%26A Sec Ops                                                                 Profile       force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                                           
+| Changed SB%26A Underwriting                                                            Profile       force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                                      
+| Changed Super User                                                                     Profile       force-app\main\default\profiles\Super User.profile-meta.xml                                                                               
+| Created LLC_BI__Collateral__c.Financials                                               RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\Financials.recordType-meta.xml                                           
+| Created LLC_BI__Collateral__c.Guarantee                                                RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\Guarantee.recordType-meta.xml                                            
+| Created LLC_BI__Collateral__c.LLC_BI__Government_Contracts                             RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Government_Contracts.recordType-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Group                                            RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Group.recordType-meta.xml                                        
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Letter_of_Credit                      RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Letter_of_Credit.recordType-meta.xml                  
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Life_Insurance                        RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Life_Insurance.recordType-meta.xml                    
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Other                                 RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Other.recordType-meta.xml                             
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Savings_CD                            RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Savings_CD.recordType-meta.xml                        
+| Created LLC_BI__Collateral__c.LLC_BI__Possessory_Securities                            RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Possessory_Securities.recordType-meta.xml                        
+| Created LLC_BI__Collateral__c.LLC_BI__Real_Estate                                      RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Real_Estate.recordType-meta.xml                                  
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Aircraft                                  RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Aircraft.recordType-meta.xml                              
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Boat                                      RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Boat.recordType-meta.xml                                  
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Mobile_Home                               RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Mobile_Home.recordType-meta.xml                           
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Motor_Vehicle                             RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Motor_Vehicle.recordType-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Trailer_Other                             RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Trailer_Other.recordType-meta.xml                         
+| Created LLC_BI__Collateral__c.LLC_BI__Titled_Vessel                                    RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__Titled_Vessel.recordType-meta.xml                                
+| Created LLC_BI__Collateral__c.LLC_BI__UCC                                              RecordType    force-app\main\default\objects\LLC_BI__Collateral__c\recordTypes\LLC_BI__UCC.recordType-meta.xml                                          
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com using the v64.0 SOAP API.
+Deploy ID: 0AfaV000000pq4bSAA
+
+Component Failures [69]
+=============================================================================================================================================================================================================================================
+| Type  Name                                                               Problem                                                                                                                                                            
+| ───── ────────────────────────────────────────────────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error LLC_BI__Collateral__c.Collateral_Group_Layout                      An object 'LLC_BI__Collateral__c.Collateral_Group_Layout' of type CompactLayout was named in package.xml, but was not found in zipped directory                    
+| Error Account.Is_Blank_EBITA__c                                          An object 'Account.Is_Blank_EBITA__c' of type CustomField was named in package.xml, but was not found in zipped directory                                          
+| Error Account.cm_LegalEntityId__c                                        An object 'Account.cm_LegalEntityId__c' of type CustomField was named in package.xml, but was not found in zipped directory                                        
+| Error Account.cm_Portfolio_Loan_to_Value__c                              An object 'Account.cm_Portfolio_Loan_to_Value__c' of type CustomField was named in package.xml, but was not found in zipped directory                              
+| Error Account.cm_TotalCollaterallendableValue__c                         An object 'Account.cm_TotalCollaterallendableValue__c' of type CustomField was named in package.xml, but was not found in zipped directory                         
+| Error BOI_LinkedDebt__c.cm_ChildLoan__c                                  An object 'BOI_LinkedDebt__c.cm_ChildLoan__c' of type CustomField was named in package.xml, but was not found in zipped directory                                  
+| Error BOI_LinkedDebt__c.cm_LinkedDebtName__c                             An object 'BOI_LinkedDebt__c.cm_LinkedDebtName__c' of type CustomField was named in package.xml, but was not found in zipped directory                             
+| Error BOI_LinkedDebt__c.cm_ParentLoan__c                                 An object 'BOI_LinkedDebt__c.cm_ParentLoan__c' of type CustomField was named in package.xml, but was not found in zipped directory                                 
+| Error LLC_BI__Collateral_Group__c.cm_AssociatedCollateralAddress__c      An object 'LLC_BI__Collateral_Group__c.cm_AssociatedCollateralAddress__c' of type CustomField was named in package.xml, but was not found in zipped directory      
+| Error LLC_BI__Collateral_Group__c.cm_AssociatedCollateralType__c         An object 'LLC_BI__Collateral_Group__c.cm_AssociatedCollateralType__c' of type CustomField was named in package.xml, but was not found in zipped directory         
+| Error LLC_BI__Collateral_Group__c.cm_AssociatedCollateralValue__c        An object 'LLC_BI__Collateral_Group__c.cm_AssociatedCollateralValue__c' of type CustomField was named in package.xml, but was not found in zipped directory        
+| Error LLC_BI__Collateral_Valuation__c.cm_OtherCurrencyValuationAmount__c An object 'LLC_BI__Collateral_Valuation__c.cm_OtherCurrencyValuationAmount__c' of type CustomField was named in package.xml, but was not found in zipped directory 
+| Error LLC_BI__Collateral_Valuation__c.cm_ValuationCurrency__c            An object 'LLC_BI__Collateral_Valuation__c.cm_ValuationCurrency__c' of type CustomField was named in package.xml, but was not found in zipped directory            
+| Error LLC_BI__Collateral__c.Collateral_Address__c                        An object 'LLC_BI__Collateral__c.Collateral_Address__c' of type CustomField was named in package.xml, but was not found in zipped directory                        
+| Error LLC_BI__Collateral__c.cm_BIPSID1__c                                An object 'LLC_BI__Collateral__c.cm_BIPSID1__c' of type CustomField was named in package.xml, but was not found in zipped directory                                
+| Error LLC_BI__Collateral__c.cm_BIPSID2__c                                An object 'LLC_BI__Collateral__c.cm_BIPSID2__c' of type CustomField was named in package.xml, but was not found in zipped directory                                
+| Error LLC_BI__Collateral__c.cm_BaselEligibleFlag__c                      An object 'LLC_BI__Collateral__c.cm_BaselEligibleFlag__c' of type CustomField was named in package.xml, but was not found in zipped directory                      
+| Error LLC_BI__Collateral__c.cm_BuildingQuality__c                        An object 'LLC_BI__Collateral__c.cm_BuildingQuality__c' of type CustomField was named in package.xml, but was not found in zipped directory                        
+| Error LLC_BI__Collateral__c.cm_CollateAssetID__c                         An object 'LLC_BI__Collateral__c.cm_CollateAssetID__c' of type CustomField was named in package.xml, but was not found in zipped directory                         
+| Error LLC_BI__Collateral__c.cm_Collateral_Address__c                     An object 'LLC_BI__Collateral__c.cm_Collateral_Address__c' of type CustomField was named in package.xml, but was not found in zipped directory                     
+| Error LLC_BI__Collateral__c.cm_DisplayInformation__c                     An object 'LLC_BI__Collateral__c.cm_DisplayInformation__c' of type CustomField was named in package.xml, but was not found in zipped directory                     
+| Error LLC_BI__Collateral__c.cm_FamilyHome__c                             An object 'LLC_BI__Collateral__c.cm_FamilyHome__c' of type CustomField was named in package.xml, but was not found in zipped directory                             
+| Error LLC_BI__Collateral__c.cm_FolioNumber__c                            An object 'LLC_BI__Collateral__c.cm_FolioNumber__c' of type CustomField was named in package.xml, but was not found in zipped directory                            
+| Error LLC_BI__Collateral__c.cm_FreeholdorLease__c                        An object 'LLC_BI__Collateral__c.cm_FreeholdorLease__c' of type CustomField was named in package.xml, but was not found in zipped directory                        
+| Error LLC_BI__Collateral__c.cm_Guarantee_Recourse_Code__c                An object 'LLC_BI__Collateral__c.cm_Guarantee_Recourse_Code__c' of type CustomField was named in package.xml, but was not found in zipped directory                
+| Error LLC_BI__Collateral__c.cm_IPRE__c                                   An object 'LLC_BI__Collateral__c.cm_IPRE__c' of type CustomField was named in package.xml, but was not found in zipped directory                                   
+| Error LLC_BI__Collateral__c.cm_IndexType__c                              An object 'LLC_BI__Collateral__c.cm_IndexType__c' of type CustomField was named in package.xml, but was not found in zipped directory                              
+| Error LLC_BI__Collateral__c.cm_LEDID__c                                  An object 'LLC_BI__Collateral__c.cm_LEDID__c' of type CustomField was named in package.xml, but was not found in zipped directory                                  
+| Error LLC_BI__Collateral__c.cm_LandAreaCode__c                           An object 'LLC_BI__Collateral__c.cm_LandAreaCode__c' of type CustomField was named in package.xml, but was not found in zipped directory                           
+| Error LLC_BI__Collateral__c.cm_LandArea__c                               An object 'LLC_BI__Collateral__c.cm_LandArea__c' of type CustomField was named in package.xml, but was not found in zipped directory                               
+| Error LLC_BI__Collateral__c.cm_LocationQuality__c                        An object 'LLC_BI__Collateral__c.cm_LocationQuality__c' of type CustomField was named in package.xml, but was not found in zipped directory                        
+| Error LLC_BI__Collateral__c.cm_MapImage__c                               An object 'LLC_BI__Collateral__c.cm_MapImage__c' of type CustomField was named in package.xml, but was not found in zipped directory                               
+| Error LLC_BI__Collateral__c.cm_Morethan1BorrowingEntity__c               An object 'LLC_BI__Collateral__c.cm_Morethan1BorrowingEntity__c' of type CustomField was named in package.xml, but was not found in zipped directory               
+| Error LLC_BI__Collateral__c.cm_RegionCode__c                             An object 'LLC_BI__Collateral__c.cm_RegionCode__c' of type CustomField was named in package.xml, but was not found in zipped directory                             
+| Error LLC_BI__Collateral__c.cm_Ringfenced__c                             An object 'LLC_BI__Collateral__c.cm_Ringfenced__c' of type CustomField was named in package.xml, but was not found in zipped directory                             
+| Error LLC_BI__Collateral__c.cm_Status__c                                 An object 'LLC_BI__Collateral__c.cm_Status__c' of type CustomField was named in package.xml, but was not found in zipped directory                                 
+| Error LLC_BI__Collateral__c.cm_TenantQuality__c                          An object 'LLC_BI__Collateral__c.cm_TenantQuality__c' of type CustomField was named in package.xml, but was not found in zipped directory                          
+| Error LLC_BI__Loan__c.cm_OtherLoanforLinkedDebtotLTV__c                  An object 'LLC_BI__Loan__c.cm_OtherLoanforLinkedDebtotLTV__c' of type CustomField was named in package.xml, but was not found in zipped directory                  
+| Error LLC_BI__Loan__c.cm_ProductExposureFilter__c                        An object 'LLC_BI__Loan__c.cm_ProductExposureFilter__c' of type CustomField was named in package.xml, but was not found in zipped directory                        
+| Error LLC_BI__Loan__c.cm_SumofLinkedDebtsAmount__c                       An object 'LLC_BI__Loan__c.cm_SumofLinkedDebtsAmount__c' of type CustomField was named in package.xml, but was not found in zipped directory                       
+| Error LLC_BI__Loan__c.cm_TotalExposureforTransactionalLTV__c             An object 'LLC_BI__Loan__c.cm_TotalExposureforTransactionalLTV__c' of type CustomField was named in package.xml, but was not found in zipped directory             
+| Error LLC_BI__Loan__c.cm_TransactionalLTV__c                             An object 'LLC_BI__Loan__c.cm_TransactionalLTV__c' of type CustomField was named in package.xml, but was not found in zipped directory                             
+| Error cm_ConnectedLED__c.cm_Collateral_Mgmt__c                           An object 'cm_ConnectedLED__c.cm_Collateral_Mgmt__c' of type CustomField was named in package.xml, but was not found in zipped directory                           
+| Error cm_ConnectedLED__c.cm_LED__c                                       An object 'cm_ConnectedLED__c.cm_LED__c' of type CustomField was named in package.xml, but was not found in zipped directory                                       
+| Error cm_LED__c.cm_Amount__c                                             An object 'cm_LED__c.cm_Amount__c' of type CustomField was named in package.xml, but was not found in zipped directory                                             
+| Error cm_LED__c.cm_DisplayInformation__c                                 An object 'cm_LED__c.cm_DisplayInformation__c' of type CustomField was named in package.xml, but was not found in zipped directory                                 
+| Error cm_LED__c.cm_GuaranteeRecourseCode__c                              An object 'cm_LED__c.cm_GuaranteeRecourseCode__c' of type CustomField was named in package.xml, but was not found in zipped directory                              
+| Error cm_LED__c.cm_GuaranteeType__c                                      An object 'cm_LED__c.cm_GuaranteeType__c' of type CustomField was named in package.xml, but was not found in zipped directory                                      
+| Error cm_LED__c.cm_LEDID__c                                              An object 'cm_LED__c.cm_LEDID__c' of type CustomField was named in package.xml, but was not found in zipped directory                                              
+| Error cm_LED__c.cm_Relationship__c                                       An object 'cm_LED__c.cm_Relationship__c' of type CustomField was named in package.xml, but was not found in zipped directory                                       
+| Error cm_LED__c.cm_SecurityType__c                                       An object 'cm_LED__c.cm_SecurityType__c' of type CustomField was named in package.xml, but was not found in zipped directory                                       
+| Error cm_LED__c.cm_Status__c                                             An object 'cm_LED__c.cm_Status__c' of type CustomField was named in package.xml, but was not found in zipped directory                                             
+| Error BOI_LinkedDebt__c                                                  An object 'BOI_LinkedDebt__c' of type CustomObject was named in package.xml, but was not found in zipped directory                                                 
+| Error cm_ConnectedLED__c                                                 An object 'cm_ConnectedLED__c' of type CustomObject was named in package.xml, but was not found in zipped directory                                                
+| Error cm_LED__c                                                          An object 'cm_LED__c' of type CustomObject was named in package.xml, but was not found in zipped directory                                                         
+| Error cm_LED__c                                                          An object 'cm_LED__c' of type CustomTab was named in package.xml, but was not found in zipped directory                                                            
+| Error BOI_LinkedDebt__c.cm_LinkedDebtinLoanUI                            An object 'BOI_LinkedDebt__c.cm_LinkedDebtinLoanUI' of type FieldSet was named in package.xml, but was not found in zipped directory                               
+| Error Coll_Mgmt_Standard                                                 An object 'Coll_Mgmt_Standard' of type FlexiPage was named in package.xml, but was not found in zipped directory                                                   
+| Error LED_Record_Page                                                    An object 'LED_Record_Page' of type FlexiPage was named in package.xml, but was not found in zipped directory                                                      
+| Error Linked_Debt_Record_Page                                            An object 'Linked_Debt_Record_Page' of type FlexiPage was named in package.xml, but was not found in zipped directory                                              
+| Error BOI_Autolaunched_Auto_Collateral_Pledged                           An object 'BOI_Autolaunched_Auto_Collateral_Pledged' of type Flow was named in package.xml, but was not found in zipped directory                                  
+| Error BOI_Autolaunched_Summary_of_Linked_Debts_Amount                    An object 'BOI_Autolaunched_Summary_of_Linked_Debts_Amount' of type Flow was named in package.xml, but was not found in zipped directory                           
+| Error BOI_Screen_Flow_Linked_Debts_to_LTV                                An object 'BOI_Screen_Flow_Linked_Debts_to_LTV' of type Flow was named in package.xml, but was not found in zipped directory                                       
+| Error Update_Collateral_Lendable_Value_on_Account                        An object 'Update_Collateral_Lendable_Value_on_Account' of type Flow was named in package.xml, but was not found in zipped directory                               
+| Error BOI_LinkedDebt__c.All                                              An object 'BOI_LinkedDebt__c.All' of type ListView was named in package.xml, but was not found in zipped directory                                                 
+| Error cm_LED__c.All                                                      An object 'cm_LED__c.All' of type ListView was named in package.xml, but was not found in zipped directory                                                         
+| Error LLC_BI__Loan__c.cm_LinkDebtstoLTV                                  An object 'LLC_BI__Loan__c.cm_LinkDebtstoLTV' of type QuickAction was named in package.xml, but was not found in zipped directory                                  
+| Error LLC_BI__Collateral_Valuation__c.Real_Estate_Valuation              An object 'LLC_BI__Collateral_Valuation__c.Real_Estate_Valuation' of type RecordType was named in package.xml, but was not found in zipped directory               
+| Error LLC_BI__Collateral__c.Prevent_user_from_creation_of_collateral     An object 'LLC_BI__Collateral__c.Prevent_user_from_creation_of_collateral' of type ValidationRule was named in package.xml, but was not found in zipped directory  
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0AfaV000000pq4bSAA). Due To:
+69 component error(s)

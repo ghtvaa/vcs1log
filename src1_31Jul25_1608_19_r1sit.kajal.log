@@ -1,0 +1,256 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-12229_spreads1_package.xml
+Already on 'kajal'
+On branch kajal
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls
+	force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls
+	force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFController.cls
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFController.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFControllerTest.cls
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFControllerTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapper.cls
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapper.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapperTest.cls
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapperTest.cls-meta.xml
+	force-app/main/default/customMetadata/
+	force-app/main/default/externalCredentials/
+	force-app/main/default/externalServiceRegistrations/
+	force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+	force-app/main/default/flexipages/People_Record_Page2.flexipage-meta.xml
+	force-app/main/default/flows/BOI_Autolaunched_Flow_CRIF.flow-meta.xml
+	force-app/main/default/flows/BOI_Autolaunched_Flow_CRIF_Report.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Trigger_Relationship_After_Save.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Trigger_Relationship_Before_Insert.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Triggered_LoanDocument_After_Save.flow-meta.xml
+	force-app/main/default/flows/BOI_Screen_Flow_CRIF_Company_Report_on_Loan.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Autolaunched_Flow_CRIF_CompanyReport.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Autolaunched_Flow_Delete_Document_Store_Index.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Screen_Flow_CRO_Main.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Screen_Flow_Import_Directors.flow-meta.xml
+	force-app/main/default/labels/
+	force-app/main/default/lwc/
+	force-app/main/default/namedCredentials/
+	force-app/main/default/objectTranslations/
+	force-app/main/default/objects/Account/fields/cm_Company_Basic_Report_Flag__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Full_Report_Flag__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Report_Available__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Report_Result__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Status__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Credit_Report_Available__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Shareholder_Report_Available__c.field-meta.xml
+	force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_IsFlow__c.field-meta.xml
+	force-app/main/default/objects/cm_Company_Report_Result__c/
+	force-app/main/default/objects/cm_Mortgages_and_Charges__c/
+	force-app/main/default/objects/cm_People__c/
+	force-app/main/default/quickActions/
+	force-app/main/default/topicsForObjects/
+	t2s
+	t2s=31Jul25_155327`
+	t2s=31Jul25_155330`
+	t2s=31Jul25_155340`
+	t2s=31Jul25_155415`
+	t2s=31Jul25_155458`
+	t2s=31Jul25_155603`
+	t2s=31Jul25_155621`
+	t2s=31Jul25_155637`
+	"\357\201\274tee"
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=====================================================================================================================================================================================================================================================
+| State   Name                                                                           Type               Path                                                                                                                                      
+| ─────── ────────────────────────────────────────────────────────────────────────────── ────────────────── ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created LLC_BI__Classification__c.LLC_BI__Category__c                                  CustomField        force-app\main\default\objects\LLC_BI__Classification__c\fields\LLC_BI__Category__c.field-meta.xml                                        
+| Created LLC_BI__Debt__c.Annual_Payment__c                                              CustomField        force-app\main\default\objects\LLC_BI__Debt__c\fields\Annual_Payment__c.field-meta.xml                                                    
+| Created LLC_BI__Debt__c.Nc_Stage__c                                                    CustomField        force-app\main\default\objects\LLC_BI__Debt__c\fields\Nc_Stage__c.field-meta.xml                                                          
+| Created LLC_BI__Document_Placeholder__c.LLC_BI__Review_Status__c                       CustomField        force-app\main\default\objects\LLC_BI__Document_Placeholder__c\fields\LLC_BI__Review_Status__c.field-meta.xml                             
+| Created LLC_BI__Schedule_Entry__c.Default_Row__c                                       CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Default_Row__c.field-meta.xml                                             
+| Created LLC_BI__Schedule_Entry__c.Existing_Acres__c                                    CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Existing_Acres__c.field-meta.xml                                          
+| Created LLC_BI__Schedule_Entry__c.Gross_Margin_Per_Unit__c                             CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Gross_Margin_Per_Unit__c.field-meta.xml                                   
+| Created LLC_BI__Schedule_Entry__c.Livestock_Total__c                                   CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Livestock_Total__c.field-meta.xml                                         
+| Created LLC_BI__Schedule_Entry__c.Livestock_Type__c                                    CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Livestock_Type__c.field-meta.xml                                          
+| Created LLC_BI__Schedule_Entry__c.No_of_Existing_Stock__c                              CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\No_of_Existing_Stock__c.field-meta.xml                                    
+| Created LLC_BI__Schedule_Entry__c.Premium_Type__c                                      CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Premium_Type__c.field-meta.xml                                            
+| Created LLC_BI__Schedule_Entry__c.Premium_Value__c                                     CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Premium_Value__c.field-meta.xml                                           
+| Created LLC_BI__Schedule_Entry__c.Tillage_Total__c                                     CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Tillage_Total__c.field-meta.xml                                           
+| Created LLC_BI__Schedule_Entry__c.Tillage_Type__c                                      CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Tillage_Type__c.field-meta.xml                                            
+| Created LLC_BI__Schedule_Entry__c.Total_Gross_Margin__c                                CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Gross_Margin__c.field-meta.xml                                      
+| Created LLC_BI__Schedule_Entry__c.Value_Acre_Tillage__c                                CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Value_Acre_Tillage__c.field-meta.xml                                      
+| Created LLC_BI__Schedule_Entry__c.Value_Unit_Stock__c                                  CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Value_Unit_Stock__c.field-meta.xml                                        
+| Created LLC_BI__Spread_Projections_Driver__c.LLC_BI__Type__c                           CustomField        force-app\main\default\objects\LLC_BI__Spread_Projections_Driver__c\fields\LLC_BI__Type__c.field-meta.xml                                 
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Accumulate__c                       CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Accumulate__c.field-meta.xml                             
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Analyst__c                          CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Analyst__c.field-meta.xml                                
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Average_Exchange_Rate__c            CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Average_Exchange_Rate__c.field-meta.xml                  
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Case__c                             CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Case__c.field-meta.xml                                   
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Collateral_Column_Title__c          CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Collateral_Column_Title__c.field-meta.xml                
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Column_Number__c                    CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Column_Number__c.field-meta.xml                          
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Data_Source__c                      CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Data_Source__c.field-meta.xml                            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Debt_Schedule__c                    CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Debt_Schedule__c.field-meta.xml                          
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Exchange_Rate__c                    CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Exchange_Rate__c.field-meta.xml                          
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__External_Data_Source_Id__c          CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__External_Data_Source_Id__c.field-meta.xml                
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__External_Period_Key__c              CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__External_Period_Key__c.field-meta.xml                    
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Fiscal_Year_TTM_Period__c           CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Fiscal_Year_TTM_Period__c.field-meta.xml                 
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Initial_Interim_TTM_Period__c       CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Initial_Interim_TTM_Period__c.field-meta.xml             
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Is_Annual__c                        CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Is_Annual__c.field-meta.xml                              
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Is_Fiscal_Year__c                   CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Is_Fiscal_Year__c.field-meta.xml                         
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Is_Flex_Enabled_Debt_Schedule__c    CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Is_Flex_Enabled_Debt_Schedule__c.field-meta.xml          
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Is_Global_Analysis_Year__c          CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Is_Global_Analysis_Year__c.field-meta.xml                
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Is_Locked__c                        CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Is_Locked__c.field-meta.xml                              
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Month__c                            CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Month__c.field-meta.xml                                  
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Name_Override__c                    CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Name_Override__c.field-meta.xml                          
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Number_of_Periods__c                CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Number_of_Periods__c.field-meta.xml                      
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Period_Key__c                       CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Period_Key__c.field-meta.xml                             
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Period_Out_Of_Range__c              CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Period_Out_Of_Range__c.field-meta.xml                    
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Project_from_Period__c              CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Project_from_Period__c.field-meta.xml                    
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Rent_Roll_Summary__c                CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Rent_Roll_Summary__c.field-meta.xml                      
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Selected_In_Global__c               CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Selected_In_Global__c.field-meta.xml                     
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Selected__c                         CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Selected__c.field-meta.xml                               
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Source_Currency__c                  CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Source_Currency__c.field-meta.xml                        
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Source__c                           CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Source__c.field-meta.xml                                 
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spread_Projections_Template__c      CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Spread_Projections_Template__c.field-meta.xml            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spread_Statement_Type__c            CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Spread_Statement_Type__c.field-meta.xml                  
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Statement_Date__c                   CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Statement_Date__c.field-meta.xml                         
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Supplemental_Number_of_Periods__c   CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Supplemental_Number_of_Periods__c.field-meta.xml         
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Supplemental_Source__c              CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Supplemental_Source__c.field-meta.xml                    
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Supplemental_Statement_Date__c      CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Supplemental_Statement_Date__c.field-meta.xml            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Trailing_Interim_TTM_Period__c      CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Trailing_Interim_TTM_Period__c.field-meta.xml            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Type__c                             CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Type__c.field-meta.xml                                   
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Unmapped_Values__c                  CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Unmapped_Values__c.field-meta.xml                        
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Year_Hidden_In_Global__c            CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Year_Hidden_In_Global__c.field-meta.xml                  
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Year_Out_Range__c                   CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Year_Out_Range__c.field-meta.xml                         
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Year__c                             CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Year__c.field-meta.xml                                   
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__externalLookupKey__c                CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__externalLookupKey__c.field-meta.xml                      
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__lookupKey__c                        CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__lookupKey__c.field-meta.xml                              
+| Created LLC_BI__Spread_Statement_Period__c.Update_User_Flag__c                         CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\Update_User_Flag__c.field-meta.xml                               
+| Created LLC_BI__Spread_Statement_Period__c.cm_Created_By__c                            CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\cm_Created_By__c.field-meta.xml                                  
+| Created LLC_BI__Spread_Statement_Period__c.cm_Last_Modified_By__c                      CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\cm_Last_Modified_By__c.field-meta.xml                            
+| Created LLC_BI__Spread_Statement_Period__c.cm_User_Last_Modified_By__c                 CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\cm_User_Last_Modified_By__c.field-meta.xml                       
+| Created LLC_BI__Spread_Statement_Type__c.LLC_BI__Type__c                               CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Type__c\fields\LLC_BI__Type__c.field-meta.xml                                     
+| Created LLC_BI__Underwriting_Bundle__c.LLC_BI__Selected_Scale__c                       CustomField        force-app\main\default\objects\LLC_BI__Underwriting_Bundle__c\fields\LLC_BI__Selected_Scale__c.field-meta.xml                             
+| Created LLC_BI__Spread_Statement_Period__c                                             CustomObject       force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\LLC_BI__Spread_Statement_Period__c.object-meta.xml                      
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Add_Rent_Roll_Modal                 FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Add_Rent_Roll_Modal.fieldSet-meta.xml                 
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Associated_Periods                  FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Associated_Periods.fieldSet-meta.xml                  
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Average_Add_Period_Modal            FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Average_Add_Period_Modal.fieldSet-meta.xml            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__CRE_Analysis_Add_Period_Modal       FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__CRE_Analysis_Add_Period_Modal.fieldSet-meta.xml       
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__CRE_Analysis_Edit_Period_Modal      FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__CRE_Analysis_Edit_Period_Modal.fieldSet-meta.xml      
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__CRE_Analysis_Period_Header          FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__CRE_Analysis_Period_Header.fieldSet-meta.xml          
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Edit_Rent_Roll_Modal                FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Edit_Rent_Roll_Modal.fieldSet-meta.xml                
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Projections_Add_Period_Modal        FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Projections_Add_Period_Modal.fieldSet-meta.xml        
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Projections_Period_Header           FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Projections_Period_Header.fieldSet-meta.xml           
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Rent_Roll_Details_Header            FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Rent_Roll_Details_Header.fieldSet-meta.xml            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spreads_Add_Period_Modal            FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Spreads_Add_Period_Modal.fieldSet-meta.xml            
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spreads_Edit_Period_Modal           FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Spreads_Edit_Period_Modal.fieldSet-meta.xml           
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spreads_Period_Header               FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Spreads_Period_Header.fieldSet-meta.xml               
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Template_Migration_Field_Selections FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Template_Migration_Field_Selections.fieldSet-meta.xml 
+| Created Business_Relationship_Layout_Read_Only                                         FlexiPage          force-app\main\default\flexipages\Business_Relationship_Layout_Read_Only.flexipage-meta.xml                                               
+| Created BOI_Record_Triggered_Spread_Statement_Record                                   Flow               force-app\main\default\flows\BOI_Record_Triggered_Spread_Statement_Record.flow-meta.xml                                                   
+| Created cm_BOI_Autolaunched_Flow_Merge_Relationship                                    Flow               force-app\main\default\flows\cm_BOI_Autolaunched_Flow_Merge_Relationship.flow-meta.xml                                                    
+| Created SBA_Fulfilment_PS_group                                                        PermissionSetGroup force-app\main\default\permissionsetgroups\SBA_Fulfilment_PS_group.permissionsetgroup-meta.xml                                            
+| Created SBA_Sales_Permission_Set_Group                                                 PermissionSetGroup force-app\main\default\permissionsetgroups\SBA_Sales_Permission_Set_Group.permissionsetgroup-meta.xml                                     
+| Created SBA_Underwriting_PS_group                                                      PermissionSetGroup force-app\main\default\permissionsetgroups\SBA_Underwriting_PS_group.permissionsetgroup-meta.xml                                          
+| Created Super_User_PS_group                                                            PermissionSetGroup force-app\main\default\permissionsetgroups\Super_User_PS_group.permissionsetgroup-meta.xml                                                
+| Created System_Administrator_PS_group                                                  PermissionSetGroup force-app\main\default\permissionsetgroups\System_Administrator_PS_group.permissionsetgroup-meta.xml                                      
+| Changed SB%26A Branch                                                                  Profile            force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                                                                            
+| Changed SB%26A CCR Compliance                                                          Profile            force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                                                                    
+| Changed SB%26A Fulfillment                                                             Profile            force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                                       
+| Changed SB%26A Lending Support                                                         Profile            force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                                                   
+| Changed SB%26A Readonly                                                                Profile            force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                                          
+| Changed SB%26A Registration Team                                                       Profile            force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                                                 
+| Changed SB%26A Sales                                                                   Profile            force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                                             
+| Changed SB%26A Sec Ops                                                                 Profile            force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                                           
+| Changed SB%26A Underwriting                                                            Profile            force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                                      
+| Changed Super User                                                                     Profile            force-app\main\default\profiles\Super User.profile-meta.xml                                                                               
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.kajal using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000L9szbSAB
+
+Test Failures [6]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver1
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver2
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver3
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver4
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+
+Test Results Summary
+Passing: 150
+Failing: 6
+Total: 156
+Time: 175193
+Error (1): Failed to validate the deployment (0AfbY00000L9szbSAB). Due To:
+

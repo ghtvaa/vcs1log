@@ -1,0 +1,89 @@
+Switched to branch 'rob1'
+HEAD is now at 2951f11 recent packages
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15009_atests4_package.xml
+Already on 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                      
+| Created CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml             
+| Created CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                  
+| Created CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml         
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls                 
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls-meta.xml        
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls                 
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls-meta.xml        
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls              
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls-meta.xml     
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000lvSSkSAM
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                      
+| Unchanged CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml             
+| Unchanged CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                  
+| Unchanged CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml         
+| Unchanged LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls                 
+| Unchanged LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls-meta.xml        
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls                 
+| Unchanged RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls-meta.xml        
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed   RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls              
+| Unchanged UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls-meta.xml     
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 166
+Failing: 0
+Total: 166
+Time: 237938
+
+Successfully validated the deployment (0Af9Q00000lvSSkSAM).
+Run "sf project deploy quick --job-id 0Af9Q00000lvSSkSAM" to execute this deploy
+[rob1 ffbd292] recent packages
+ 16 files changed, 1091 insertions(+)
+ create mode 100644 force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls
+ create mode 100644 force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls
+ create mode 100644 force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/LightningLoginFormController.cls
+ create mode 100644 force-app/main/default/classes/LightningLoginFormController.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/LightningLoginFormControllerTest.cls
+ create mode 100644 force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/RecalculateRelationshipStats.cls
+ create mode 100644 force-app/main/default/classes/RecalculateRelationshipStats.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+ create mode 100644 force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/UserInterfaceRecordOwnerUtility.cls
+ create mode 100644 force-app/main/default/classes/UserInterfaceRecordOwnerUtility.cls-meta.xml
+ create mode 100644 force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+ create mode 100644 force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+On branch rob1
+nothing to commit, working tree clean
+Printing the return value successfull 0 \n/c/Users/c139079/Onedri~1/package_xml/ncino-15009_atests4_package.xml

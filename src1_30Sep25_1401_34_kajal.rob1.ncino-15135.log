@@ -1,0 +1,143 @@
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/flexipages/Test_Data_Generator.flexipage-meta.xml
+Removing force-app/main/default/flows/BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Screenflow_Create_Test_Data.flow-meta.xml
+Removing force-app/main/default/tabs/
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-15135c_ksorgDelta1_package.xml
+Already on 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.kajal using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+===========================================================================================================================================================================================================
+| State   Name                                                    Type                   Path                                                                                                               
+| ─────── ─────────────────────────────────────────────────────── ────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created nCino__Origination_Path                                 CustomNotificationType force-app\main\default\notificationtypes\nCino__Origination_Path.notiftype-meta.xml                                
+| Created nCRED__Debt_Schedule_Delete                             CustomPermission       force-app\main\default\customPermissions\nCRED__Debt_Schedule_Delete.customPermission-meta.xml                     
+| Created nCRED__Debt_Schedule_Sort                               CustomPermission       force-app\main\default\customPermissions\nCRED__Debt_Schedule_Sort.customPermission-meta.xml                       
+| Created nCRED__Schedule_Delete                                  CustomPermission       force-app\main\default\customPermissions\nCRED__Schedule_Delete.customPermission-meta.xml                          
+| Created nCRED__Schedule_Sort                                    CustomPermission       force-app\main\default\customPermissions\nCRED__Schedule_Sort.customPermission-meta.xml                            
+| Created nFORMS__Document_Editor_Administration                  CustomPermission       force-app\main\default\customPermissions\nFORMS__Document_Editor_Administration.customPermission-meta.xml          
+| Created Manage_Rates                                            CustomTab              force-app\main\default\tabs\Manage_Rates.tab-meta.xml                                                              
+| Created Login_As                                                DelegateGroup          force-app\main\default\delegateGroups\Login_As.delegateGroup-meta.xml                                              
+| Created LLC_BI__Loan__c.Loan_Structure                          FieldSet               force-app\main\default\objects\LLC_BI__Loan__c\fieldSets\Loan_Structure.fieldSet-meta.xml                          
+| Created LLC_BI__Tenant__c.nCino__Tenant_Modal_Additional_Fields FieldSet               force-app\main\default\objects\LLC_BI__Tenant__c\fieldSets\nCino__Tenant_Modal_Additional_Fields.fieldSet-meta.xml 
+| Created Test_Data_Generator                                     FlexiPage              force-app\main\default\flexipages\Test_Data_Generator.flexipage-meta.xml                                           
+| Created BOI_Screen_Flow_CIE_log_Test_Data_Generator             Flow                   force-app\main\default\flows\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml                             
+| Created BOI_Screenflow_Create_Test_Data                         Flow                   force-app\main\default\flows\BOI_Screenflow_Create_Test_Data.flow-meta.xml                                         
+| Created BOI_Screen_Flow_CIE_log_Test_Data_Generator             FlowDefinition         force-app\main\default\flowDefinitions\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flowDefinition-meta.xml         
+| Created BOI_Screenflow_Create_Test_Data                         FlowDefinition         force-app\main\default\flowDefinitions\BOI_Screenflow_Create_Test_Data.flowDefinition-meta.xml                     
+| Created LLC_BI__Applicable_Regions                              GlobalValueSet         force-app\main\default\globalValueSets\LLC_BI__Applicable_Regions.globalValueSet-meta.xml                          
+| Created Automation_User                                         Group                  force-app\main\default\groups\Automation_User.group-meta.xml                                                       
+| Created LLC_BI                                                  InstalledPackage       force-app\main\default\installedPackages\LLC_BI.installedPackage-meta.xml                                          
+| Created NDOC                                                    InstalledPackage       force-app\main\default\installedPackages\NDOC.installedPackage-meta.xml                                            
+| Created matrix_manager                                          InstalledPackage       force-app\main\default\installedPackages\matrix_manager.installedPackage-meta.xml                                  
+| Created nCRED                                                   InstalledPackage       force-app\main\default\installedPackages\nCRED.installedPackage-meta.xml                                           
+| Created nCino                                                   InstalledPackage       force-app\main\default\installedPackages\nCino.installedPackage-meta.xml                                           
+| Created nFORCE                                                  InstalledPackage       force-app\main\default\installedPackages\nFORCE.installedPackage-meta.xml                                          
+| Created nFORMS                                                  InstalledPackage       force-app\main\default\installedPackages\nFORMS.installedPackage-meta.xml                                          
+| Created nFUSE                                                   InstalledPackage       force-app\main\default\installedPackages\nFUSE.installedPackage-meta.xml                                           
+| Created nPortal                                                 InstalledPackage       force-app\main\default\installedPackages\nPortal.installedPackage-meta.xml                                         
+| Created System_Administrator_PS_group                           PermissionSetGroup     force-app\main\default\permissionsetgroups\System_Administrator_PS_group.permissionsetgroup-meta.xml               
+| Created nFORCE__Default                                         PlatformCachePartition force-app\main\default\cachePartitions\nFORCE__Default.cachePartition-meta.xml                                     
+| Created Admin                                                   Profile                force-app\main\default\profiles\Admin.profile-meta.xml                                                             
+| Changed Super User                                              Profile                force-app\main\default\profiles\Super User.profile-meta.xml                                                        
+| Created nFORMS__LogACall                                        QuickAction            force-app\main\default\quickActions\nFORMS__LogACall.quickAction-meta.xml                                          
+| Created en_US                                                   Translations           force-app\main\default\translations\en_US.translation-meta.xml                                                     
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000mx1NqSAI
+
+Component Failures [38]
+=========================================================================================================================================================================================================================
+| Type  Name                                                    Problem                                                                                                                                                   
+| ───── ─────────────────────────────────────────────────────── ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error nCino__Origination_Path                                 Cannot create a new component with the namespace: nCino.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Debt_Schedule_Delete                             Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Debt_Schedule_Sort                               Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Schedule_Delete                                  Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Schedule_Sort                                    Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nFORMS__Document_Editor_Administration                  Cannot create a new component with the namespace: nFORMS.  Only components in the same namespace as the organization can be created through the API       
+| Error LLC_BI__Tenant__c.nCino__Tenant_Modal_Additional_Fields Cannot create a new component with the namespace: nCino.  Only components in the same namespace as the organization can be created through the API (3:16) 
+| Error LLC_BI__Applicable_Regions                              Cannot create a new component with the namespace: LLC_BI.  Only components in the same namespace as the organization can be created through the API       
+| Error LLC_BI                                                  Required field is missing: activateRSS                                                                                                                    
+| Error NDOC                                                    Required field is missing: activateRSS                                                                                                                    
+| Error matrix_manager                                          Required field is missing: activateRSS                                                                                                                    
+| Error nCRED                                                   Required field is missing: activateRSS                                                                                                                    
+| Error nCino                                                   Required field is missing: activateRSS                                                                                                                    
+| Error nFORCE                                                  Required field is missing: activateRSS                                                                                                                    
+| Error nFORMS                                                  Required field is missing: activateRSS                                                                                                                    
+| Error nFUSE                                                   Required field is missing: activateRSS                                                                                                                    
+| Error nPortal                                                 Required field is missing: activateRSS                                                                                                                    
+| Error Admin                                                   In field: customPermission - no CustomPermission named nCRED__Debt_Schedule_Delete found                                                                  
+| Error Super User                                              In field: customPermission - no CustomPermission named nCRED__Debt_Schedule_Delete found                                                                  
+| Error nFORCE                                                  Required field is missing: activateRSS                                                                                                                    
+| Error LLC_BI                                                  Required field is missing: activateRSS                                                                                                                    
+| Error nFUSE                                                   Required field is missing: activateRSS                                                                                                                    
+| Error nFORMS                                                  Required field is missing: activateRSS                                                                                                                    
+| Error NDOC                                                    Required field is missing: activateRSS                                                                                                                    
+| Error matrix_manager                                          Required field is missing: activateRSS                                                                                                                    
+| Error nCino                                                   Required field is missing: activateRSS                                                                                                                    
+| Error nCRED                                                   Required field is missing: activateRSS                                                                                                                    
+| Error nPortal                                                 Required field is missing: activateRSS                                                                                                                    
+| Error LLC_BI__Applicable_Regions                              Cannot create a new component with the namespace: LLC_BI.  Only components in the same namespace as the organization can be created through the API       
+| Error nCRED__Debt_Schedule_Delete                             Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Debt_Schedule_Sort                               Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Schedule_Delete                                  Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nCRED__Schedule_Sort                                    Cannot create a new component with the namespace: nCRED.  Only components in the same namespace as the organization can be created through the API        
+| Error nFORMS__Document_Editor_Administration                  Cannot create a new component with the namespace: nFORMS.  Only components in the same namespace as the organization can be created through the API       
+| Error LLC_BI__Tenant__c.nCino__Tenant_Modal_Additional_Fields Cannot create a new component with the namespace: nCino.  Only components in the same namespace as the organization can be created through the API        
+| Error nCino__Origination_Path                                 Cannot create a new component with the namespace: nCino.  Only components in the same namespace as the organization can be created through the API        
+| Error Admin                                                   In field: customPermission - no CustomPermission named nCRED__Debt_Schedule_Delete found                                                                  
+| Error Super User                                              In field: customPermission - no CustomPermission named nCRED__Debt_Schedule_Delete found                                                                  
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9Q00000mx1NqSAI). Due To:
+19 component error(s)

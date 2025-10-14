@@ -1,0 +1,191 @@
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15136_prd_naveed_akbar_package.xml
+Already on 'r1qa'
+On branch r1qa
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard/
+	force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+	force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+	force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+	force-app/main/default/groups/
+	force-app/main/default/layouts/
+	force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+	force-app/main/default/objects/Colleague_Activity__c/
+	force-app/main/default/objects/User/
+	force-app/main/default/permissionsets/
+	force-app/main/default/profiles/Admin.profile-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v63.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+====================================================================================================================================================================================================================
+| State   Name                                                           Type                     Path                                                                                                               
+| ─────── ────────────────────────────────────────────────────────────── ──────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Changed nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls                                                   
+| Changed nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls-meta.xml                                          
+| Changed nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls                                               
+| Changed nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls-meta.xml                                      
+| Changed Colleague_Activity__c.Colleague__c                             CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Colleague__c.field-meta.xml                            
+| Changed Colleague_Activity__c.End_DateTime__c                          CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\End_DateTime__c.field-meta.xml                         
+| Changed Colleague_Activity__c.Loan__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Loan__c.field-meta.xml                                 
+| Changed Colleague_Activity__c.Profile__c                               CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Profile__c.field-meta.xml                              
+| Changed Colleague_Activity__c.Stage__c                                 CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Stage__c.field-meta.xml                                
+| Changed Colleague_Activity__c.Start_DateTime__c                        CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Start_DateTime__c.field-meta.xml                       
+| Changed Colleague_Activity__c.Time__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Time__c.field-meta.xml                                 
+| Changed User.Ongoing_Colleague_Activity_Tracker__c                     CustomField              force-app\main\default\objects\User\fields\Ongoing_Colleague_Activity_Tracker__c.field-meta.xml                    
+| Changed Colleague_Activity__c                                          CustomObject             force-app\main\default\objects\Colleague_Activity__c\Colleague_Activity__c.object-meta.xml                         
+| Changed ColleagueActivityDashboard/POhhYpciCCElDzowAlamqKSUORWAOd      Dashboard                force-app\main\default\dashboards\ColleagueActivityDashboard\POhhYpciCCElDzowAlamqKSUORWAOd.dashboard-meta.xml     
+| Changed ColleagueActivityDashboard                                     DashboardFolder          force-app\main\default\dashboards\ColleagueActivityDashboard.dashboardFolder-meta.xml                              
+| Changed Colleague_Activity                                             FlexiPage                force-app\main\default\flexipages\Colleague_Activity.flexipage-meta.xml                                            
+| Changed nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change Flow                     force-app\main\default\flows\nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml          
+| Changed nCino_Loan_Page_Colleague_Activity_Tracker                     Flow                     force-app\main\default\flows\nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml                              
+| Changed nCino_Tracker_Dashboards                                       Group                    force-app\main\default\groups\nCino_Tracker_Dashboards.group-meta.xml                                              
+| Changed Colleague_Activity__c-Colleague Activity Layout                Layout                   force-app\main\default\layouts\Colleague_Activity__c-Colleague Activity Layout.layout-meta.xml                     
+| Changed nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.html        
+| Changed nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js          
+| Changed nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js-meta.xml 
+| Changed Colleague_Activity__c.All                                      ListView                 force-app\main\default\objects\Colleague_Activity__c\listViews\All.listView-meta.xml                               
+| Changed nCino_Tracker_Admin                                            PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_Admin.permissionset-meta.xml                                   
+| Changed nCino_Tracker_User                                             PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_User.permissionset-meta.xml                                    
+| Changed Admin                                                          Profile                  force-app\main\default\profiles\Admin.profile-meta.xml                                                             
+| Changed ColleagueActivityReports/Average_Time_Per_Loan_eET             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_Per_Loan_eET.report-meta.xml                  
+| Changed ColleagueActivityReports/Average_Time_per_Role_OA6             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Role_OA6.report-meta.xml                  
+| Changed ColleagueActivityReports/Average_Time_per_Stage_FR1            Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Stage_FR1.report-meta.xml                 
+| Changed ColleagueActivityReports                                       ReportFolder             force-app\main\default\reports\ColleagueActivityReports.reportFolder-meta.xml                                      
+Vim: Warning: Output is not to a terminal
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;34r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[34;1H"./force-app/main/default/profiles/Admin.profile-meta.xml" [unix] 957L, 29579B[1;1H[38;5;130m 15 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 14 [m[8C[36m<name>[mSubscribeReportToOtherUsers[36m</name>[m
+[38;5;130m 13 [m    [36m</userPermissions>[m
+[38;5;130m 12 [m    [36m<userPermissions>[m
+[38;5;130m 11 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 10 [m[8C[36m<name>[mSubscribeReportsRunAsUser[36m</name>[m
+[38;5;130m  9 [m    [36m</userPermissions>[m
+[38;5;130m  8 [m    [36m<userPermissions>[m
+[38;5;130m  7 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  6 [m[8C[36m<name>[mSubscribeToLightningDashboards[36m</name>[m
+[38;5;130m  5 [m    [36m</userPermissions>[m
+[38;5;130m  4 [m    [36m<userPermissions>[m
+[38;5;130m  3 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  2 [m[8C[36m<name>[mSubscribeToLightningReports[36m</name>[m
+[38;5;130m  1 [m    [36m</userPermissions>[m
+[38;5;130m845 [m    [36m<userPermissions>[m
+[38;5;130m  1 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  2 [m[8C[36m<name>[mTerritoryOperations[36m</name>[m
+[38;5;130m  3 [m    [36m</userPermissions>[m
+[38;5;130m  4 [m    [36m<userPermissions>[m
+[38;5;130m  5 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  6 [m[8C[36m<name>[mTransactionalEmailSend[36m</name>[m
+[38;5;130m  7 [m    [36m</userPermissions>[m
+[38;5;130m  8 [m    [36m<userPermissions>[m
+[38;5;130m  9 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 10 [m[8C[36m<name>[mTransferAnyCase[36m</name>[m
+[38;5;130m 11 [m    [36m</userPermissions>[m
+[38;5;130m 12 [m    [36m<userPermissions>[m
+[38;5;130m 13 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 14 [m[8C[36m<name>[mTransferAnyEntity[36m</name>[m
+[38;5;130m 15 [m    [36m</userPermissions>[m
+[38;5;130m 16 [m    [36m<userPermissions>[m
+[1m[7m./force-app/main/default/profiles/Admin.profile-meta.xml [unix] (12:21 19/08/2025)                                                                                                     845,5 89%[16;9H[?25h[?4m[?25l[m[34;182H/[16;9H[34;1H[K[34;1H/[?25h[34m^I[?25l[?25h[?25l[m[34;2H[K[34;2H[?25h [?25l[16;9H[?25h[?25l[34;182H:[16;9H[34;182H[K[34;1H:[?25h...[?25l[34;2H[K[34;2H
+![20Caunmenu[14Ccnoremap[13Ceval[17Claddfile[13Cmkvimrc[14Cpyfile[15Cspelldump[12Ctry
+#[20Cautocmd[14Ccnoremenu[12Cex[19Clafter[15Cmode[17Cpython[15Cspellgood[12Ctselect
+&[20CbNext[16Ccolder[15Cexecute[14Clanguage[13Cmove[17Cpython3[14Cspellinfo[12Ctunmap
+*[20Cbadd[17Ccolorscheme[10Cexit[17Clast[17Cmzfile[15Cpythonx[14Cspellrare[12Ctunmenu
+++[19Cball[17Ccomclear[13Cexport[15Clater[16Cmzscheme[13Cpyx[18Cspellrepall[10Ctype
+--[19Cbalt[17Ccommand[14Cexusage[14Clbefore[14Cnbclose[14Cpyxdo[16Cspellundo[12Cunabbreviate
+<[20Cbdelete[14Ccompiler[13Cfile[17Clbelow[15Cnbkey[16Cpyxfile[14Cspellwrong[11Cundo
+=[20Cbehave[15Cconfirm[14Cfiles[16Clbottom[14Cnbstart[14Cqall[17Csplit[16Cundojoin
+>[20Cbelowright[11Cconst[16Cfiletype[13Clbuffer[14Cnew[18Cquit[17Csprevious[12Cundolist
+@[20Cbfirst[15Ccontinue[13Cfilter[15Clcd[18Cnext[17Cquitall[14Csrewind[14Cunhide
+DiffOrig[13Cblast[16Ccopen[16Cfinal[16Clchdir[15Cnmap[17Cread[17Cstag[17Cunlet
+DoMatchParen[9Cbmodified[12Ccopy[17Cfinally[14Clclose[15Cnmapclear[12Crecover[14Cstartgreplace[8Cunlockvar
+Explore[14Cbnext[16Ccpfile[15Cfind[17Clcscope[14Cnmenu[16Credir[16Cstartinsert[10Cunmap
+GLVS[17Cbotright[13Ccprevious[12Cfinish[15Cldo[18Cnnoremap[13Credo[17Cstartreplace[9Cunmenu
+GetLatestVimScripts  bprevious[12Ccquit[16Cfirst[16Cleft[17Cnnoremenu[12Credraw[15Cstatic[15Cunsilent
+GetScripts[11Cbreak[16Ccrewind[14Cfixdel[15Cleftabove[12Cnoautocmd[12Credrawstatus[9Cstjump[15Cupdate
+Hexplore[13Cbreakadd[13Ccscope[15Cfold[17Clegacy[15Cnohlsearch[11Credrawtabline[8Cstop[17Cvar
+LP[19Cbreakdel[13Ccstag[16Cfoldclose[12Clet[18Cnoreabbrev[11Cregisters[12Cstopinsert[11Cverbose
+LPE[18Cbreaklist[12Ccunabbrev[12Cfolddoclosed[9Clexpr[16Cnoremap[14Cresize[15Cstselect[13Cversion
+LPF[18Cbrewind[14Ccunmap[15Cfolddoopen[11Clfdo[17Cnoremenu[13Cretab[16Csubstitute[11Cvertical
+LPR[18Cbrowse[15Ccunmenu[14Cfoldopen[13Clfile[16Cnormal[15Creturn[15Csunhide[14Cvglobal
+Launch[15Cbufdo[16Ccwindow[14Cfor[18Clfirst[15Cnoswapfile[11Crewind[15Csunmap[15Cview
+Lexplore[13Cbuffer[15Cdebug[16Cfunction[13Clgetbuffer[11Cnumber[15Cright[16Csunmenu[14Cvim9cmd
+LogiPat[14Cbuffers[14Cdebuggreedy[10Cglobal[15Clgetexpr[13Cnunmap[15Crightbelow[11Csuspend[14Cvim9script
+LogiPatFlags[9Cbunload[14Cdef[18Cgoto[17Clgetfile[13Cnunmenu[14Cruby[17Csview[16Cvimgrep
+MANPAGER[13Cbwipeout[13Cdefcompile[11Cgrep[17Clgrep[16Coldfiles[13Crubydo[15Cswapname[13Cvimgrepadd
+MkVimball[12CcNext[16Cdefer[16Cgrepadd[14Clgrepadd[13Comap[17Crubyfile[13Csyncbind[13Cvisual
+NetUserPass[10CcNfile[15Cdelcommand[11Cgui[18Clhelpgrep[12Comapclear[12Crundo[16Csyntax[15Cviusage
+NetrwClean[11Ccabbrev[14Cdelete[15Cgvim[17Clhistory[13Comenu[16Cruntime[14Csyntime[14Cvmap
+NetrwSettings[8Ccabclear[13Cdelfunction[10Chardcopy[13Clist[17Conly[17Crviminfo[13Ct[20Cvmapclear
+Nexplore[13Ccabove[15Cdelmarks[13Chelp[17Cll[19Conoremap[13CsNext[16CtNext[16Cvmenu
+Next[17Ccaddbuffer[11Cdiffget[14Chelpclose[12Cllast[16Conoremenu[12Csall[17Ctab[18Cvnew
+NoMatchParen[9Ccaddexpr[13Cdiffoff[14Chelpfind[13Cllist[16Copen[17Csandbox[14CtabNext[14Cvnoremap
+[32m-- More --[?25h SPACE/d/j: screen/page/line down, b/u/k: up, q: quit [m[34;1H[K[?25l[34;1H:...[34;2H[K[34;2H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[34;1H[K[34;1H[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;mtest_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15136_prd_naveed_akbar_package.xml
+Already on 'r1qa'
+On branch r1qa
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard/
+	force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+	force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+	force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+	force-app/main/default/groups/
+	force-app/main/default/layouts/
+	force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+	force-app/main/default/objects/Colleague_Activity__c/
+	force-app/main/default/objects/User/
+	force-app/main/default/permissionsets/
+	force-app/main/default/profiles/Admin.profile-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Validating Deployment of v63.0 metadata to rob.mockler@boi.com.r1qa using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000l1CIcCAM
+
+Component Failures [2]
+================================================================================================================
+| Type  Name  Problem                                                                                            
+| ───── ───── ────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error Admin You may not modify the permission Administer territory operations while editing a Standard Profile 
+| Error Admin You may not modify the permission Administer territory operations while editing a Standard Profile 
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9b00000l1CIcCAM). Due To:
+1 component error(s)

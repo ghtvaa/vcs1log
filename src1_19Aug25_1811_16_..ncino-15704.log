@@ -1,0 +1,485 @@
+match branch with package test1
+o1g=amsdev;o2g=amsdev ; echo "amsdev $o1g $o2g $package1" ; git checkout amsdev && sf_retrieve1 && echo sf_add_retrieved1
+o1g=amsdev2;o2g=amsdev2 ; echo "amsdev2 $o1g $o2g $package1" ; git checkout amsdev2 && sf_retrieve1 && echo sf_add_retrieved1
+o1g=crifmock;o2g=crifmock ; echo "crifmock $o1g $o2g $package1" ; git checkout crifmock && sf_retrieve1 && echo sf_add_retrieved1
+o1g=kajal;o2g=kajal ; echo "kajal $o1g $o2g $package1" ; git checkout kajal && sf_retrieve1 && echo sf_add_retrieved1
+o1g=preprod;o2g=preprod ; echo "preprod $o1g $o2g $package1" ; git checkout preprod && sf_retrieve1 && echo sf_add_retrieved1
+o1g=product;o2g=product ; echo "product $o1g $o2g $package1" ; git checkout product && sf_retrieve1 && echo sf_add_retrieved1
+o1g=r1dev;o2g=r1dev ; echo "r1dev $o1g $o2g $package1" ; git checkout r1dev && sf_retrieve1 && echo sf_add_retrieved1
+o1g=r1poc;o2g=r1poc ; echo "r1poc $o1g $o2g $package1" ; git checkout r1poc && sf_retrieve1 && echo sf_add_retrieved1
+o1g=r1qa;o2g=r1qa ; echo "r1qa $o1g $o2g $package1" ; git checkout r1qa && sf_retrieve1 && echo sf_add_retrieved1
+o1g=R1Release;o2g=R1Release ; echo "R1Release $o1g $o2g $package1" ; git checkout R1Release && sf_retrieve1 && echo sf_add_retrieved1
+o1g=R1SIT;o2g=R1SIT ; echo "R1SIT $o1g $o2g $package1" ; git checkout R1SIT && sf_retrieve1 && echo sf_add_retrieved1
+o1g=r1trn;o2g=r1trn ; echo "r1trn $o1g $o2g $package1" ; git checkout r1trn && sf_retrieve1 && echo sf_add_retrieved1
+o1g=r2dev;o2g=r2dev ; echo "r2dev $o1g $o2g $package1" ; git checkout r2dev && sf_retrieve1 && echo sf_add_retrieved1
+o1g=rob1;o2g=rob1 ; echo "rob1 $o1g $o2g $package1" ; git checkout rob1 && sf_retrieve1 && echo sf_add_retrieved1
+o1g=sandeep;o2g=sandeep ; echo "sandeep $o1g $o2g $package1" ; git checkout sandeep && sf_retrieve1 && echo sf_add_retrieved1
+o1g=spreads1;o2g=spreads1 ; echo "spreads1 $o1g $o2g $package1" ; git checkout spreads1 && sf_retrieve1 && echo sf_add_retrieved1
+amsdev amsdev amsdev /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'amsdev'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'amsdev'
+On branch amsdev
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.amsdev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+amsdev2 amsdev2 amsdev2 /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'amsdev2'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'amsdev2'
+On branch amsdev2
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.amsdev2 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+crifmock crifmock crifmock /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'crifmock'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'crifmock'
+On branch crifmock
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.crifmock using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+kajal kajal kajal /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'kajal'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'kajal'
+On branch kajal
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.kajal using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+preprod preprod preprod /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'preprod'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'preprod'
+On branch preprod
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.preprod using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+product product product /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'product'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'product'
+On branch product
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+r1dev r1dev r1dev /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1dev'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1dev'
+On branch r1dev
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+r1poc r1poc r1poc /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1poc'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1poc'
+On branch r1poc
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1poc using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+r1qa r1qa r1qa /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1qa'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1qa'
+On branch r1qa
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+R1Release R1Release R1Release /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'R1Release'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'R1Release'
+On branch R1Release
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1release using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+R1SIT R1SIT R1SIT /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'R1SIT'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'R1SIT'
+On branch R1SIT
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+r1trn r1trn r1trn /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r1trn'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r1trn'
+On branch r1trn
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1trn using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+r2dev r2dev r2dev /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'r2dev'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'r2dev'
+On branch r2dev
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r2dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+rob1 rob1 rob1 /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'rob1'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'rob1'
+On branch rob1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.rob1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+sandeep sandeep sandeep /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'sandeep'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'sandeep'
+On branch sandeep
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.sandeep using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1
+spreads1 spreads1 spreads1 /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Switched to branch 'spreads1'
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+Already on 'spreads1'
+On branch spreads1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/profiles/Admin.profile-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================
+| State   Name  Type    Path                                                   
+| ─────── ───── ─────── ────────────────────────────────────────────────────── 
+| Changed Admin Profile force-app\main\default\profiles\Admin.profile-meta.xml 
+sf_add_retrieved1

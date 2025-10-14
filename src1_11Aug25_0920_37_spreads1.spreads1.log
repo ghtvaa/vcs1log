@@ -1,0 +1,52 @@
+HEAD is now at eb98e44 recent packages
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard/
+Removing force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+Removing force-app/main/default/flows/cm_BOI_Screen_Flow_Drawdown.flow-meta.xml
+Removing force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+Removing force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+Removing force-app/main/default/groups/
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/lwc/cm_DisplayMsgAndUpdateUI/
+Removing force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+Removing force-app/main/default/objects/Colleague_Activity__c/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_Rejected_Document__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/listViews/Satisfying_Conditions_Assigned.listView-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/listViews/Satisfying_Conditions_Security.listView-meta.xml
+Removing force-app/main/default/objects/User/
+Removing force-app/main/default/permissionsets/
+Removing force-app/main/default/profiles/Admin.profile-meta.xml
+Removing force-app/main/default/quickActions/
+Removing force-app/main/default/reports/BOISBAFulfilmentOps/
+Removing force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+Removing force-app/main/default/reports/ColleagueActivityReports/
+Removing force-app/main/default/tabs/
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd2_package.xml
+Switched to branch 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v63.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... Succeeded
+ »   Warning: Nothing retrieved
+Error (1): No source-backed components present in the package.

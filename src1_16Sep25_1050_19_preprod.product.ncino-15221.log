@@ -1,0 +1,135 @@
+HEAD is now at ea9b889 Org sync for ncino-15009
+Removing force-app/main/default/customPermissions/
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Business_Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flexipages/PersonsonAccount_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Prospect_Record_Creation.flow-meta.xml
+Removing force-app/main/default/objects/Account/compactLayouts/
+Removing force-app/main/default/objects/Account/fields/cm_Collate_Borrowing_Entity_ID__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Collate_Legal_Entity_ID__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Company_Basic_Report_Flag__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Is_Collateral_Prospect__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_TotalCollaterallendableValue__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Total_Exposure_for_LTV__c.field-meta.xml
+Removing force-app/main/default/objects/Account/validationRules/
+Removing force-app/main/default/objects/LLC_BI__Account_Collateral__c/
+Removing force-app/main/default/objects/PersonAccount/
+Removing force-app/main/default/permissionsets/
+On branch product
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15221_enri8f_package.xml
+Already on 'product'
+On branch product
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.preprod using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+===============================================================================================================================================================================================================
+| State   Name                                                            Type             Path                                                                                                                 
+| ─────── ─────────────────────────────────────────────────────────────── ──────────────── ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created Account.Relationship_Layout                                     CompactLayout    force-app\main\default\objects\Account\compactLayouts\Relationship_Layout.compactLayout-meta.xml                     
+| Created PersonAccount.Person_Account_BOI                                CompactLayout    force-app\main\default\objects\PersonAccount\compactLayouts\Person_Account_BOI.compactLayout-meta.xml                
+| Created PersonAccount.Prospect_Individual                               CompactLayout    force-app\main\default\objects\PersonAccount\compactLayouts\Prospect_Individual.compactLayout-meta.xml               
+| Created Account.cm_Collate_Borrowing_Entity_ID__c                       CustomField      force-app\main\default\objects\Account\fields\cm_Collate_Borrowing_Entity_ID__c.field-meta.xml                       
+| Created Account.cm_Collate_Legal_Entity_ID__c                           CustomField      force-app\main\default\objects\Account\fields\cm_Collate_Legal_Entity_ID__c.field-meta.xml                           
+| Created Account.cm_Company_Basic_Report_Flag__c                         CustomField      force-app\main\default\objects\Account\fields\cm_Company_Basic_Report_Flag__c.field-meta.xml                         
+| Created Account.cm_Is_Collateral_Prospect__c                            CustomField      force-app\main\default\objects\Account\fields\cm_Is_Collateral_Prospect__c.field-meta.xml                            
+| Created Account.cm_TotalCollaterallendableValue__c                      CustomField      force-app\main\default\objects\Account\fields\cm_TotalCollaterallendableValue__c.field-meta.xml                      
+| Created Account.cm_Total_Exposure_for_LTV__c                            CustomField      force-app\main\default\objects\Account\fields\cm_Total_Exposure_for_LTV__c.field-meta.xml                            
+| Created LLC_BI__Account_Collateral__c.LLC_BI__Collateral_Association__c CustomField      force-app\main\default\objects\LLC_BI__Account_Collateral__c\fields\LLC_BI__Collateral_Association__c.field-meta.xml 
+| Created Create_Collateral_Prospect                                      CustomPermission force-app\main\default\customPermissions\Create_Collateral_Prospect.customPermission-meta.xml                        
+| Created Business_Relationship_Layout                                    FlexiPage        force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml                                    
+| Created Business_Relationship_Layout_Read_Only                          FlexiPage        force-app\main\default\flexipages\Business_Relationship_Layout_Read_Only.flexipage-meta.xml                          
+| Created PersonsonAccount_Layout                                         FlexiPage        force-app\main\default\flexipages\PersonsonAccount_Layout.flexipage-meta.xml                                         
+| Created Relationship_Layout                                             FlexiPage        force-app\main\default\flexipages\Relationship_Layout.flexipage-meta.xml                                             
+| Created Relationship_Layout_Read_Only                                   FlexiPage        force-app\main\default\flexipages\Relationship_Layout_Read_Only.flexipage-meta.xml                                   
+| Created nCino_CM_Screen_Flow_Prospect_Record_Creation                   Flow             force-app\main\default\flows\nCino_CM_Screen_Flow_Prospect_Record_Creation.flow-meta.xml                             
+| Created HCL_Resource                                                    PermissionSet    force-app\main\default\permissionsets\HCL_Resource.permissionset-meta.xml                                            
+| Changed SB%26A Branch                                                   Profile          force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                                                       
+| Changed SB%26A CCR Compliance                                           Profile          force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                                               
+| Changed SB%26A Fulfillment                                              Profile          force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                  
+| Changed SB%26A Lending Support                                          Profile          force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                              
+| Changed SB%26A Readonly                                                 Profile          force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                     
+| Changed SB%26A Registration Team                                        Profile          force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                            
+| Changed SB%26A Sales                                                    Profile          force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                        
+| Changed SB%26A Sec Ops                                                  Profile          force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                      
+| Changed SB%26A Underwriting                                             Profile          force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                 
+| Changed Super User                                                      Profile          force-app\main\default\profiles\Super User.profile-meta.xml                                                          
+| Created Account.Collate_Borrowing_Entity_Id                             ValidationRule   force-app\main\default\objects\Account\validationRules\Collate_Borrowing_Entity_Id.validationRule-meta.xml           
+| Created Account.Collate_Legal_Entity_Id                                 ValidationRule   force-app\main\default\objects\Account\validationRules\Collate_Legal_Entity_Id.validationRule-meta.xml               
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com using the v64.0 SOAP API.
+Deploy ID: 0AfaV000000qkoLSAQ
+
+Component Failures [1]
+===================================================================================================================================================================================
+| Type  Name                                  Problem                                                                                                                               
+| ───── ───────────────────────────────────── ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error Account.cm_Portfolio_Loan_to_Value__c An object 'Account.cm_Portfolio_Loan_to_Value__c' of type CustomField was named in package.xml, but was not found in zipped directory 
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0AfaV000000qkoLSAQ). Due To:
+1 component error(s)

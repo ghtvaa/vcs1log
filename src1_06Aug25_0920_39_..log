@@ -1,0 +1,124 @@
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd1_package.xml
+Switched to branch 'r1qa'
+On branch r1qa
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	-
+	battery-report.html
+	batteryreport.html
+	batteryreport.xml
+	force-app/main/default/classes/LightningLoginFormController.cls
+	force-app/main/default/classes/LightningLoginFormController.cls-meta.xml
+	force-app/main/default/classes/RecalculateRelationshipStats.cls
+	force-app/main/default/classes/RecalculateRelationshipStats.cls-meta.xml
+	force-app/main/default/classes/UserInterfaceRecordOwnerUtility.cls
+	force-app/main/default/classes/UserInterfaceRecordOwnerUtility.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard/
+	force-app/main/default/flexipages/Business_Relationship_Layout_Read_Only.flexipage-meta.xml
+	force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+	force-app/main/default/flows/BOI_Record_Triggered_Spread_Statement_Record.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Autolaunched_Flow_Merge_Relationship.flow-meta.xml
+	force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+	force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+	force-app/main/default/groups/
+	force-app/main/default/layouts/
+	force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+	force-app/main/default/objects/Colleague_Activity__c/
+	force-app/main/default/objects/LLC_BI__Classification__c/
+	force-app/main/default/objects/LLC_BI__Debt__c/
+	force-app/main/default/objects/LLC_BI__Document_Placeholder__c/
+	force-app/main/default/objects/LLC_BI__Schedule_Entry__c/
+	force-app/main/default/objects/LLC_BI__Spread_Projections_Driver__c/
+	force-app/main/default/objects/LLC_BI__Spread_Statement_Period__c/
+	force-app/main/default/objects/LLC_BI__Spread_Statement_Type__c/
+	force-app/main/default/objects/LLC_BI__Underwriting_Bundle__c/
+	force-app/main/default/objects/User/
+	force-app/main/default/permissionsetgroups/
+	force-app/main/default/permissionsets/
+	force-app/main/default/profiles/Admin.profile-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v63.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+====================================================================================================================================================================================================================
+| State   Name                                                           Type                     Path                                                                                                               
+| ─────── ────────────────────────────────────────────────────────────── ──────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Changed nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls                                                   
+| Changed nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls-meta.xml                                          
+| Changed nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls                                               
+| Changed nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls-meta.xml                                      
+| Changed Colleague_Activity__c.Colleague__c                             CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Colleague__c.field-meta.xml                            
+| Changed Colleague_Activity__c.End_DateTime__c                          CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\End_DateTime__c.field-meta.xml                         
+| Changed Colleague_Activity__c.Loan__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Loan__c.field-meta.xml                                 
+| Changed Colleague_Activity__c.Profile__c                               CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Profile__c.field-meta.xml                              
+| Changed Colleague_Activity__c.Stage__c                                 CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Stage__c.field-meta.xml                                
+| Changed Colleague_Activity__c.Start_DateTime__c                        CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Start_DateTime__c.field-meta.xml                       
+| Changed Colleague_Activity__c.Time__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Time__c.field-meta.xml                                 
+| Changed User.Ongoing_Colleague_Activity_Tracker__c                     CustomField              force-app\main\default\objects\User\fields\Ongoing_Colleague_Activity_Tracker__c.field-meta.xml                    
+| Changed Colleague_Activity__c                                          CustomObject             force-app\main\default\objects\Colleague_Activity__c\Colleague_Activity__c.object-meta.xml                         
+| Changed ColleagueActivityDashboard/POhhYpciCCElDzowAlamqKSUORWAOd      Dashboard                force-app\main\default\dashboards\ColleagueActivityDashboard\POhhYpciCCElDzowAlamqKSUORWAOd.dashboard-meta.xml     
+| Changed ColleagueActivityDashboard                                     DashboardFolder          force-app\main\default\dashboards\ColleagueActivityDashboard.dashboardFolder-meta.xml                              
+| Changed Colleague_Activity                                             FlexiPage                force-app\main\default\flexipages\Colleague_Activity.flexipage-meta.xml                                            
+| Changed nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change Flow                     force-app\main\default\flows\nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml          
+| Changed nCino_Loan_Page_Colleague_Activity_Tracker                     Flow                     force-app\main\default\flows\nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml                              
+| Changed nCino_Tracker_Dashboards                                       Group                    force-app\main\default\groups\nCino_Tracker_Dashboards.group-meta.xml                                              
+| Changed Colleague_Activity__c-Colleague Activity Layout                Layout                   force-app\main\default\layouts\Colleague_Activity__c-Colleague Activity Layout.layout-meta.xml                     
+| Changed nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.html        
+| Changed nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js          
+| Changed nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js-meta.xml 
+| Changed Colleague_Activity__c.All                                      ListView                 force-app\main\default\objects\Colleague_Activity__c\listViews\All.listView-meta.xml                               
+| Changed nCino_Tracker_Admin                                            PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_Admin.permissionset-meta.xml                                   
+| Changed nCino_Tracker_User                                             PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_User.permissionset-meta.xml                                    
+| Changed Admin                                                          Profile                  force-app\main\default\profiles\Admin.profile-meta.xml                                                             
+| Changed ColleagueActivityReports/Average_Time_Per_Loan_eET             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_Per_Loan_eET.report-meta.xml                  
+| Changed ColleagueActivityReports/Average_Time_per_Role_OA6             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Role_OA6.report-meta.xml                  
+| Changed ColleagueActivityReports/Average_Time_per_Stage_FR1            Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Stage_FR1.report-meta.xml                 
+| Changed ColleagueActivityReports                                       ReportFolder             force-app\main\default\reports\ColleagueActivityReports.reportFolder-meta.xml                                      
+Validating Deployment of v63.0 metadata to rob.mockler@boi.com.r1qa using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000knKzBCAU
+
+Component Failures [4]
+==============================================================================================================================
+| Type  Name                Problem                                                                                            
+| ───── ─────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error nCino_Tracker_Admin In field: tab - no CustomTab named Colleague_Activity__c found                                     
+| Error Admin               You may not modify the permission Administer territory operations while editing a Standard Profile 
+| Error Admin               You may not modify the permission Administer territory operations while editing a Standard Profile 
+| Error nCino_Tracker_Admin In field: tab - no CustomTab named Colleague_Activity__c found                                     
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9b00000knKzBCAU). Due To:
+2 component error(s)

@@ -1,0 +1,85 @@
+HEAD is now at cd0298b Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Coll_Mgmt_Real_Estate_ecb.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Collateral_Valuation_Layout.flexipage-meta.xml
+Removing force-app/main/default/flows/BOI_Record_Trigger_Application_After_Save.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Record_Trigger_Loan_Update_Mandatory_Flow.flow-meta.xml
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Loan_Creation_2.flow-meta.xml
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/objects/Account/fieldSets/
+Removing force-app/main/default/objects/LLC_BI__Account_Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Type__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral_Valuation__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Loan_Collateral2__c/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fieldSets/LLC_BI__UI_Collateral_Summary.fieldSet-meta.xml
+On branch spreads1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'product' did not match any file(s) known to git
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com using the v64.0 SOAP API.
+Deploy ID: 0AfaV000000pqHVSAY
+
+Test Failures [6]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver1
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver2
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver3
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver4
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+
+Test Results Summary
+Passing: 150
+Failing: 6
+Total: 156
+Time: 269201
+Error (1): Failed to validate the deployment (0AfaV000000pqHVSAY). Due To:
+

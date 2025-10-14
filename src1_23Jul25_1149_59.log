@@ -1,0 +1,15 @@
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.r1trn using the v64.0 SOAP API.
+Deploy ID: 0Af9X000011BrW9SAK
+
+Test Failures [1]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+
+Test Results Summary
+Passing: 0
+Failing: 1
+Total: 1
+Time: 1264

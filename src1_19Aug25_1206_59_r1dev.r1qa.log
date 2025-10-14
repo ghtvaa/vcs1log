@@ -1,0 +1,9 @@
+HEAD is now at f3b93f5 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15136_prd_naveed_akbar_package.xml
+Already on 'r1qa'
+On branch r1qa
+nothing to commit, working tree clean
+Error (1): No source-backed components present in the package.

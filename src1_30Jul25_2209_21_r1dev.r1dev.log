@@ -1,0 +1,5 @@
+Error (1): Job ID can't be used for quick deployment. Possible reasons include the deployment hasn't been validated or the validation expired because you ran it more than 10 days ago.
+On branch r1dev
+nothing to commit, working tree clean
+On branch r1dev
+nothing to commit, working tree clean

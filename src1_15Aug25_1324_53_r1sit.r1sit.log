@@ -1,0 +1,11 @@
+HEAD is now at ea9b889 Org sync for ncino-15009
+Removing force-app/main/default/flows/BOI_Autolaunched_ERS_Validation.flow-meta.xml
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+
+Switched to branch 'r1sit'
+On branch r1sit
+nothing to commit, working tree clean
+Error (1): Flag --manifest expects a value
+Error (1): Flag --manifest expects a value

@@ -1,0 +1,206 @@
+Vim: Warning: Output is not to a terminal
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;34r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[34;1H"./force-app/main/default/profiles/Admin.profile-meta.xml" [unix] 957L, 29579B[1;1H[38;5;130m 15 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 14 [m[8C[36m<name>[mSubscribeReportToOtherUsers[36m</name>[m
+[38;5;130m 13 [m    [36m</userPermissions>[m
+[38;5;130m 12 [m    [36m<userPermissions>[m
+[38;5;130m 11 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 10 [m[8C[36m<name>[mSubscribeReportsRunAsUser[36m</name>[m
+[38;5;130m  9 [m    [36m</userPermissions>[m
+[38;5;130m  8 [m    [36m<userPermissions>[m
+[38;5;130m  7 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  6 [m[8C[36m<name>[mSubscribeToLightningDashboards[36m</name>[m
+[38;5;130m  5 [m    [36m</userPermissions>[m
+[38;5;130m  4 [m    [36m<userPermissions>[m
+[38;5;130m  3 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  2 [m[8C[36m<name>[mSubscribeToLightningReports[36m</name>[m
+[38;5;130m  1 [m    [36m</userPermissions>[m
+[38;5;130m845 [m    [36m<userPermissions>[m
+[38;5;130m  1 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  2 [m[8C[36m<name>[mTerritoryOperations[36m</name>[m
+[38;5;130m  3 [m    [36m</userPermissions>[m
+[38;5;130m  4 [m    [36m<userPermissions>[m
+[38;5;130m  5 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m  6 [m[8C[36m<name>[mTransactionalEmailSend[36m</name>[m
+[38;5;130m  7 [m    [36m</userPermissions>[m
+[38;5;130m  8 [m    [36m<userPermissions>[m
+[38;5;130m  9 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 10 [m[8C[36m<name>[mTransferAnyCase[36m</name>[m
+[38;5;130m 11 [m    [36m</userPermissions>[m
+[38;5;130m 12 [m    [36m<userPermissions>[m
+[38;5;130m 13 [m[8C[36m<enabled>[mtrue[36m</enabled>[m
+[38;5;130m 14 [m[8C[36m<name>[mTransferAnyEntity[36m</name>[m
+[38;5;130m 15 [m    [36m</userPermissions>[m
+[38;5;130m 16 [m    [36m<userPermissions>[m
+[1m[7m./force-app/main/default/profiles/Admin.profile-meta.xml [unix] (12:21 19/08/2025)                                                                                                     845,5 89%[16;9H[?25h[?4m[?25l[m[34;182H/[16;9H[34;1H[K[34;1H/[?25he[?25l[16;12H[7m[36me[m[33;188H[1m[7m8 
+[m/e[?25hr[?25l[16;13H[7m[36mr[34;4H[?25h[mr[?25l[1;3H[38;5;130m7
+ 16
+ 15
+ 14
+ 13
+ 12
+ 11
+ 10
+  9
+  8
+  7
+  6
+  5
+  4
+  3
+  2[m[8C[36mer[m
+
+[38;5;130m847[m[16C[7merr[m[19;3H[38;5;130m1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14[m[33;183H[1m[7m847,16 
+[m/err[?25hi[?25l[18;23H[7mi[34;6H[?25h[mt[?25l[18;24H[7mt[34;7H[?25h[?25l[m[34;1H[K[16;9H[1;3H[38;5;130m5
+ 14
+ 13
+ 12
+ 11
+ 10
+  9
+  8
+  7
+  6
+  5
+  4
+  3
+  2
+  1
+845
+
+  2[m[16Cerrit[19;3H[38;5;130m3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16[m[33;183H[1m[7m 845,5 [16;9H[?25h[?25l[m[34;182Hd[16;9H[?25h[?25l[34;183Hd[16;9H[34;182H  [16;13H[16;32r[32;1H
+[1;34r[16;1H[38;5;130m845
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16 [m[8C[36m<enabled>[mtrue[36m</enabled>[m[33;57H[1m[7m[+] [unix] (12:21 19/08/2025)[102C9 [16;13H[?25h[?25l[m[34;182Hd[16;13H[?25h[?25l[34;183Hd[16;13H[34;182H  [16;13H[16;32r[32;1H
+[1;34r[16;1H[38;5;130m845
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16 [m[8C[36m<name>[mTransferAnyLead[36m</name>[16;13H[?25h[?25l[m[34;182Hd[16;13H[?25h[?25l[34;183Hd[16;13H[34;182H  [16;9H[16;32r[32;1H
+[1;34r[16;1H[38;5;130m845
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16 [m    [36m</userPermissions>[m[33;188H[1m[7m5 [16;9H[?25h[?25l[m[34;182Hd[16;9H[?25h[?25l[34;183Hd[16;9H[34;182H  [16;9H[16;32r[32;1H
+[1;34r[16;1H[38;5;130m845
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16 [m    [36m<userPermissions>[m[33;190H[1m[7m90%[16;9H[?25h[?25l[m[34;182H^[[16;9H[34;182H  [16;9H[34;182H^[[16;9H[?5h[?25h[?5l[?25l[34;182H  [16;9H[?25h[?25l[34;182H^[[16;9H[34;182H  [16;9H[?25h[?25l[34;182H^[[16;9H[34;182H  [16;9H[34;182H^[[16;9H[34;182H  [16;9H[?25h[?25l[34;182H:[16;9H[34;182H[K[34;1H:[?25hwq[?25l[?2004l[>4;m"./force-app/main/default/profiles/Admin.profile-meta.xml" [unix] 953L, 29461B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;mtest_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15136_prd_naveed_akbar_package.xml
+Already on 'r1qa'
+On branch r1qa
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard/
+	force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+	force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+	force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+	force-app/main/default/groups/
+	force-app/main/default/layouts/
+	force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+	force-app/main/default/objects/Colleague_Activity__c/
+	force-app/main/default/objects/User/
+	force-app/main/default/permissionsets/
+	force-app/main/default/profiles/Admin.profile-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Validating Deployment of v63.0 metadata to rob.mockler@boi.com.r1qa using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000l1DJVCA2
+
+Component Failures [2]
+=============================================================================================================================
+| Type  Name  Problem                                                                                                         
+| ───── ───── ─────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error Admin You may not modify the permission Access to manage the template framework apps while editing a Standard Profile 
+| Error Admin You may not modify the permission Access to manage the template framework apps while editing a Standard Profile 
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9b00000l1DJVCA2). Due To:
+1 component error(s)

@@ -1,0 +1,22 @@
+HEAD is now at f3b93f5 recent packages
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard/
+Removing force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+Removing force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+Removing force-app/main/default/groups/
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+Removing force-app/main/default/objects/Colleague_Activity__c/
+Removing force-app/main/default/objects/User/
+Removing force-app/main/default/permissionsets/
+Removing force-app/main/default/profiles/Admin.profile-meta.xml
+Removing force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+Removing force-app/main/default/reports/ColleagueActivityReports/
+On branch r1qa
+nothing to commit, working tree clean
+bash: sf_retrieve1: command not found

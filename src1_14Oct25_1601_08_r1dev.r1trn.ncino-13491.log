@@ -1,0 +1,89 @@
+HEAD is now at 0a18103 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/objects/LLC_BI__Classification__c/
+Removing force-app/main/default/objects/LLC_BI__Debt__c/
+Removing force-app/main/default/objects/LLC_BI__Schedule_Entry__c/
+Removing force-app/main/default/objects/LLC_BI__Spread_Projections_Driver__c/
+Removing force-app/main/default/objects/LLC_BI__Spread_Statement_Period__c/
+Removing force-app/main/default/objects/LLC_BI__Spread_Statement_Type__c/
+Removing force-app/main/default/permissionsetgroups/
+On branch r1trn
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-13491_spr1_package.xml
+Already on 'r1trn'
+On branch r1trn
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1dev using the v65.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=========================================================================================================================================================================================================================
+| State   Name                                                             Type               Path                                                                                                                        
+| ─────── ──────────────────────────────────────────────────────────────── ────────────────── ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created LLC_BI__Classification__c.LLC_BI__Category__c                    CustomField        force-app\main\default\objects\LLC_BI__Classification__c\fields\LLC_BI__Category__c.field-meta.xml                          
+| Created LLC_BI__Debt__c.Annual_Payment__c                                CustomField        force-app\main\default\objects\LLC_BI__Debt__c\fields\Annual_Payment__c.field-meta.xml                                      
+| Created LLC_BI__Schedule_Entry__c.Kg_Value_Dairy_Cows__c                 CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Kg_Value_Dairy_Cows__c.field-meta.xml                       
+| Created LLC_BI__Schedule_Entry__c.Kg_Value_Formula__c                    CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Kg_Value_Formula__c.field-meta.xml                          
+| Created LLC_BI__Schedule_Entry__c.Lu__c                                  CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Lu__c.field-meta.xml                                        
+| Created LLC_BI__Schedule_Entry__c.Number__c                              CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Number__c.field-meta.xml                                    
+| Created LLC_BI__Schedule_Entry__c.Total_Lu__c                            CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Lu__c.field-meta.xml                                  
+| Created LLC_BI__Schedule_Entry__c.Total_Org_N__c                         CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Org_N__c.field-meta.xml                               
+| Created LLC_BI__Schedule_Entry__c.Total_Stock__c                         CustomField        force-app\main\default\objects\LLC_BI__Schedule_Entry__c\fields\Total_Stock__c.field-meta.xml                               
+| Created LLC_BI__Spread_Projections_Driver__c.LLC_BI__Type__c             CustomField        force-app\main\default\objects\LLC_BI__Spread_Projections_Driver__c\fields\LLC_BI__Type__c.field-meta.xml                   
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Source__c             CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\LLC_BI__Source__c.field-meta.xml                   
+| Created LLC_BI__Spread_Statement_Period__c.cm_Created_By__c              CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fields\cm_Created_By__c.field-meta.xml                    
+| Created LLC_BI__Spread_Statement_Type__c.LLC_BI__Type__c                 CustomField        force-app\main\default\objects\LLC_BI__Spread_Statement_Type__c\fields\LLC_BI__Type__c.field-meta.xml                       
+| Created LLC_BI__Spread_Statement_Period__c.LLC_BI__Spreads_Period_Header FieldSet           force-app\main\default\objects\LLC_BI__Spread_Statement_Period__c\fieldSets\LLC_BI__Spreads_Period_Header.fieldSet-meta.xml 
+| Created SBA_Fulfilment_PS_group                                          PermissionSetGroup force-app\main\default\permissionsetgroups\SBA_Fulfilment_PS_group.permissionsetgroup-meta.xml                              
+| Created Super_User_PS_group                                              PermissionSetGroup force-app\main\default\permissionsetgroups\Super_User_PS_group.permissionsetgroup-meta.xml                                  
+| Changed SB%26A Branch                                                    Profile            force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                                                              
+| Changed SB%26A CCR Compliance                                            Profile            force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                                                      
+| Changed SB%26A Fulfillment                                               Profile            force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                         
+| Changed SB%26A Lending Support                                           Profile            force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                                     
+| Changed SB%26A Readonly                                                  Profile            force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                            
+| Changed SB%26A Registration Team                                         Profile            force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                                   
+| Changed SB%26A Sales                                                     Profile            force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                               
+| Changed SB%26A Sec Ops                                                   Profile            force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                             
+| Changed SB%26A Underwriting                                              Profile            force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                        
+| Changed Super User                                                       Profile            force-app\main\default\profiles\Super User.profile-meta.xml                                                                 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1trn using the v65.0 SOAP API.
+Deploy ID: 0Af9X000012yZ1FSAU
+
+Component Failures [4]
+========================================================
+| Type  Name                  Problem                    
+| ───── ───────────────────── ────────────────────────── 
+| Error SB%26A Branch         Cannot update: userLicense 
+| Error SB%26A CCR Compliance Cannot update: userLicense 
+| Error SB%26A Branch         Cannot update: userLicense 
+| Error SB%26A CCR Compliance Cannot update: userLicense 
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9X000012yZ1FSAU). Due To:
+2 component error(s)

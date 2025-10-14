@@ -1,0 +1,107 @@
+HEAD is now at d3bccf4 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+Removing force-app/main/default/cachePartitions/
+Removing force-app/main/default/customPermissions/
+Removing force-app/main/default/delegateGroups/
+Removing force-app/main/default/flexipages/Test_Data_Generator.flexipage-meta.xml
+Removing force-app/main/default/flowDefinitions/
+Removing force-app/main/default/flows/BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml
+Removing force-app/main/default/flows/BOI_Screenflow_Create_Test_Data.flow-meta.xml
+Removing force-app/main/default/globalValueSets/
+Removing force-app/main/default/groups/
+Removing force-app/main/default/installedPackages/
+Removing force-app/main/default/notificationtypes/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fieldSets/Loan_Structure.fieldSet-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Tenant__c/
+Removing force-app/main/default/permissionsetgroups/
+Removing force-app/main/default/profiles/Admin.profile-meta.xml
+Removing force-app/main/default/quickActions/
+Removing force-app/main/default/tabs/
+Removing force-app/main/default/translations/
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-15135c_ksorgDelta1_package.xml
+Already on 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.kajal using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================================================================
+| State   Name                                        Type                   Path                                                                                                       
+| ─────── ─────────────────────────────────────────── ────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created Manage_Rates                                CustomTab              force-app\main\default\tabs\Manage_Rates.tab-meta.xml                                                      
+| Created Login_As                                    DelegateGroup          force-app\main\default\delegateGroups\Login_As.delegateGroup-meta.xml                                      
+| Created LLC_BI__Loan__c.Loan_Structure              FieldSet               force-app\main\default\objects\LLC_BI__Loan__c\fieldSets\Loan_Structure.fieldSet-meta.xml                  
+| Created Test_Data_Generator                         FlexiPage              force-app\main\default\flexipages\Test_Data_Generator.flexipage-meta.xml                                   
+| Created BOI_Screen_Flow_CIE_log_Test_Data_Generator Flow                   force-app\main\default\flows\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml                     
+| Created BOI_Screenflow_Create_Test_Data             Flow                   force-app\main\default\flows\BOI_Screenflow_Create_Test_Data.flow-meta.xml                                 
+| Created BOI_Screen_Flow_CIE_log_Test_Data_Generator FlowDefinition         force-app\main\default\flowDefinitions\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flowDefinition-meta.xml 
+| Created BOI_Screenflow_Create_Test_Data             FlowDefinition         force-app\main\default\flowDefinitions\BOI_Screenflow_Create_Test_Data.flowDefinition-meta.xml             
+| Created Automation_User                             Group                  force-app\main\default\groups\Automation_User.group-meta.xml                                               
+| Created System_Administrator_PS_group               PermissionSetGroup     force-app\main\default\permissionsetgroups\System_Administrator_PS_group.permissionsetgroup-meta.xml       
+| Created nFORCE__Default                             PlatformCachePartition force-app\main\default\cachePartitions\nFORCE__Default.cachePartition-meta.xml                             
+| Created Admin                                       Profile                force-app\main\default\profiles\Admin.profile-meta.xml                                                     
+| Changed Super User                                  Profile                force-app\main\default\profiles\Super User.profile-meta.xml                                                
+| Created nFORMS__LogACall                            QuickAction            force-app\main\default\quickActions\nFORMS__LogACall.quickAction-meta.xml                                  
+| Created en_US                                       Translations           force-app\main\default\translations\en_US.translation-meta.xml                                             
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000mxKlSSAU
+
+Validated Source
+=========================================================================================================================================================================================
+| State     Name                                        Type                   Path                                                                                                       
+| ───────── ─────────────────────────────────────────── ────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created   Manage_Rates                                CustomTab              force-app\main\default\tabs\Manage_Rates.tab-meta.xml                                                      
+| Changed   Login_As                                    DelegateGroup          force-app\main\default\delegateGroups\Login_As.delegateGroup-meta.xml                                      
+| Created   LLC_BI__Loan__c.Loan_Structure              FieldSet               force-app\main\default\objects\LLC_BI__Loan__c\fieldSets\Loan_Structure.fieldSet-meta.xml                  
+| Unchanged Test_Data_Generator                         FlexiPage              force-app\main\default\flexipages\Test_Data_Generator.flexipage-meta.xml                                   
+| Unchanged BOI_Screen_Flow_CIE_log_Test_Data_Generator Flow                   force-app\main\default\flows\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flow-meta.xml                     
+| Unchanged BOI_Screenflow_Create_Test_Data             Flow                   force-app\main\default\flows\BOI_Screenflow_Create_Test_Data.flow-meta.xml                                 
+| Unchanged BOI_Screen_Flow_CIE_log_Test_Data_Generator FlowDefinition         force-app\main\default\flowDefinitions\BOI_Screen_Flow_CIE_log_Test_Data_Generator.flowDefinition-meta.xml 
+| Unchanged BOI_Screenflow_Create_Test_Data             FlowDefinition         force-app\main\default\flowDefinitions\BOI_Screenflow_Create_Test_Data.flowDefinition-meta.xml             
+| Created   Automation_User                             Group                  force-app\main\default\groups\Automation_User.group-meta.xml                                               
+| Unchanged System_Administrator_PS_group               PermissionSetGroup     force-app\main\default\permissionsetgroups\System_Administrator_PS_group.permissionsetgroup-meta.xml       
+| Unchanged nFORCE__Default                             PlatformCachePartition force-app\main\default\cachePartitions\nFORCE__Default.cachePartition-meta.xml                             
+| Changed   Admin                                       Profile                force-app\main\default\profiles\Admin.profile-meta.xml                                                     
+| Changed   Super User                                  Profile                force-app\main\default\profiles\Super User.profile-meta.xml                                                
+| Unchanged nFORMS__LogACall                            QuickAction            force-app\main\default\quickActions\nFORMS__LogACall.quickAction-meta.xml                                  
+| Changed   en_US                                       Translations           force-app\main\default\translations\en_US.translation-meta.xml                                             
+
+Test Results Summary
+Passing: 166
+Failing: 0
+Total: 166
+Time: 213556
+
+Successfully validated the deployment (0Af9Q00000mxKlSSAU).
+Run "sf project deploy quick --job-id 0Af9Q00000mxKlSSAU" to execute this deploy
+Printing the return value successfull 0 \n/c/Users/c139079/Onedri~1/package_xml/ncino-15135c_ksorgDelta1_package.xml

@@ -1,0 +1,10 @@
+test_package
+Already on 'preprod'
+On branch preprod
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JError (1): Invalid types definition in manifest file: C:/Users/c139079/Onedri~1/EXT_package_xml/ncino-11719t2_cro1_package.xml.woUi
+Found: ""
+Preparing retrieve request... done
+Error (1): Invalid types definition in manifest file: C:/Users/c139079/Onedri~1/EXT_package_xml/ncino-11719t2_cro1_package.xml.woUi
+Found: ""

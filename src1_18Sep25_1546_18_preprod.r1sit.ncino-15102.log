@@ -1,0 +1,47 @@
+HEAD is now at c8b6791 recent packages
+Removing force-app/main/default/flows/BOI_Record_Trigger_Application_After_Save.flow-meta.xml
+On branch r1sit
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15102_flow_rollback1_package.xml
+Already on 'r1sit'
+On branch r1sit
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.preprod using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=============================================================================================================================================
+| State   Name                                      Type Path                                                                                 
+| ─────── ───────────────────────────────────────── ──── ──────────────────────────────────────────────────────────────────────────────────── 
+| Created BOI_Record_Trigger_Application_After_Save Flow force-app\main\default\flows\BOI_Record_Trigger_Application_After_Save.flow-meta.xml 
+| Changed BOI_Record_Trigger_Loan_After_Save        Flow force-app\main\default\flows\BOI_Record_Trigger_Loan_After_Save.flow-meta.xml        
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1sit using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000lc1T5CAI
+
+Test Failures [1]
+• cm_BookingBatchSchedulerControllerTest.getBookingScheduleTest
+  message: System.AssertException: Assertion Failed: Assertion Failed: : Expected: 4, Actual: 5
+  stacktrace: 
+    Class.cm_BookingBatchSchedulerControllerTest.getBookingScheduleTest: line 40, column 1
+
+
+Test Results Summary
+Passing: 170
+Failing: 1
+Total: 171
+Time: 262657
+Error (1): Failed to validate the deployment (0Af9b00000lc1T5CAI). Due To:
+

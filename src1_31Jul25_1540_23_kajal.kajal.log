@@ -1,0 +1,128 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-11719t2_cro1_package.xml.woUi
+error: pathspec 'kajal' did not match any file(s) known to git
+On branch r1qa
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.kajal using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+============================================================================================================================================================================
+| State   Name                                          Type                     Path                                                                                        
+| ─────── ───────────────────────────────────────────── ──────────────────────── ─────────────────────────────────────────────────────────────────────────────────────────── 
+| Changed Account.cm_HasInProgressRemediation__c        CustomField              force-app\main\default\objects\Account\fields\cm_HasInProgressRemediation__c.field-meta.xml 
+| Created LLC_BI__Loan__c.cm_IsFlow__c                  CustomField              force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_IsFlow__c.field-meta.xml           
+| Created CustomLabels                                  CustomLabels             force-app\main\default\labels\CustomLabels.labels-meta.xml                                  
+| Created Business_Relationship_Layout                  FlexiPage                force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml           
+| Created BOI_Record_Trigger_Relationship_After_Save    Flow                     force-app\main\default\flows\BOI_Record_Trigger_Relationship_After_Save.flow-meta.xml       
+| Created BOI_Record_Trigger_Relationship_Before_Insert Flow                     force-app\main\default\flows\BOI_Record_Trigger_Relationship_Before_Insert.flow-meta.xml    
+| Created BOI_Record_Triggered_LoanDocument_After_Save  Flow                     force-app\main\default\flows\BOI_Record_Triggered_LoanDocument_After_Save.flow-meta.xml     
+| Created cm_DisplayMsgAndUpdateUI                      LightningComponentBundle force-app\main\default\lwc\cm_DisplayMsgAndUpdateUI\cm_DisplayMsgAndUpdateUI.html           
+| Created cm_DisplayMsgAndUpdateUI                      LightningComponentBundle force-app\main\default\lwc\cm_DisplayMsgAndUpdateUI\cm_DisplayMsgAndUpdateUI.js             
+| Created cm_DisplayMsgAndUpdateUI                      LightningComponentBundle force-app\main\default\lwc\cm_DisplayMsgAndUpdateUI\cm_DisplayMsgAndUpdateUI.js-meta.xml    
+| Changed SB%26A Branch                                 Profile                  force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                              
+| Changed SB%26A CCR Compliance                         Profile                  force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                      
+| Changed SB%26A Fulfillment                            Profile                  force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                         
+| Changed SB%26A Lending Support                        Profile                  force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                     
+| Changed SB%26A Readonly                               Profile                  force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                            
+| Changed SB%26A Registration Team                      Profile                  force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                   
+| Changed SB%26A Sales                                  Profile                  force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                               
+| Changed SB%26A Sec Ops                                Profile                  force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                             
+| Changed SB%26A Underwriting                           Profile                  force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                        
+| Changed Super User                                    Profile                  force-app\main\default\profiles\Super User.profile-meta.xml                                 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.kajal using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000LA9h4SAD
+
+Component Failures [50]
+==================================================================================================================================================================================================
+| Type  Name                        Problem                                                                                                                                                        
+| ───── ─────────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: CM_CRIFCRDocumentUpload (133:13)                                                                                                      
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (129:9)                                                                                                 
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (127:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (126:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (125:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (124:9)                                                                                                 
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: CM_CRIFCRDocumentUpload (111:13)                                                                                                      
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (107:9)                                                                                                 
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (105:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (104:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (103:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (102:9)                                                                                                                     
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (101:9)                                                                                                 
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: CM_CRIFCRDocumentUpload (85:13)                                                                                                       
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (81:9)                                                                                                  
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: conDocument (75:48)                                                                                                                   
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: result (74:32)                                                                                                                        
+| Error CM_CRIFCRDocumentUploadTest Method does not exist or incorrect signature: void assertNotEquals(NULL, List<CM_CRIFCRDocumentUpload.OutputDataWrapper>, String) from the type System (73:16) 
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.OutputDataWrapper (70:9)                                                                                                 
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (65:9)                                                                                                  
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (63:9)                                                                                                                      
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (62:9)                                                                                                                      
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (61:9)                                                                                                                      
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData (60:9)                                                                                                                      
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper (59:9)                                                                                                  
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.OutputDataWrapper                                                                                                        
+| Error CM_CRIFCRDocumentUploadTest Method does not exist or incorrect signature: void assertNotEquals(NULL, List<CM_CRIFCRDocumentUpload.OutputDataWrapper>, String) from the type System         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: result                                                                                                                                
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: conDocument                                                                                                                           
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: CM_CRIFCRDocumentUpload                                                                                                               
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: CM_CRIFCRDocumentUpload                                                                                                               
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: inputData                                                                                                                             
+| Error CM_CRIFCRDocumentUploadTest Invalid type: CM_CRIFCRDocumentUpload.InputDataWrapper                                                                                                         
+| Error CM_CRIFCRDocumentUploadTest Variable does not exist: CM_CRIFCRDocumentUpload                                                                                                               
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0AfbY00000LA9h4SAD). Due To:
+25 component error(s)

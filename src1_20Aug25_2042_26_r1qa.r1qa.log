@@ -1,0 +1,88 @@
+Switched to branch 'r1qa'
+HEAD is now at eb98e44 recent packages
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15610_busrel1_package.xml
+Already on 'r1qa'
+On branch r1qa
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+======================================================================================================================================================
+| State   Name                                   Type      Path                                                                                        
+| ─────── ────────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────────────────── 
+| Created Business_Relationship_Layout           FlexiPage force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml           
+| Created Business_Relationship_Layout_Read_Only FlexiPage force-app\main\default\flexipages\Business_Relationship_Layout_Read_Only.flexipage-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1qa using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000l2uavCAA
+
+Validated Source
+========================================================================================================================================================
+| State     Name                                   Type      Path                                                                                        
+| ───────── ────────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────────────────── 
+| Unchanged Business_Relationship_Layout           FlexiPage force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml           
+| Unchanged Business_Relationship_Layout_Read_Only FlexiPage force-app\main\default\flexipages\Business_Relationship_Layout_Read_Only.flexipage-meta.xml 
+
+Test Results Summary
+Passing: 171
+Failing: 0
+Total: 171
+Time: 210929
+
+Successfully validated the deployment (0Af9b00000l2uavCAA).
+Run "sf project deploy quick --job-id 0Af9b00000l2uavCAA" to execute this deploy
+[r1qa 3627a66] recent packages
+ 2 files changed, 4754 insertions(+)
+ create mode 100644 force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+ create mode 100644 force-app/main/default/flexipages/Business_Relationship_Layout_Read_Only.flexipage-meta.xml
+On branch r1qa
+nothing to commit, working tree clean
+Printing the return value successfull 0 \n/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15610_busrel1_package.xml

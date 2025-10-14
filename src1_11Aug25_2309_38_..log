@@ -1,0 +1,35 @@
+missing metadata /c/devops/wkr2/vsc1/sfdx1
+flow:BOI_Autolaunched_ERS_Validation
+On branch r1sit
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/flows/BOI_Autolaunched_ERS_Validation.flow-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Retrieving v64.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+
+Retrieved Source
+=========================================================================================================================
+| State   Name                            Type Path                                                                       
+| ─────── ─────────────────────────────── ──── ────────────────────────────────────────────────────────────────────────── 
+| Changed BOI_Autolaunched_ERS_Validation Flow force-app\main\default\flows\BOI_Autolaunched_ERS_Validation.flow-meta.xml 
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.r1sit using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000ktD70CAE
+
+Test Failures [2]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+
+Test Results Summary
+Passing: 169
+Failing: 2
+Total: 171
+Time: 185251

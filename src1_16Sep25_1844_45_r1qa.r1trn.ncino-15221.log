@@ -1,0 +1,4 @@
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15221_enri8g_package.xml
+Run "sf apex get test -i 7079b000018Xw7G -o rob.mockler@boi.com.r1qa" to retrieve test results
+Run with --synchronous or increase --wait timeout to wait for results.

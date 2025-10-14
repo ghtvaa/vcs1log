@@ -1,0 +1,65 @@
+HEAD is now at 49297a6 recent packages
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Business_Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flexipages/PersonsonAccount_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Prospect_Record_Creation.flow-meta.xml
+Removing force-app/main/default/objects/Account/compactLayouts/
+Removing force-app/main/default/objects/PersonAccount/
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-16000_trn1_package.xml
+Switched to branch 'r1trn'
+On branch r1trn
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1qa using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+============================================================================================================================================
+| State   Name                             Type        Path                                                                                  
+| ─────── ──────────────────────────────── ─────────── ───────────────────────────────────────────────────────────────────────────────────── 
+| Created Account.cm_CheckTypePopulated__c CustomField force-app\main\default\objects\Account\fields\cm_CheckTypePopulated__c.field-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1trn using the v64.0 SOAP API.
+Deploy ID: 0Af9X000012FKUdSAO
+
+Validated Source
+============================================================================================================================================
+| State   Name                             Type        Path                                                                                  
+| ─────── ──────────────────────────────── ─────────── ───────────────────────────────────────────────────────────────────────────────────── 
+| Created Account.cm_CheckTypePopulated__c CustomField force-app\main\default\objects\Account\fields\cm_CheckTypePopulated__c.field-meta.xml 
+
+Test Results Summary
+Passing: 1
+Failing: 0
+Total: 1
+Time: 1275
+
+Successfully validated the deployment (0Af9X000012FKUdSAO).
+Run "sf project deploy quick --job-id 0Af9X000012FKUdSAO" to execute this deploy
+Printing the return value successfull 0 \n/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-16000_trn1_package.xml

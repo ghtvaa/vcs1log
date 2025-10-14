@@ -1,0 +1,84 @@
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.r1dev using the v64.0 SOAP API.
+Deploy ID: 0AfbY00000L0Yf9SAF
+
+Test Failures [14]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver1
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver2
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver3
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• UserInterfaceRecordOwnerUtilityTest.recordOwnerTestDriver4
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Staff ID is required when creating a new user.: []
+  stacktrace: 
+    Class.UserInterfaceRecordOwnerUtilityTest.createUser: line 142, column 1
+    Class.UserInterfaceRecordOwnerUtilityTest.setup: line 6, column 1
+
+• nCino_ColleagueActivityHelperTest.testCreateNewActivity_InvalidLoanId
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• nCino_ColleagueActivityHelperTest.testCreateNewActivity_NoPreviousActivity
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• nCino_ColleagueActivityHelperTest.testCreateNewActivity_Success
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• nCino_ColleagueActivityHelperTest.testCurrentUserProfileName
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• nCino_ColleagueActivityHelperTest.testGetPreviousActivityLoan_NoRecentActivity
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+• nCino_ColleagueActivityHelperTest.testUpdateActivityEndTime_Exception
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• nCino_ColleagueActivityHelperTest.testUpdateActivityEndTime_NoActiveRecord
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+• nCino_ColleagueActivityHelperTest.testUpdateActivityEndTime_Success
+  message: System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_USERNAME, Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). : [Username]
+  stacktrace: 
+    Class.nCino_ColleagueActivityHelperTest.setupTestData: line 20, column 1
+
+
+Test Results Summary
+Passing: 147
+Failing: 14
+Total: 161
+Time: 216709

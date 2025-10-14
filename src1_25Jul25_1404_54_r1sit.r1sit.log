@@ -1,0 +1,51 @@
+val test_package
+Already on 'r1sit'
+On branch r1sit
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/LightningLoginFormControllerTest.cls
+	force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml
+	force-app/main/default/classes/RecalculateRelationshipStatsTest.cls
+	force-app/main/default/classes/RecalculateRelationshipStatsTest.cls-meta.xml
+	force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls
+	force-app/main/default/classes/UserInterfaceRecordOwnerUtilityTest.cls-meta.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1sit using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000kZoymCAC
+
+Test Failures [2]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+
+Test Results Summary
+Passing: 9
+Failing: 2
+Total: 11
+Time: 22276
+Error (1): Failed to validate the deployment (0Af9b00000kZoymCAC). Due To:
+

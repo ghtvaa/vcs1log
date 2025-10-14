@@ -1,0 +1,12 @@
+config/
+force-app/
+jest.config.js
+package.json
+README.md
+scripts/
+sfdx-project.json
+0
+Tue, Aug  5, 2025  5:35:45 PM
+0
+ls: cannot access '/nnn': No such file or directory
+2

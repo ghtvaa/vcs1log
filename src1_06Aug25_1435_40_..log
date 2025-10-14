@@ -1,0 +1,400 @@
+HEAD is now at f3b93f5 recent packages
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+Removing force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+Removing force-app/main/default/dashboards/ColleagueActivityDashboard/
+Removing force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+Removing force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+Removing force-app/main/default/groups/
+Removing force-app/main/default/layouts/
+Removing force-app/main/default/lwc/nCino_ColleagueActivityTrackerUtility/
+Removing force-app/main/default/objects/Colleague_Activity__c/
+Removing force-app/main/default/objects/User/
+Removing force-app/main/default/permissionsets/
+Removing force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+Removing force-app/main/default/reports/ColleagueActivityReports/
+Removing force-app/main/default/tabs/
+On branch r1qa
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd2_package.xml
+Switched to branch 'spreads1'
+On branch spreads1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v63.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+====================================================================================================================================================================================================================
+| State   Name                                                           Type                     Path                                                                                                               
+| ─────── ────────────────────────────────────────────────────────────── ──────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls                                                   
+| Created nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls-meta.xml                                          
+| Created nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls                                               
+| Created nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls-meta.xml                                      
+| Created Colleague_Activity__c.Colleague__c                             CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Colleague__c.field-meta.xml                            
+| Created Colleague_Activity__c.End_DateTime__c                          CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\End_DateTime__c.field-meta.xml                         
+| Created Colleague_Activity__c.Loan__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Loan__c.field-meta.xml                                 
+| Created Colleague_Activity__c.Profile__c                               CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Profile__c.field-meta.xml                              
+| Created Colleague_Activity__c.Stage__c                                 CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Stage__c.field-meta.xml                                
+| Created Colleague_Activity__c.Start_DateTime__c                        CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Start_DateTime__c.field-meta.xml                       
+| Created Colleague_Activity__c.Time__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Time__c.field-meta.xml                                 
+| Created User.Ongoing_Colleague_Activity_Tracker__c                     CustomField              force-app\main\default\objects\User\fields\Ongoing_Colleague_Activity_Tracker__c.field-meta.xml                    
+| Created Colleague_Activity__c                                          CustomObject             force-app\main\default\objects\Colleague_Activity__c\Colleague_Activity__c.object-meta.xml                         
+| Created Colleague_Activity__c                                          CustomTab                force-app\main\default\tabs\Colleague_Activity__c.tab-meta.xml                                                     
+| Created ColleagueActivityDashboard/POhhYpciCCElDzowAlamqKSUORWAOd      Dashboard                force-app\main\default\dashboards\ColleagueActivityDashboard\POhhYpciCCElDzowAlamqKSUORWAOd.dashboard-meta.xml     
+| Created ColleagueActivityDashboard                                     DashboardFolder          force-app\main\default\dashboards\ColleagueActivityDashboard.dashboardFolder-meta.xml                              
+| Created Colleague_Activity                                             FlexiPage                force-app\main\default\flexipages\Colleague_Activity.flexipage-meta.xml                                            
+| Created nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change Flow                     force-app\main\default\flows\nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml          
+| Created nCino_Loan_Page_Colleague_Activity_Tracker                     Flow                     force-app\main\default\flows\nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml                              
+| Created nCino_Tracker_Dashboards                                       Group                    force-app\main\default\groups\nCino_Tracker_Dashboards.group-meta.xml                                              
+| Created Colleague_Activity__c-Colleague Activity Layout                Layout                   force-app\main\default\layouts\Colleague_Activity__c-Colleague Activity Layout.layout-meta.xml                     
+| Created nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.html        
+| Created nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js          
+| Created nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js-meta.xml 
+| Created Colleague_Activity__c.All                                      ListView                 force-app\main\default\objects\Colleague_Activity__c\listViews\All.listView-meta.xml                               
+| Created nCino_Tracker_Admin                                            PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_Admin.permissionset-meta.xml                                   
+| Created nCino_Tracker_User                                             PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_User.permissionset-meta.xml                                    
+| Created ColleagueActivityReports/Average_Time_Per_Loan_eET             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_Per_Loan_eET.report-meta.xml                  
+| Created ColleagueActivityReports/Average_Time_per_Role_OA6             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Role_OA6.report-meta.xml                  
+| Created ColleagueActivityReports/Average_Time_per_Stage_FR1            Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Stage_FR1.report-meta.xml                 
+| Created ColleagueActivityReports                                       ReportFolder             force-app\main\default\reports\ColleagueActivityReports.reportFolder-meta.xml                                      
+Validating Deployment of v63.0 metadata to rob.mockler@boi.com.spreads1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000lX9nsSAC
+
+Test Failures [78]
+• CM_CRIFGatewayAUEInvokeService.
+  message: line 39, column 57: Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFGatewayUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFGatewayUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_CRIFPPDocumentUpload.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_CRIFPPDocumentUpload : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_Callout.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_Callout : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_ERS_API_CalloutTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_ERS_API_CalloutTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_RequestWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_RequestWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_ResponseWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_ResponseWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ERS_WrapperTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ERS_WrapperTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLog.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLog : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ExceptionLogTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ExceptionLogTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidor : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_JwtAuthProvidorTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_JwtAuthProvidorTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocable.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocable : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CM_MergeRelationshipInvocableTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CM_MergeRelationshipInvocableTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_PortalLoginScreenControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_PortalLoginScreenControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_RCC_CopyTTMtoValidforCalcBatchTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationData.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationData : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanAmortizationRecord.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanAmortizationRecord : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanInvokeApexFromFlowController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanInvokeApexFromFlowController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanSubTotal.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanSubTotal : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_ShermanTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_ShermanTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_SmeRegDeclinePeriodBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_SmeRegDeclinePeriodBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_SmeRegDeclinePeriodBatch_Test.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_SmeRegDeclinePeriodBatch_Test : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_TestDataFactory.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_TestDataFactory : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_Utilities.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_Utilities : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesProvidor.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesProvidor : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• cm_UtilitiesTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class cm_UtilitiesTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLandingControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLandingControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesLoginControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegConfirmControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegConfirmControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• CommunitiesSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class CommunitiesSelfRegControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• FinancialUtils.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtils : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• FinancialUtilsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class FinancialUtilsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• ForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• ForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class ForgotPasswordControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningForgotPasswordControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningForgotPasswordControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningLoginFormControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningLoginFormControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• LightningSelfRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class LightningSelfRegisterControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• m_CreditDecisionTimerBatch.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class m_CreditDecisionTimerBatch : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MicrobatchSelfRegControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MicrobatchSelfRegControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MyProfilePageController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• MyProfilePageControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class MyProfilePageControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• nCino_ColleagueActivityHelper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class nCino_ColleagueActivityHelper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• nCino_ColleagueActivityHelperTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class nCino_ColleagueActivityHelperTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStats.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStats : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RecalculateRelationshipStatsTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RecalculateRelationshipStatsTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• RouteGroupsWrapper.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class RouteGroupsWrapper : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_CoreConstants_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_CoreConstants_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsOutboundMessageBase.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsOutboundMessageBase : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsSelector_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsSelector_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SEL_IntegrationsTransformService_TEST.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SEL_IntegrationsTransformService_TEST : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteLoginController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteLoginControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteLoginControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteRegisterController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• SiteRegisterControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class SiteRegisterControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• TestClassTypeProvider.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class TestClassTypeProvider : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupController.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupController : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UIRemoveGroupControllerTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UIRemoveGroupControllerTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepClone.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepClone : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceDeepCloneTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceDeepCloneTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceLookupKeyUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceLookupKeyUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtility.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtility : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+• UserInterfaceRecordOwnerUtilityTest.
+  message: line -1, column -1: Dependent class is invalid and needs recompilation:
+ Class UserInterfaceRecordOwnerUtilityTest : Method does not exist or incorrect signature: void contentAUEBody(LLC_BI__Loan__c) from the type CM_CRIFGatewayService
+
+
+Test Results Summary
+Passing: 0
+Failing: 78
+Total: 78
+Error (1): Failed to validate the deployment (0Af9Q00000lX9nsSAC). Due To:
+

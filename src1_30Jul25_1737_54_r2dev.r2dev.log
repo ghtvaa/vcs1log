@@ -1,0 +1,63 @@
+test_package
+Switched to branch 'r2dev'
+On branch r2dev
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard/
+	force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+	force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+	force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+	force-app/main/default/groups/
+	force-app/main/default/layouts/
+	force-app/main/default/lwc/
+	force-app/main/default/objects/Colleague_Activity__c/
+	force-app/main/default/objects/User/
+	force-app/main/default/permissionsets/
+	force-app/main/default/profiles/Admin.profile-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r2dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Changed LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Changed RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r2dev using the v64.0 SOAP API.
+Deploy ID: 0AfFg00000UMhBWKA1
+
+Validated Source
+=========================================================================================================================================
+| State     Name                                Type      Path                                                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Unchanged LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Unchanged RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+
+Test Results Summary
+Passing: 11
+Failing: 0
+Total: 11
+Time: 28558
+
+Successfully validated the deployment (0AfFg00000UMhBWKA1).
+Run "sf project deploy quick --job-id 0AfFg00000UMhBWKA1" to execute this deploy

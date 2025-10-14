@@ -1,0 +1,19 @@
+
+sf project deploy quick --job-id 0Af9Q00000lsjYCSAY --target-org rob1
+Deploy ID: 0Af9Q00000lsjYCSAY
+
+Validated Source
+=======================================================================================================
+| State   Name                                Type      Path
+| ─────── ─────────────────────────────────── ───────── ───────────────────────────────────────────────
+| Changed LightningLoginFormControllerTest    ApexClass classes\LightningLoginFormControllerTest.cls
+| Changed RecalculateRelationshipStatsTest    ApexClass classes\RecalculateRelationshipStatsTest.cls
+| Changed UserInterfaceRecordOwnerUtilityTest ApexClass classes\UserInterfaceRecordOwnerUtilityTest.cls
+
+Test Results Summary
+Passing: 166
+Failing: 0
+Total: 166
+Time: 242560
+
+Successfully deployed (0Af9Q00000lsjYCSAY).

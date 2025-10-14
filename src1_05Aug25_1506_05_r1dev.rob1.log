@@ -1,0 +1,100 @@
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd1_package.xml
+error: pathspec 'rob1' did not match any file(s) known to git
+On branch r1trn
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	-
+	battery-report.html
+	batteryreport.html
+	batteryreport.xml
+	force-app/main/default/classes/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v63.0 metadata from rob.mockler@boi.com.r1dev using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+====================================================================================================================================================================================================================
+| State   Name                                                           Type                     Path                                                                                                               
+| ─────── ────────────────────────────────────────────────────────────── ──────────────────────── ────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls                                                   
+| Created nCino_ColleagueActivityHelper                                  ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelper.cls-meta.xml                                          
+| Created nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls                                               
+| Created nCino_ColleagueActivityHelperTest                              ApexClass                force-app\main\default\classes\nCino_ColleagueActivityHelperTest.cls-meta.xml                                      
+| Created Colleague_Activity__c.Colleague__c                             CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Colleague__c.field-meta.xml                            
+| Created Colleague_Activity__c.End_DateTime__c                          CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\End_DateTime__c.field-meta.xml                         
+| Created Colleague_Activity__c.Loan__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Loan__c.field-meta.xml                                 
+| Created Colleague_Activity__c.Profile__c                               CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Profile__c.field-meta.xml                              
+| Created Colleague_Activity__c.Stage__c                                 CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Stage__c.field-meta.xml                                
+| Created Colleague_Activity__c.Start_DateTime__c                        CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Start_DateTime__c.field-meta.xml                       
+| Created Colleague_Activity__c.Time__c                                  CustomField              force-app\main\default\objects\Colleague_Activity__c\fields\Time__c.field-meta.xml                                 
+| Created User.Ongoing_Colleague_Activity_Tracker__c                     CustomField              force-app\main\default\objects\User\fields\Ongoing_Colleague_Activity_Tracker__c.field-meta.xml                    
+| Created Colleague_Activity__c                                          CustomObject             force-app\main\default\objects\Colleague_Activity__c\Colleague_Activity__c.object-meta.xml                         
+| Created ColleagueActivityDashboard/POhhYpciCCElDzowAlamqKSUORWAOd      Dashboard                force-app\main\default\dashboards\ColleagueActivityDashboard\POhhYpciCCElDzowAlamqKSUORWAOd.dashboard-meta.xml     
+| Created ColleagueActivityDashboard                                     DashboardFolder          force-app\main\default\dashboards\ColleagueActivityDashboard.dashboardFolder-meta.xml                              
+| Created Colleague_Activity                                             FlexiPage                force-app\main\default\flexipages\Colleague_Activity.flexipage-meta.xml                                            
+| Created nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change Flow                     force-app\main\default\flows\nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml          
+| Created nCino_Loan_Page_Colleague_Activity_Tracker                     Flow                     force-app\main\default\flows\nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml                              
+| Created nCino_Tracker_Dashboards                                       Group                    force-app\main\default\groups\nCino_Tracker_Dashboards.group-meta.xml                                              
+| Created Colleague_Activity__c-Colleague Activity Layout                Layout                   force-app\main\default\layouts\Colleague_Activity__c-Colleague Activity Layout.layout-meta.xml                     
+| Created nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.html        
+| Created nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js          
+| Created nCino_ColleagueActivityTrackerUtility                          LightningComponentBundle force-app\main\default\lwc\nCino_ColleagueActivityTrackerUtility\nCino_ColleagueActivityTrackerUtility.js-meta.xml 
+| Created Colleague_Activity__c.All                                      ListView                 force-app\main\default\objects\Colleague_Activity__c\listViews\All.listView-meta.xml                               
+| Created nCino_Tracker_Admin                                            PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_Admin.permissionset-meta.xml                                   
+| Created nCino_Tracker_User                                             PermissionSet            force-app\main\default\permissionsets\nCino_Tracker_User.permissionset-meta.xml                                    
+| Created Admin                                                          Profile                  force-app\main\default\profiles\Admin.profile-meta.xml                                                             
+| Created ColleagueActivityReports/Average_Time_Per_Loan_eET             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_Per_Loan_eET.report-meta.xml                  
+| Created ColleagueActivityReports/Average_Time_per_Role_OA6             Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Role_OA6.report-meta.xml                  
+| Created ColleagueActivityReports/Average_Time_per_Stage_FR1            Report                   force-app\main\default\reports\ColleagueActivityReports\Average_Time_per_Stage_FR1.report-meta.xml                 
+| Created ColleagueActivityReports                                       ReportFolder             force-app\main\default\reports\ColleagueActivityReports.reportFolder-meta.xml                                      
+Validating Deployment of v63.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9V00000n4WrXSAU
+
+Component Failures [12]
+===================================================================================================================================================
+| Type  Name                                                   Problem                                                                              
+| ───── ────────────────────────────────────────────────────── ──────────────────────────────────────────────────────────────────────────────────── 
+| Error nCino_ColleagueActivityTrackerUtility                  Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+|                                                              Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+| Error nCino_ColleagueActivityTrackerUtility                  Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+|                                                              Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+| Error nCino_Tracker_Admin                                    In field: tab - no CustomTab named Colleague_Activity__c found                       
+| Error nCino_Tracker_User                                     In field: apexClass - no ApexClass named nCino_ColleagueActivityHelper found         
+| Error Admin                                                  In field: apexClass - no ApexClass named nCino_ColleagueActivityHelper found         
+| Error classes/nCino_ColleagueActivityHelper.cls-meta.xml     The specified Package Version number does not exist for that Package: LLC_BI, 2.3923 
+| Error classes/nCino_ColleagueActivityHelperTest.cls-meta.xml The specified Package Version number does not exist for that Package: LLC_BI, 2.3923 
+| Error nCino_Tracker_Admin                                    In field: tab - no CustomTab named Colleague_Activity__c found                       
+| Error nCino_ColleagueActivityTrackerUtility                  Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+|                                                              Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+| Error nCino_ColleagueActivityTrackerUtility                  Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+|                                                              Unable to find Apex action class referenced as 'nCino_ColleagueActivityHelper'.      
+| Error Admin                                                  In field: apexClass - no ApexClass named nCino_ColleagueActivityHelper found         
+| Error nCino_Tracker_User                                     In field: apexClass - no ApexClass named nCino_ColleagueActivityHelper found         
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9V00000n4WrXSAU). Due To:
+7 component error(s)

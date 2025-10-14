@@ -1,0 +1,38 @@
+[Error: ENOENT: no such file or directory, rename 'C:\Users\c139079\.sf\sf.log' -> 'C:\Users\c139079\.sf\sf.log.0'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'rename',
+  path: 'C:\\Users\\c139079\\.sf\\sf.log',
+  dest: 'C:\\Users\\c139079\\.sf\\sf.log.0'
+}
+[Error: ENOENT: no such file or directory, rename 'C:\Users\c139079\.sf\sf.log' -> 'C:\Users\c139079\.sf\sf.log.0'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'rename',
+  path: 'C:\\Users\\c139079\\.sf\\sf.log',
+  dest: 'C:\\Users\\c139079\\.sf\\sf.log.0'
+}
+Retrieving v64.0 metadata from rob.mockler@boi.com using the v64.0 SOAP API
+
+Retrieved Source
+=============================================================================================================================================
+| State   Name                                      Type Path                                                                                 
+| ─────── ───────────────────────────────────────── ──── ──────────────────────────────────────────────────────────────────────────────────── 
+| Changed BOI_Record_Trigger_Requirement_After_Save Flow force-app\main\default\flows\BOI_Record_Trigger_Requirement_After_Save.flow-meta.xml 
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.preprod using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000lQMLFCA4
+
+Validated Source
+===============================================================================================================================================
+| State     Name                                      Type Path                                                                                 
+| ───────── ───────────────────────────────────────── ──── ──────────────────────────────────────────────────────────────────────────────────── 
+| Unchanged BOI_Record_Trigger_Requirement_After_Save Flow force-app\main\default\flows\BOI_Record_Trigger_Requirement_After_Save.flow-meta.xml 
+
+Test Results Summary
+Passing: 6
+Failing: 0
+Total: 6
+Time: 2724
+
+Successfully validated the deployment (0Af9b00000lQMLFCA4).
+Run "sf project deploy quick --job-id 0Af9b00000lQMLFCA4" to execute this deploy

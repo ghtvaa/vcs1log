@@ -1,0 +1,24 @@
+Retrieving v64.0 metadata from rob.mockler@boi.com using the v64.0 SOAP API
+
+Retrieved Source
+=============================================================================================================================================
+| State   Name                                      Type Path                                                                                 
+| ─────── ───────────────────────────────────────── ──── ──────────────────────────────────────────────────────────────────────────────────── 
+| Changed BOI_Record_Trigger_Requirement_After_Save Flow force-app\main\default\flows\BOI_Record_Trigger_Requirement_After_Save.flow-meta.xml 
+Validating Deployment of v64.0 metadata to rob.mockler@boi.com.preprod using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000lQheACAS
+
+Validated Source
+===============================================================================================================================================
+| State     Name                                      Type Path                                                                                 
+| ───────── ───────────────────────────────────────── ──── ──────────────────────────────────────────────────────────────────────────────────── 
+| Unchanged BOI_Record_Trigger_Requirement_After_Save Flow force-app\main\default\flows\BOI_Record_Trigger_Requirement_After_Save.flow-meta.xml 
+
+Test Results Summary
+Passing: 6
+Failing: 0
+Total: 6
+Time: 2463
+
+Successfully validated the deployment (0Af9b00000lQheACAS).
+Run "sf project deploy quick --job-id 0Af9b00000lQheACAS" to execute this deploy

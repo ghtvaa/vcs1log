@@ -1,0 +1,23 @@
+HEAD is now at ea9b889 Org sync for ncino-15009
+Removing force-app/main/default/customPermissions/
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Business_Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flexipages/PersonsonAccount_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Prospect_Record_Creation.flow-meta.xml
+Removing force-app/main/default/objects/Account/fields/Is_Blank_EBITA__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Collate_Borrowing_Entity_ID__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Collate_Legal_Entity_ID__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Company_Basic_Report_Flag__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Is_Collateral_Prospect__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Portfolio_Loan_to_Value__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_TotalCollaterallendableValue__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Total_Exposure_for_LTV__c.field-meta.xml
+Removing force-app/main/default/objects/Account/validationRules/
+Removing force-app/main/default/objects/LLC_BI__Account_Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Collateral__c/
+Removing force-app/main/default/permissionsets/
+On branch preprod
+nothing to commit, working tree clean
+bash: sf_retrieve_validate1test: command not found

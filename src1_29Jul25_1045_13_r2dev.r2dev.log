@@ -1,0 +1,8 @@
+val test_package
+Already on 'r1dev'
+On branch r1dev
+nothing to commit, working tree clean
+Error (1): Parsing --manifest 
+	No file found at Ireland/EXT_package_xml/ncino-15136_prd1_package.xml
+See more help with --help
+Error (1): Ireland/EXT_package_xml/ncino-15136_prd1_package.xml: File or folder not found

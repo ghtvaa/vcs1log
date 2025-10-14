@@ -1,0 +1,21 @@
+Deploy ID: 0Af9b00000kg7H7CAI
+
+Validated Source
+=========================================================================================================
+| State     Name                                Type      Path                                            
+| ───────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────── 
+| Unchanged LightningLoginFormControllerTest    ApexClass classes\LightningLoginFormControllerTest.cls    
+| Changed   RecalculateRelationshipStatsTest    ApexClass classes\RecalculateRelationshipStatsTest.cls    
+| Unchanged UserInterfaceRecordOwnerUtilityTest ApexClass classes\UserInterfaceRecordOwnerUtilityTest.cls 
+
+Test Results Summary
+Passing: 11
+Failing: 0
+Total: 11
+Time: 17961
+
+Successfully deployed (0Af9b00000kg7H7CAI).
+On branch r1qa
+nothing to commit, working tree clean
+On branch r1qa
+nothing to commit, working tree clean

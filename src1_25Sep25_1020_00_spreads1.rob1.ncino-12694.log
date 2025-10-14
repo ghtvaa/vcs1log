@@ -1,0 +1,116 @@
+HEAD is now at 671ee84 Update trests org
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/PersonsonAccount_Layout.flexipage-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Total_BKK_Exposure__c.field-meta.xml
+Removing force-app/main/default/objects/Account/fields/cm_Total_CCR_External_Exposure__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Collateral__c/
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_CCRContractCode__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_CIPCodeEncrypted__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_CreditLimit__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_Dateoflastpayment__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_FinancedAmount__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_NextPaymentDate__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_OutstandingBalance__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_PaymentFrequencyDesc__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_PaymentFrequency__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_StartDate__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/BOI_ccr_TotalNumberOfPlannedPayments__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Product_Line__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Product_Type__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Product__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/LLC_BI__Stage__c.field-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Product_Package__c/
+On branch stephen
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-12694_fieldsr2_package.xml
+Switched to branch 'rob1'
+On branch rob1
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+================================================================================================================================================================================================================
+| State   Name                                                               Type        Path                                                                                                                    
+| ─────── ────────────────────────────────────────────────────────────────── ─────────── ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created Account.cm_Total_BKK_Exposure__c                                   CustomField force-app\main\default\objects\Account\fields\cm_Total_BKK_Exposure__c.field-meta.xml                                   
+| Created Account.cm_Total_CCR_External_Exposure__c                          CustomField force-app\main\default\objects\Account\fields\cm_Total_CCR_External_Exposure__c.field-meta.xml                          
+| Created LLC_BI__Collateral__c.LLC_BI__Collateral_Name__c                   CustomField force-app\main\default\objects\LLC_BI__Collateral__c\fields\LLC_BI__Collateral_Name__c.field-meta.xml                   
+| Created LLC_BI__Loan__c.BOI_ccr_CCRContractCode__c                         CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_CCRContractCode__c.field-meta.xml                         
+| Created LLC_BI__Loan__c.BOI_ccr_CIPCodeEncrypted__c                        CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_CIPCodeEncrypted__c.field-meta.xml                        
+| Created LLC_BI__Loan__c.BOI_ccr_CreditLimit__c                             CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_CreditLimit__c.field-meta.xml                             
+| Created LLC_BI__Loan__c.BOI_ccr_Dateoflastpayment__c                       CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_Dateoflastpayment__c.field-meta.xml                       
+| Created LLC_BI__Loan__c.BOI_ccr_FinancedAmount__c                          CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_FinancedAmount__c.field-meta.xml                          
+| Created LLC_BI__Loan__c.BOI_ccr_NextPaymentDate__c                         CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_NextPaymentDate__c.field-meta.xml                         
+| Created LLC_BI__Loan__c.BOI_ccr_OutstandingBalance__c                      CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_OutstandingBalance__c.field-meta.xml                      
+| Created LLC_BI__Loan__c.BOI_ccr_PaymentFrequencyDesc__c                    CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_PaymentFrequencyDesc__c.field-meta.xml                    
+| Created LLC_BI__Loan__c.BOI_ccr_PaymentFrequency__c                        CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_PaymentFrequency__c.field-meta.xml                        
+| Created LLC_BI__Loan__c.BOI_ccr_StartDate__c                               CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_StartDate__c.field-meta.xml                               
+| Created LLC_BI__Loan__c.BOI_ccr_TotalNumberOfPlannedPayments__c            CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\BOI_ccr_TotalNumberOfPlannedPayments__c.field-meta.xml            
+| Created LLC_BI__Loan__c.LLC_BI__Product_Line__c                            CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\LLC_BI__Product_Line__c.field-meta.xml                            
+| Created LLC_BI__Loan__c.LLC_BI__Product_Type__c                            CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\LLC_BI__Product_Type__c.field-meta.xml                            
+| Created LLC_BI__Loan__c.LLC_BI__Product__c                                 CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\LLC_BI__Product__c.field-meta.xml                                 
+| Created LLC_BI__Loan__c.LLC_BI__Stage__c                                   CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\LLC_BI__Stage__c.field-meta.xml                                   
+| Created LLC_BI__Product_Package__c.LLC_BI__Loan_Facilities_Count__c        CustomField force-app\main\default\objects\LLC_BI__Product_Package__c\fields\LLC_BI__Loan_Facilities_Count__c.field-meta.xml        
+| Created LLC_BI__Product_Package__c.LLC_BI__Stage__c                        CustomField force-app\main\default\objects\LLC_BI__Product_Package__c\fields\LLC_BI__Stage__c.field-meta.xml                        
+| Created LLC_BI__Product_Package__c.LLC_BI__Status__c                       CustomField force-app\main\default\objects\LLC_BI__Product_Package__c\fields\LLC_BI__Status__c.field-meta.xml                       
+| Created LLC_BI__Product_Package__c.LLC_BI__Total_Loan_Facilities_Amount__c CustomField force-app\main\default\objects\LLC_BI__Product_Package__c\fields\LLC_BI__Total_Loan_Facilities_Amount__c.field-meta.xml 
+| Created Business_Relationship_Layout                                       FlexiPage   force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml                                       
+| Created PersonsonAccount_Layout                                            FlexiPage   force-app\main\default\flexipages\PersonsonAccount_Layout.flexipage-meta.xml                                            
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.rob1 using the v64.0 SOAP API.
+Deploy ID: 0Af9Q00000mqjqDSAQ
+
+Component Failures [4]
+==================================================================================================================================================================================
+| Type  Name                         Problem                                                                                                                                       
+| ───── ──────────────────────────── ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error Business_Relationship_Layout Something went wrong. We couldn't retrieve or load the information on the field: Record.Related_Party_Lending_to_the_Relationshi__c. (376:28) 
+| Error PersonsonAccount_Layout      Something went wrong. We couldn't retrieve or load the information on the field: Record.cm_Vulnerable_Customer__c. (200:28)                   
+| Error Business_Relationship_Layout Something went wrong. We couldn't retrieve or load the information on the field: Record.Related_Party_Lending_to_the_Relationshi__c.          
+| Error PersonsonAccount_Layout      Something went wrong. We couldn't retrieve or load the information on the field: Record.cm_Vulnerable_Customer__c.                            
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0Af9Q00000mqjqDSAQ). Due To:
+2 component error(s)

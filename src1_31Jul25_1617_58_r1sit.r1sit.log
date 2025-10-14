@@ -1,0 +1,120 @@
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/package_xml/ncino-15009_atest4_package.xml
+Switched to branch 'r1sit'
+On branch r1sit
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/CM_CRIFGatewayAUEInvokeService.cls
+	force-app/main/default/classes/CM_CRIFGatewayAUEInvokeService.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayCCRFinalDisplay.cls
+	force-app/main/default/classes/CM_CRIFGatewayCCRFinalDisplay.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayCCRGetPDFService.cls
+	force-app/main/default/classes/CM_CRIFGatewayCCRGetPDFService.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayCCRInvokeService.cls
+	force-app/main/default/classes/CM_CRIFGatewayCCRInvokeService.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayCCRInvokeServiceTest.cls
+	force-app/main/default/classes/CM_CRIFGatewayCCRInvokeServiceTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayCCRReport.cls
+	force-app/main/default/classes/CM_CRIFGatewayCCRReport.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayResponseParser.cls
+	force-app/main/default/classes/CM_CRIFGatewayResponseParser.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayService.cls
+	force-app/main/default/classes/CM_CRIFGatewayService.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFGatewayUtility.cls
+	force-app/main/default/classes/CM_CRIFGatewayUtility.cls-meta.xml
+	force-app/main/default/classes/MySoapGetPdfMockResponse.cls
+	force-app/main/default/classes/MySoapGetPdfMockResponse.cls-meta.xml
+	force-app/main/default/classes/MySoapInvokeMockResponse.cls
+	force-app/main/default/classes/MySoapInvokeMockResponse.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelper.cls-meta.xml
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls
+	force-app/main/default/classes/nCino_ColleagueActivityHelperTest.cls-meta.xml
+	force-app/main/default/customMetadata/
+	force-app/main/default/dashboards/ColleagueActivityDashboard.dashboardFolder-meta.xml
+	force-app/main/default/dashboards/ColleagueActivityDashboard/
+	force-app/main/default/externalCredentials/
+	force-app/main/default/flexipages/Colleague_Activity.flexipage-meta.xml
+	force-app/main/default/flows/BOI_Autolaunched_Flow_Get_Browsing_structure_for_Loan.flow-meta.xml
+	force-app/main/default/flows/BOI_Autolaunched_Flow_Update_CCr_Report_Smart_Checklist.flow-meta.xml
+	force-app/main/default/flows/BOI_Screen_Flow_CCR_Main_Flow.flow-meta.xml
+	force-app/main/default/flows/BOI_Screen_Flow_CCR_Save_PDF_report.flow-meta.xml
+	force-app/main/default/flows/BOI_Screen_Flow_CRIF_AUE_Call_for_Loan.flow-meta.xml
+	force-app/main/default/flows/nCino_Colleague_Activity_Tracker_update_from_Loan_Stage_Change.flow-meta.xml
+	force-app/main/default/flows/nCino_Loan_Page_Colleague_Activity_Tracker.flow-meta.xml
+	force-app/main/default/groups/
+	force-app/main/default/layouts/
+	force-app/main/default/lwc/
+	force-app/main/default/namedCredentials/
+	force-app/main/default/objects/BOI_CCR_Fields_Config__mdt/
+	force-app/main/default/objects/BOI_CCR__c/
+	force-app/main/default/objects/BOI_CRIF_Error_Message_Mapping__mdt/
+	force-app/main/default/objects/BOI_Contract_Type_Mapping__mdt/
+	force-app/main/default/objects/BOI_Loan_Purpose_Mapping__mdt/
+	force-app/main/default/objects/Colleague_Activity__c/
+	force-app/main/default/objects/LLC_BI_CRIF_Error_Log__c/
+	force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_Loan_Purpose__c.field-meta.xml
+	force-app/main/default/objects/User/
+	force-app/main/default/objects/cm_CRIF_CCR_Result__c/
+	force-app/main/default/objects/cm_Company_Report_Result__c/
+	force-app/main/default/objects/cm_People__c/
+	force-app/main/default/permissionsets/
+	force-app/main/default/profiles/Admin.profile-meta.xml
+	force-app/main/default/quickActions/
+	force-app/main/default/reports/ColleagueActivityReports.reportFolder-meta.xml
+	force-app/main/default/reports/ColleagueActivityReports/
+
+nothing added to commit but untracked files present (use "git add" to track)
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.r1sit using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m Pending
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+=======================================================================================================================================
+| State   Name                                Type      Path                                                                            
+| ─────── ─────────────────────────────────── ───────── ─────────────────────────────────────────────────────────────────────────────── 
+| Created CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                      
+| Created CM_CRIFCRDocumentUpload             ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml             
+| Created CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                  
+| Created CM_CRIFCRDocumentUploadTest         ApexClass force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml         
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls                 
+| Created LightningLoginFormController        ApexClass force-app\main\default\classes\LightningLoginFormController.cls-meta.xml        
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls             
+| Created LightningLoginFormControllerTest    ApexClass force-app\main\default\classes\LightningLoginFormControllerTest.cls-meta.xml    
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls                 
+| Created RecalculateRelationshipStats        ApexClass force-app\main\default\classes\RecalculateRelationshipStats.cls-meta.xml        
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls             
+| Created RecalculateRelationshipStatsTest    ApexClass force-app\main\default\classes\RecalculateRelationshipStatsTest.cls-meta.xml    
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls              
+| Created UserInterfaceRecordOwnerUtility     ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtility.cls-meta.xml     
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls          
+| Created UserInterfaceRecordOwnerUtilityTest ApexClass force-app\main\default\classes\UserInterfaceRecordOwnerUtilityTest.cls-meta.xml 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.r1sit using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000khEbWCAU
+
+Test Failures [2]
+• RecalculateRelationshipStatsTest.driver
+  message: System.AsyncException: Based on configured schedule, the given trigger 'SCHEDULED_APEX_JOB_TYPE.000000000000000' will never fire.
+  stacktrace: 
+    Class.RecalculateRelationshipStatsTest.driver: line 11, column 1
+
+• LightningLoginFormControllerTest.testLoginWithInvalidCredentials
+  message: System.AssertException: Assertion Failed: Expected: Argument 1 cannot be null, Actual: null
+  stacktrace: 
+    Class.LightningLoginFormControllerTest.testLoginWithInvalidCredentials: line 6, column 1
+
+
+Test Results Summary
+Passing: 164
+Failing: 2
+Total: 166
+Time: 273034
+Error (1): Failed to validate the deployment (0Af9b00000khEbWCAU). Due To:
+

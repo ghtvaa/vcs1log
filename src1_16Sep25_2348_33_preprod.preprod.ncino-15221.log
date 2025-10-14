@@ -1,0 +1,460 @@
+HEAD is now at f597de8 recent packages
+Removing force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout.flexipage-meta.xml
+Removing force-app/main/default/flexipages/Relationship_Layout_Read_Only.flexipage-meta.xml
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Prospect_Record_Creation.flow-meta.xml
+On branch r1trn
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15221_enri8h_package.xml
+Switched to branch 'preprod'
+On branch preprod
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.preprod using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+===============================================================================================================================================================================================================
+| State   Name                                                            Type             Path                                                                                                                 
+| ─────── ─────────────────────────────────────────────────────────────── ──────────────── ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created CM_CRIFCRDocumentUpload                                         ApexClass        force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls                                                           
+| Created CM_CRIFCRDocumentUpload                                         ApexClass        force-app\main\default\classes\CM_CRIFCRDocumentUpload.cls-meta.xml                                                  
+| Created CM_CRIFCRDocumentUploadTest                                     ApexClass        force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls                                                       
+| Created CM_CRIFCRDocumentUploadTest                                     ApexClass        force-app\main\default\classes\CM_CRIFCRDocumentUploadTest.cls-meta.xml                                              
+| Created CM_CRIFCompanyReportPDFController                               ApexClass        force-app\main\default\classes\CM_CRIFCompanyReportPDFController.cls                                                 
+| Created CM_CRIFCompanyReportPDFController                               ApexClass        force-app\main\default\classes\CM_CRIFCompanyReportPDFController.cls-meta.xml                                        
+| Created CM_CRIFCompanyReportPDFControllerTest                           ApexClass        force-app\main\default\classes\CM_CRIFCompanyReportPDFControllerTest.cls                                             
+| Created CM_CRIFCompanyReportPDFControllerTest                           ApexClass        force-app\main\default\classes\CM_CRIFCompanyReportPDFControllerTest.cls-meta.xml                                    
+| Created CM_CRIFGatewayCCRInvokeService                                  ApexClass        force-app\main\default\classes\CM_CRIFGatewayCCRInvokeService.cls                                                    
+| Created CM_CRIFGatewayCCRInvokeService                                  ApexClass        force-app\main\default\classes\CM_CRIFGatewayCCRInvokeService.cls-meta.xml                                           
+| Created CM_CRIFGatewayCCRInvokeServiceTest                              ApexClass        force-app\main\default\classes\CM_CRIFGatewayCCRInvokeServiceTest.cls                                                
+| Created CM_CRIFGatewayCCRInvokeServiceTest                              ApexClass        force-app\main\default\classes\CM_CRIFGatewayCCRInvokeServiceTest.cls-meta.xml                                       
+| Created CM_CreditActionRequest                                          ApexClass        force-app\main\default\classes\CM_CreditActionRequest.cls                                                            
+| Created CM_CreditActionRequest                                          ApexClass        force-app\main\default\classes\CM_CreditActionRequest.cls-meta.xml                                                   
+| Created CM_CreditActionRequestTest                                      ApexClass        force-app\main\default\classes\CM_CreditActionRequestTest.cls                                                        
+| Created CM_CreditActionRequestTest                                      ApexClass        force-app\main\default\classes\CM_CreditActionRequestTest.cls-meta.xml                                               
+| Created CM_MergeRelationshipInvocable                                   ApexClass        force-app\main\default\classes\CM_MergeRelationshipInvocable.cls                                                     
+| Created CM_MergeRelationshipInvocable                                   ApexClass        force-app\main\default\classes\CM_MergeRelationshipInvocable.cls-meta.xml                                            
+| Created CM_MergeRelationshipInvocableTest                               ApexClass        force-app\main\default\classes\CM_MergeRelationshipInvocableTest.cls                                                 
+| Created CM_MergeRelationshipInvocableTest                               ApexClass        force-app\main\default\classes\CM_MergeRelationshipInvocableTest.cls-meta.xml                                        
+| Created LightningSelfRegisterController                                 ApexClass        force-app\main\default\classes\LightningSelfRegisterController.cls                                                   
+| Created LightningSelfRegisterController                                 ApexClass        force-app\main\default\classes\LightningSelfRegisterController.cls-meta.xml                                          
+| Created LightningSelfRegisterControllerTest                             ApexClass        force-app\main\default\classes\LightningSelfRegisterControllerTest.cls                                               
+| Created LightningSelfRegisterControllerTest                             ApexClass        force-app\main\default\classes\LightningSelfRegisterControllerTest.cls-meta.xml                                      
+| Created cm_AutomaticExposureCalculation                                 ApexClass        force-app\main\default\classes\cm_AutomaticExposureCalculation.cls                                                   
+| Created cm_AutomaticExposureCalculation                                 ApexClass        force-app\main\default\classes\cm_AutomaticExposureCalculation.cls-meta.xml                                          
+| Created cm_AutomaticExposureCalculationtTest                            ApexClass        force-app\main\default\classes\cm_AutomaticExposureCalculationtTest.cls                                              
+| Created cm_AutomaticExposureCalculationtTest                            ApexClass        force-app\main\default\classes\cm_AutomaticExposureCalculationtTest.cls-meta.xml                                     
+| Created cm_BookingBatch                                                 ApexClass        force-app\main\default\classes\cm_BookingBatch.cls                                                                   
+| Created cm_BookingBatch                                                 ApexClass        force-app\main\default\classes\cm_BookingBatch.cls-meta.xml                                                          
+| Created cm_BookingBatchTest                                             ApexClass        force-app\main\default\classes\cm_BookingBatchTest.cls                                                               
+| Created cm_BookingBatchTest                                             ApexClass        force-app\main\default\classes\cm_BookingBatchTest.cls-meta.xml                                                      
+| Created cm_ExceptionLog                                                 ApexClass        force-app\main\default\classes\cm_ExceptionLog.cls                                                                   
+| Created cm_ExceptionLog                                                 ApexClass        force-app\main\default\classes\cm_ExceptionLog.cls-meta.xml                                                          
+| Created cm_ExceptionLogTest                                             ApexClass        force-app\main\default\classes\cm_ExceptionLogTest.cls                                                               
+| Created cm_ExceptionLogTest                                             ApexClass        force-app\main\default\classes\cm_ExceptionLogTest.cls-meta.xml                                                      
+| Created cm_PortalLoginScreenController                                  ApexClass        force-app\main\default\classes\cm_PortalLoginScreenController.cls                                                    
+| Created cm_PortalLoginScreenController                                  ApexClass        force-app\main\default\classes\cm_PortalLoginScreenController.cls-meta.xml                                           
+| Created cm_PortalLoginScreenControllerTest                              ApexClass        force-app\main\default\classes\cm_PortalLoginScreenControllerTest.cls                                                
+| Created cm_PortalLoginScreenControllerTest                              ApexClass        force-app\main\default\classes\cm_PortalLoginScreenControllerTest.cls-meta.xml                                       
+| Created cm_RCC_CopyTTMtoValidforCalcBatch                               ApexClass        force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatch.cls                                                 
+| Created cm_RCC_CopyTTMtoValidforCalcBatch                               ApexClass        force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatch.cls-meta.xml                                        
+| Created cm_RCC_CopyTTMtoValidforCalcBatchTest                           ApexClass        force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatchTest.cls                                             
+| Created cm_RCC_CopyTTMtoValidforCalcBatchTest                           ApexClass        force-app\main\default\classes\cm_RCC_CopyTTMtoValidforCalcBatchTest.cls-meta.xml                                    
+| Created Account.Relationship_Layout                                     CompactLayout    force-app\main\default\objects\Account\compactLayouts\Relationship_Layout.compactLayout-meta.xml                     
+| Created PersonAccount.Person_Account_BOI                                CompactLayout    force-app\main\default\objects\PersonAccount\compactLayouts\Person_Account_BOI.compactLayout-meta.xml                
+| Created PersonAccount.Prospect_Individual                               CompactLayout    force-app\main\default\objects\PersonAccount\compactLayouts\Prospect_Individual.compactLayout-meta.xml               
+| Created Account.cm_Collate_Borrowing_Entity_ID__c                       CustomField      force-app\main\default\objects\Account\fields\cm_Collate_Borrowing_Entity_ID__c.field-meta.xml                       
+| Created Account.cm_Collate_Legal_Entity_ID__c                           CustomField      force-app\main\default\objects\Account\fields\cm_Collate_Legal_Entity_ID__c.field-meta.xml                           
+| Created Account.cm_Is_Collateral_Prospect__c                            CustomField      force-app\main\default\objects\Account\fields\cm_Is_Collateral_Prospect__c.field-meta.xml                            
+| Created Account.cm_TotalCollaterallendableValue__c                      CustomField      force-app\main\default\objects\Account\fields\cm_TotalCollaterallendableValue__c.field-meta.xml                      
+| Created Account.cm_Total_Exposure_for_LTV__c                            CustomField      force-app\main\default\objects\Account\fields\cm_Total_Exposure_for_LTV__c.field-meta.xml                            
+| Created LLC_BI__Account_Collateral__c.LLC_BI__Collateral_Association__c CustomField      force-app\main\default\objects\LLC_BI__Account_Collateral__c\fields\LLC_BI__Collateral_Association__c.field-meta.xml 
+| Created Create_Collateral_Prospect                                      CustomPermission force-app\main\default\customPermissions\Create_Collateral_Prospect.customPermission-meta.xml                        
+| Created Business_Relationship_Layout                                    FlexiPage        force-app\main\default\flexipages\Business_Relationship_Layout.flexipage-meta.xml                                    
+| Created Business_Relationship_Layout_Read_Only                          FlexiPage        force-app\main\default\flexipages\Business_Relationship_Layout_Read_Only.flexipage-meta.xml                          
+| Created PersonsonAccount_Layout                                         FlexiPage        force-app\main\default\flexipages\PersonsonAccount_Layout.flexipage-meta.xml                                         
+| Created Relationship_Layout                                             FlexiPage        force-app\main\default\flexipages\Relationship_Layout.flexipage-meta.xml                                             
+| Created Relationship_Layout_Read_Only                                   FlexiPage        force-app\main\default\flexipages\Relationship_Layout_Read_Only.flexipage-meta.xml                                   
+| Created nCino_CM_Screen_Flow_Prospect_Record_Creation                   Flow             force-app\main\default\flows\nCino_CM_Screen_Flow_Prospect_Record_Creation.flow-meta.xml                             
+| Created HCL_Resource                                                    PermissionSet    force-app\main\default\permissionsets\HCL_Resource.permissionset-meta.xml                                            
+| Changed SB%26A Branch                                                   Profile          force-app\main\default\profiles\SB%26A Branch.profile-meta.xml                                                       
+| Changed SB%26A CCR Compliance                                           Profile          force-app\main\default\profiles\SB%26A CCR Compliance.profile-meta.xml                                               
+| Changed SB%26A Fulfillment                                              Profile          force-app\main\default\profiles\SB%26A Fulfillment.profile-meta.xml                                                  
+| Changed SB%26A Lending Support                                          Profile          force-app\main\default\profiles\SB%26A Lending Support.profile-meta.xml                                              
+| Changed SB%26A Readonly                                                 Profile          force-app\main\default\profiles\SB%26A Readonly.profile-meta.xml                                                     
+| Changed SB%26A Registration Team                                        Profile          force-app\main\default\profiles\SB%26A Registration Team.profile-meta.xml                                            
+| Changed SB%26A Sales                                                    Profile          force-app\main\default\profiles\SB%26A Sales.profile-meta.xml                                                        
+| Changed SB%26A Sec Ops                                                  Profile          force-app\main\default\profiles\SB%26A Sec Ops.profile-meta.xml                                                      
+| Changed SB%26A Underwriting                                             Profile          force-app\main\default\profiles\SB%26A Underwriting.profile-meta.xml                                                 
+| Changed Super User                                                      Profile          force-app\main\default\profiles\Super User.profile-meta.xml                                                          
+| Created Account.Collate_Borrowing_Entity_Id                             ValidationRule   force-app\main\default\objects\Account\validationRules\Collate_Borrowing_Entity_Id.validationRule-meta.xml           
+| Created Account.Collate_Legal_Entity_Id                                 ValidationRule   force-app\main\default\objects\Account\validationRules\Collate_Legal_Entity_Id.validationRule-meta.xml               
+| Created Account.Date_of_birth_mandatory                                 ValidationRule   force-app\main\default\objects\Account\validationRules\Date_of_birth_mandatory.validationRule-meta.xml               
+| Created Account.nCino_Email_mandatory                                   ValidationRule   force-app\main\default\objects\Account\validationRules\nCino_Email_mandatory.validationRule-meta.xml                 
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.preprod using the v64.0 SOAP API.
+Deploy ID: 0Af9b00000lYlJBCA0
+
+Test Failures [55]
+• cm_BookingBatchTest.devCustomerType
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.fieldNameNotLedger
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.getLendingOfficerCodeLocNumberTest
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.LendingAmount1M
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.LendingAmount800k
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.LendingAmountBelow120k
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.LendingAmountZero
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_ExceptionLogTest.log
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.log: line 24, column 1
+
+• cm_ExceptionLogTest.logErrorCode
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logErrorCode: line 66, column 1
+
+• cm_ExceptionLogTest.logException
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logException: line 80, column 1
+
+• cm_ExceptionLogTest.logexceptionfail
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logexceptionfail: line 37, column 1
+
+• cm_ExceptionLogTest.logString
+  message: System.AssertException: Assertion Failed: Expected: false, Actual: true
+  stacktrace: 
+    Class.cm_ExceptionLogTest.logString: line 50, column 1
+
+• cm_BookingBatchTest.mdtChildObjAndChildFieldNotNull
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.mdtParentObjAndFieldNotNull
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.mdtSourceFieldNotNull
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.mdtSourceParentChildDateTypeIsNull
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.parentObjectContainsDot
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• CM_CreditActionRequestTest.performActionResponseTest
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CreditActionRequestTest.buildInformation: line 18, column 1
+
+• CM_CreditActionRequestTest.performCreditActionTestAsyncFalse
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CreditActionRequestTest.buildInformation: line 18, column 1
+
+• CM_CreditActionRequestTest.performCreditActionTestAsyncTrue
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CreditActionRequestTest.buildInformation: line 18, column 1
+
+• cm_AutomaticExposureCalculationtTest.performExposureCalculation
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_AutomaticExposureCalculationtTest.testdatasetup: line 20, column 1
+
+• cm_BookingBatchTest.sourceFieldContainMonths
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_RCC_CopyTTMtoValidforCalcBatchTest.testBatch
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_RCC_CopyTTMtoValidforCalcBatchTest.testBatch: line 14, column 1
+
+• cm_CreditDecisionTimerBatchTest.testBatchExecution
+  message: System.QueryException: List has more than 1 row for assignment to SObject
+  stacktrace: 
+    Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1
+
+• cm_BookingBatchTest.testCalculateAge
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• CM_CRIFGatewayCCRInvokeServiceTest.testCCRForSoleTrader
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.CM_CRIFGatewayCCRInvokeServiceTest.Setup: line 91, column 1
+
+• CM_CRIFGatewayCCRInvokeServiceTest.testCCRForUnregPartnership
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.CM_CRIFGatewayCCRInvokeServiceTest.Setup: line 91, column 1
+
+• cm_BookingBatchTest.testChildFieldContainsDot
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testChildFieldNotContainsDot
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testCreateAttachment
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testDebitInterestRate
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testDebitRateCode
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testDropDoubleQoutes
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testFarmLoanAgri
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testFarmLoanNotAgri
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_PortalLoginScreenControllerTest.testFinishLoginFlowHome
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_PortalLoginScreenControllerTest.testFinishLoginFlowHome: line 77, column 1
+
+• cm_BookingBatchTest.testLegalPrimaryFalse
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testMarketClass
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testMdtDefaultValueNotNull
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testMultiLvlImplementation
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• CM_MergeRelationshipInvocableTest.testPerformRelationshipMerge
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_MergeRelationshipInvocableTest.setupTestData: line 17, column 1
+
+• CM_MergeRelationshipInvocableTest.testPerformRelationshipMergeWithException
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_MergeRelationshipInvocableTest.setupTestData: line 17, column 1
+
+• cm_BookingBatchTest.testPopulateLedger
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDF
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDF: line 38, column 1
+
+• CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDFWithErrRes
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CRIFCompanyReportPDFControllerTest.testRetnCRPDFWithErrRes: line 88, column 1
+
+• cm_CreditDecisionTimerBatchTest.testSchedulableExecution
+  message: System.QueryException: List has more than 1 row for assignment to SObject
+  stacktrace: 
+    Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1
+
+• LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount: line 42, column 1
+
+• cm_BookingBatchTest.testSetColumnHeader
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testSuccessBKKBatch
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_BookingBatchTest.testUpdateLoanFields
+  message: System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [LLC_BI__Account__c]: [LLC_BI__Account__c]
+  stacktrace: 
+    Class.cm_TestDataFactory.createLegalEntity: line 256, column 1
+    Class.cm_BookingBatchTest.Setup: line 178, column 1
+
+• cm_PortalLoginScreenControllerTest.testUpdateUser
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_PortalLoginScreenControllerTest.testUpdateUser: line 35, column 1
+
+• CM_CRIFCRDocumentUploadTest.testUpldCROnDocWithNoPH
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CRIFCRDocumentUploadTest.createTestAccount: line 14, column 1
+    Class.CM_CRIFCRDocumentUploadTest.testUpldCROnDocWithNoPH: line 98, column 1
+
+• CM_CRIFCRDocumentUploadTest.testUploadCROndoc
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.CM_CRIFCRDocumentUploadTest.createTestAccount: line 14, column 1
+    Class.CM_CRIFCRDocumentUploadTest.testUploadCROndoc: line 46, column 1
+
+• cm_PortalLoginScreenControllerTest.testWindowsloadFinishLoginFlowHome
+  message: System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Complete this field with format 31/12/2024.: [PersonBirthdate]
+  stacktrace: 
+    Class.cm_PortalLoginScreenControllerTest.testWindowsloadFinishLoginFlowHome: line 143, column 1
+
+• cm_CreditDecisionTimerBatchTest.testWithNoEligibleLoans
+  message: System.QueryException: List has more than 1 row for assignment to SObject
+  stacktrace: 
+    Class.cm_CreditDecisionTimerBatchTest.setupTestData: line 9, column 1
+
+
+Test Results Summary
+Passing: 116
+Failing: 55
+Total: 171
+Time: 136211
+ »   Warning: Average test coverage across all Apex Classes and Triggers is 
+ »   53%, at least 75% test coverage is required.
+Error (1): Failed to validate the deployment (0Af9b00000lYlJBCA0). Due To:
+Average test coverage across all Apex Classes and Triggers is 53%, at least 75% test coverage is required.

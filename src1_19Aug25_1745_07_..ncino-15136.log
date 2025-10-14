@@ -1,0 +1,15 @@
+Deploy ID: 0Af9Q00000lsz9vSAA
+
+Validated Source
+==============================================
+| State   Name  Type    Path                   
+| ─────── ───── ─────── ────────────────────── 
+| Changed Admin Profile profiles\Admin.profile 
+
+Test Results Summary
+Passing: 166
+Failing: 0
+Total: 166
+Time: 242113
+
+Successfully deployed (0Af9Q00000lsz9vSAA).

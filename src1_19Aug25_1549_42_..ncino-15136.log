@@ -1,0 +1,59 @@
+HEAD is now at 52ae1dd Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch r1poc
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd4_admin_package.xml
+Switched to branch 'amsdev'
+On branch amsdev
+nothing to commit, working tree clean
+Error (1): Parsing --target-org 
+	No authorization information found for --manifest.
+See more help with --help
+Error (1): No source-backed components present in the package.
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd4_admin_package.xml
+error: pathspec 'amsdev2' did not match any file(s) known to git
+On branch amsdev
+nothing to commit, working tree clean
+Error (1): Parsing --target-org 
+	No authorization information found for --manifest.
+See more help with --help
+Error (1): No source-backed components present in the package.
+HEAD is now at 82ee19a Testing diff for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch amsdev
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd4_admin_package.xml
+Switched to branch 'kajal'
+On branch kajal
+nothing to commit, working tree clean
+Error (1): Parsing --target-org 
+	No authorization information found for --manifest.
+See more help with --help
+Error (1): No source-backed components present in the package.
+HEAD is now at 5c60f12 Org sync for /c/Users/c139079/package_xml/ncino-13114_full_package.xml
+On branch kajal
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd4_admin_package.xml
+Switched to branch 'preprod'
+On branch preprod
+nothing to commit, working tree clean
+Error (1): Parsing --target-org 
+	No authorization information found for --manifest.
+See more help with --help
+Error (1): No source-backed components present in the package.
+HEAD is now at 5896daf classes folder
+On branch preprod
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15136_prd4_admin_package.xml
+error: pathspec 'product' did not match any file(s) known to git
+On branch preprod
+nothing to commit, working tree clean
+Error (1): Parsing --target-org 
+	No authorization information found for --manifest.
+See more help with --help

@@ -1,0 +1,92 @@
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15102_collatepackage_rob_package.xml
+error: pathspec 'rob1' did not match any file(s) known to git
+On branch kajal
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   force-app/main/default/profiles/SB%26A Branch.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A CCR Compliance.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Fulfillment.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Lending Support.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Readonly.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Registration Team.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Sales.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Sec Ops.profile-meta.xml
+	modified:   force-app/main/default/profiles/SB%26A Underwriting.profile-meta.xml
+	modified:   force-app/main/default/profiles/Super User.profile-meta.xml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls
+	force-app/main/default/classes/CM_CRIFCRDocumentUpload.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls
+	force-app/main/default/classes/CM_CRIFCRDocumentUploadTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFController.cls
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFController.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFControllerTest.cls
+	force-app/main/default/classes/CM_CRIFCompanyReportPDFControllerTest.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapper.cls
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapper.cls-meta.xml
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapperTest.cls
+	force-app/main/default/classes/CM_CRIFDirectorNIndividualWrapperTest.cls-meta.xml
+	force-app/main/default/customMetadata/
+	force-app/main/default/externalCredentials/
+	force-app/main/default/externalServiceRegistrations/
+	force-app/main/default/flexipages/Business_Relationship_Layout.flexipage-meta.xml
+	force-app/main/default/flexipages/Business_Relationship_Layout_Read_Only.flexipage-meta.xml
+	force-app/main/default/flexipages/People_Record_Page2.flexipage-meta.xml
+	force-app/main/default/flows/BOI_Autolaunched_Flow_CRIF.flow-meta.xml
+	force-app/main/default/flows/BOI_Autolaunched_Flow_CRIF_Report.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Trigger_Relationship_After_Save.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Trigger_Relationship_Before_Insert.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Triggered_LoanDocument_After_Save.flow-meta.xml
+	force-app/main/default/flows/BOI_Record_Triggered_Spread_Statement_Record.flow-meta.xml
+	force-app/main/default/flows/BOI_Screen_Flow_CRIF_Company_Report_on_Loan.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Autolaunched_Flow_CRIF_CompanyReport.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Autolaunched_Flow_Delete_Document_Store_Index.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Autolaunched_Flow_Merge_Relationship.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Screen_Flow_CRO_Main.flow-meta.xml
+	force-app/main/default/flows/cm_BOI_Screen_Flow_Import_Directors.flow-meta.xml
+	force-app/main/default/labels/
+	force-app/main/default/lwc/
+	force-app/main/default/namedCredentials/
+	force-app/main/default/objectTranslations/
+	force-app/main/default/objects/Account/fields/cm_Company_Basic_Report_Flag__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Full_Report_Flag__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Report_Available__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Report_Result__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Company_Status__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Credit_Report_Available__c.field-meta.xml
+	force-app/main/default/objects/Account/fields/cm_Shareholder_Report_Available__c.field-meta.xml
+	force-app/main/default/objects/LLC_BI__Classification__c/
+	force-app/main/default/objects/LLC_BI__Debt__c/
+	force-app/main/default/objects/LLC_BI__Document_Placeholder__c/
+	force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_IsFlow__c.field-meta.xml
+	force-app/main/default/objects/LLC_BI__Schedule_Entry__c/
+	force-app/main/default/objects/LLC_BI__Spread_Projections_Driver__c/
+	force-app/main/default/objects/LLC_BI__Spread_Statement_Period__c/
+	force-app/main/default/objects/LLC_BI__Spread_Statement_Type__c/
+	force-app/main/default/objects/LLC_BI__Underwriting_Bundle__c/
+	force-app/main/default/objects/cm_Company_Report_Result__c/
+	force-app/main/default/objects/cm_Mortgages_and_Charges__c/
+	force-app/main/default/objects/cm_People__c/
+	force-app/main/default/permissionsetgroups/
+	force-app/main/default/quickActions/
+	force-app/main/default/topicsForObjects/
+	t2s
+	t2s=31Jul25_155327`
+	t2s=31Jul25_155330`
+	t2s=31Jul25_155340`
+	t2s=31Jul25_155415`
+	t2s=31Jul25_155458`
+	t2s=31Jul25_155603`
+	t2s=31Jul25_155621`
+	t2s=31Jul25_155637`
+	"\357\201\274tee"
+
+no changes added to commit (use "git add" and/or "git commit -a")
+^CTerminate batch job (Y/N)? 
+^CThe system cannot open the device or file specified.
+^CTerminate batch job (Y/N)? 
+^C

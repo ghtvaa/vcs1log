@@ -1,0 +1,30 @@
+Retrieving v64.0 metadata from rob.mockler@boi.com.rob1 using the v64.0 SOAP API
+
+Retrieved Source
+==================================================================================================================================================================================================
+| State   Name                                                   Type          Path                                                                                                                
+| ─────── ────────────────────────────────────────────────────── ───────────── ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created AutoRABIT_User_Permission_Set                          PermissionSet force-app\main\default\permissionsets\AutoRABIT_User_Permission_Set.permissionset-meta.xml                          
+| Created BOI_Enforce_SSO_Enabled                                PermissionSet force-app\main\default\permissionsets\BOI_Enforce_SSO_Enabled.permissionset-meta.xml                                
+| Created BOI_Underwriting_Condition_Lending                     PermissionSet force-app\main\default\permissionsets\BOI_Underwriting_Condition_Lending.permissionset-meta.xml                     
+| Created BOI_ViewSetupandConfiguration                          PermissionSet force-app\main\default\permissionsets\BOI_ViewSetupandConfiguration.permissionset-meta.xml                          
+| Created Collateral_Groups                                      PermissionSet force-app\main\default\permissionsets\Collateral_Groups.permissionset-meta.xml                                      
+| Created Create_Edit_All_Dashboards_Full_Access_includes_Delete PermissionSet force-app\main\default\permissionsets\Create_Edit_All_Dashboards_Full_Access_includes_Delete.permissionset-meta.xml 
+| Created Create_Edit_All_Reports_Full_Access_includes_Delete    PermissionSet force-app\main\default\permissionsets\Create_Edit_All_Reports_Full_Access_includes_Delete.permissionset-meta.xml    
+| Created Create_Edit_Dashboards_Limited_Access                  PermissionSet force-app\main\default\permissionsets\Create_Edit_Dashboards_Limited_Access.permissionset-meta.xml                  
+| Created Create_Edit_Reports_Limited_Access                     PermissionSet force-app\main\default\permissionsets\Create_Edit_Reports_Limited_Access.permissionset-meta.xml                     
+| Created Data_Services_PS                                       PermissionSet force-app\main\default\permissionsets\Data_Services_PS.permissionset-meta.xml                                       
+| Created Docusign_API_User_only                                 PermissionSet force-app\main\default\permissionsets\Docusign_API_User_only.permissionset-meta.xml                                 
+| Created Flow_User                                              PermissionSet force-app\main\default\permissionsets\Flow_User.permissionset-meta.xml                                              
+| Created HCL_Resource                                           PermissionSet force-app\main\default\permissionsets\HCL_Resource.permissionset-meta.xml                                           
+| Created Integration_User_API_Only                              PermissionSet force-app\main\default\permissionsets\Integration_User_API_Only.permissionset-meta.xml                              
+| Created Integration_User_API_Only_v2                           PermissionSet force-app\main\default\permissionsets\Integration_User_API_Only_v2.permissionset-meta.xml                           
+| Created Manage_Internal_Users                                  PermissionSet force-app\main\default\permissionsets\Manage_Internal_Users.permissionset-meta.xml                                  
+| Created Password_Does_Not_Expire                               PermissionSet force-app\main\default\permissionsets\Password_Does_Not_Expire.permissionset-meta.xml                               
+| Created SBAUnderwritingPolicyExceptionStatusaccess             PermissionSet force-app\main\default\permissionsets\SBAUnderwritingPolicyExceptionStatusaccess.permissionset-meta.xml             
+| Created SelfRegistration                                       PermissionSet force-app\main\default\permissionsets\SelfRegistration.permissionset-meta.xml                                       
+| Created Smart_Checklist_Edit_Waive                             PermissionSet force-app\main\default\permissionsets\Smart_Checklist_Edit_Waive.permissionset-meta.xml                             
+| Created Standard_Release_Deployments                           PermissionSet force-app\main\default\permissionsets\Standard_Release_Deployments.permissionset-meta.xml                           
+| Created View_Modify_All_Data                                   PermissionSet force-app\main\default\permissionsets\View_Modify_All_Data.permissionset-meta.xml                                   
+| Created cm_BOI_Credit_Underwriting                             PermissionSet force-app\main\default\permissionsets\cm_BOI_Credit_Underwriting.permissionset-meta.xml                             
+| Created nCino_Communicator_Service                             PermissionSet force-app\main\default\permissionsets\nCino_Communicator_Service.permissionset-meta.xml                             

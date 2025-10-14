@@ -1,0 +1,113 @@
+match branch with package test1
+echo "amsdev $o1g $o2g $package1" ; git checkout amsdev amsdevamsdev sf_retrieve1 amsdevamsdev echo sf_add_retrieved1
+echo "amsdev2 $o1g $o2g $package1" ; git checkout amsdev2 amsdev2amsdev2 sf_retrieve1 amsdev2amsdev2 echo sf_add_retrieved1
+echo "crifmock $o1g $o2g $package1" ; git checkout crifmock crifmockcrifmock sf_retrieve1 crifmockcrifmock echo sf_add_retrieved1
+echo "kajal $o1g $o2g $package1" ; git checkout kajal kajalkajal sf_retrieve1 kajalkajal echo sf_add_retrieved1
+echo "preprod $o1g $o2g $package1" ; git checkout preprod preprodpreprod sf_retrieve1 preprodpreprod echo sf_add_retrieved1
+echo "product $o1g $o2g $package1" ; git checkout product productproduct sf_retrieve1 productproduct echo sf_add_retrieved1
+echo "r1dev $o1g $o2g $package1" ; git checkout r1dev r1devr1dev sf_retrieve1 r1devr1dev echo sf_add_retrieved1
+echo "r1poc $o1g $o2g $package1" ; git checkout r1poc r1pocr1poc sf_retrieve1 r1pocr1poc echo sf_add_retrieved1
+echo "r1qa $o1g $o2g $package1" ; git checkout r1qa r1qar1qa sf_retrieve1 r1qar1qa echo sf_add_retrieved1
+echo "R1Release $o1g $o2g $package1" ; git checkout R1Release R1ReleaseR1Release sf_retrieve1 R1ReleaseR1Release echo sf_add_retrieved1
+echo "R1SIT $o1g $o2g $package1" ; git checkout R1SIT R1SITR1SIT sf_retrieve1 R1SITR1SIT echo sf_add_retrieved1
+echo "r1trn $o1g $o2g $package1" ; git checkout r1trn r1trnr1trn sf_retrieve1 r1trnr1trn echo sf_add_retrieved1
+echo "r2dev $o1g $o2g $package1" ; git checkout r2dev r2devr2dev sf_retrieve1 r2devr2dev echo sf_add_retrieved1
+echo "rob1 $o1g $o2g $package1" ; git checkout rob1 rob1rob1 sf_retrieve1 rob1rob1 echo sf_add_retrieved1
+echo "sandeep $o1g $o2g $package1" ; git checkout sandeep sandeepsandeep sf_retrieve1 sandeepsandeep echo sf_add_retrieved1
+echo "spreads1 $o1g $o2g $package1" ; git checkout spreads1 spreads1spreads1 sf_retrieve1 spreads1spreads1 echo sf_add_retrieved1
+amsdev   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'amsdevamsdev' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'amsdevamsdev' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+amsdev2   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'amsdev2amsdev2' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'amsdev2amsdev2' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+crifmock   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'crifmockcrifmock' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'crifmockcrifmock' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+kajal   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'kajalkajal' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'kajalkajal' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+preprod   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'preprodpreprod' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'preprodpreprod' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+product   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'productproduct' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'productproduct' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+r1dev   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'r1devr1dev' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'r1devr1dev' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+r1poc   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'r1pocr1poc' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'r1pocr1poc' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+r1qa   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'r1qar1qa' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'r1qar1qa' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+R1Release   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'R1ReleaseR1Release' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'R1ReleaseR1Release' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+R1SIT   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'R1SITR1SIT' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'R1SITR1SIT' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+r1trn   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'r1trnr1trn' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'r1trnr1trn' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+r2dev   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'r2devr2dev' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'r2devr2dev' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+rob1   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'rob1rob1' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'rob1rob1' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+sandeep   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'sandeepsandeep' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'sandeepsandeep' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git
+spreads1   /c/Users/c139079/Onedri~1/package_xml/ncino-15704_Admin_Profile_package.xml
+error: pathspec 'spreads1spreads1' did not match any file(s) known to git
+error: pathspec 'sf_retrieve1' did not match any file(s) known to git
+error: pathspec 'spreads1spreads1' did not match any file(s) known to git
+error: pathspec 'echo' did not match any file(s) known to git
+error: pathspec 'sf_add_retrieved1' did not match any file(s) known to git

@@ -1,0 +1,55 @@
+HEAD is now at 671ee84 Update trests org
+Removing force-app/main/default/flows/nCino_CM_Screen_Flow_Loan_Creation_2.flow-meta.xml
+Removing force-app/main/default/objects/LLC_BI__Loan__c/fields/cm_ESGBusinessSector__c.field-meta.xml
+On branch stephen
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx1
+/c/Users/c139079/Onedri~1/package_xml/ncino-15170_test2_package.xml
+Already on 'stephen'
+On branch stephen
+nothing to commit, working tree clean
+Preparing retrieve request...
+[G[1A[JRetrieving v62.0 metadata from rob.mockler@boi.com.spreads1 using the v64.0 SOAP API
+Preparing retrieve request... [38;5;104m-[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m Sending request to org
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m Waiting for the org to respond
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m-[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m\[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m|[0m In Progress
+[G[1A[JPreparing retrieve request... [38;5;104m/[0m In Progress
+[G[1A[JPreparing retrieve request... Succeeded
+
+Retrieved Source
+==============================================================================================================================================================================
+| State   Name                                              Type        Path                                                                                                   
+| ─────── ───────────────────────────────────────────────── ─────────── ────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Created LLC_BI__Loan__c.cm_ESGBusinessSector__c           CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_ESGBusinessSector__c.field-meta.xml           
+| Created LLC_BI__Loan__c.cm_ESGEnhancedReviewActivities__c CustomField force-app\main\default\objects\LLC_BI__Loan__c\fields\cm_ESGEnhancedReviewActivities__c.field-meta.xml 
+| Created nCino_CM_Screen_Flow_Loan_Creation_2              Flow        force-app\main\default\flows\nCino_CM_Screen_Flow_Loan_Creation_2.flow-meta.xml                        
+Validating Deployment of v62.0 metadata to rob.mockler@boi.com.stephen using the v65.0 SOAP API.
+Deploy ID: 0AfFg00000VdRXyKAN
+
+Component Failures [4]
+======================================================================================================================================================================================
+| Type  Name                                              Problem                                                                                                                      
+| ───── ───────────────────────────────────────────────── ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+| Error LLC_BI__Loan__c.cm_ESGEnhancedReviewActivities__c In field: controllingField - no CustomField named LLC_BI__Loan__c.cm_ESGExcludedActivities__c found (58:13)                  
+| Error nCino_CM_Screen_Flow_Loan_Creation_2              field integrity exception: unknown (The field "cm_ESGExcludedActivities__c" for the object "LLC_BI__Loan__c" doesn't exist.) 
+| Error LLC_BI__Loan__c.cm_ESGEnhancedReviewActivities__c In field: controllingField - no CustomField named LLC_BI__Loan__c.cm_ESGExcludedActivities__c found                          
+| Error nCino_CM_Screen_Flow_Loan_Creation_2              field integrity exception: unknown (The field "cm_ESGExcludedActivities__c" for the object "LLC_BI__Loan__c" doesn't exist.) 
+
+Test Results Summary
+Passing: 0
+Failing: 0
+Total: 0
+Error (1): Failed to validate the deployment (0AfFg00000VdRXyKAN). Due To:
+2 component error(s)

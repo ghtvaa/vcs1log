@@ -1,0 +1,14 @@
+HEAD is now at 2951f11 recent packages
+On branch rob1
+nothing to commit, working tree clean
+test_package /c/devops/wkr2/vsc1/sfdx2
+/c/Users/c139079/Onedri~1/EXT_package_xml/ncino-15009_tests_package.xml
+error: pathspec 'production' did not match any file(s) known to git
+On branch rob1
+nothing to commit, working tree clean
+Error (1): Parsing --target-org 
+	No authorization information found for production.
+See more help with --help
+Error (1): Parsing --target-org 
+	No authorization information found for production.
+See more help with --help

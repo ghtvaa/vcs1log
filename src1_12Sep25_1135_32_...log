@@ -1,0 +1,265 @@
+/c/devops/gsh/git/ncino-repo_nightly/
+znightly_rob1
+Updating 420dea128..9ef31615c
+Fast-forward
+ .../DataCloudGeoLocation.cleanDataService          | 244 +++----
+ ...WhiteListUrlSettings.iframeWhiteListUrlSettings |   8 +
+ .../NotificationTypeConfig.config                  |  21 +
+ .../BOI_Rate_Settings__mdt-en_US.objectTranslation |   4 +
+ .../CallSherman__e-en_US.objectTranslation         |   4 +
+ .../Conditions__c-en_US.objectTranslation          |   4 +
+ .../CrossPackageService__e-en_US.objectTranslation |   4 +
+ ...CUESignSetting__c-DOCU__en_US.objectTranslation |   4 +
+ ...ument_Auto_Generated__e-en_US.objectTranslation |   4 +
+ ...viderSettings__c-EFPIO__en_US.objectTranslation |   4 +
+ ...EventSettings__c-EFPIO__en_US.objectTranslation |   4 +
+ ...t_Collateral__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...__Account_Collateral__c-en_US.objectTranslation |   4 +
+ ...nnual_Review__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...LC_BI__Annual_Review__c-en_US.objectTranslation |   4 +
+ ...horized_User__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ouse_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ..._Beneficiary__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...LLC_BI__CUSO__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...Cash_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...onfigProfile__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...geMemoConfig__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ist_Auto_Gen__e-LLC_BI__en_US.objectTranslation |   4 +
+ ...eral_History__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...__Collateral__c-LLC_BI__en_US.objectTranslation |   4 +
+ .../LLC_BI__Collateral__c-en_US.objectTranslation  |   4 +
+ ...l_Experience__e-LLC_BI__en_US.objectTranslation |   4 +
+ ...ion_Provider__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...I__Covenant2__c-LLC_BI__en_US.objectTranslation |   4 +
+ .../LLC_BI__Covenant2__c-en_US.objectTranslation   |   4 +
+ ...Covenant_Compliance2__c-en_US.objectTranslation |   4 +
+ ...t_Compliance__c-LLC_BI__en_US.objectTranslation |   4 +
+ ..._Covenant_Compliance__c-en_US.objectTranslation |   4 +
+ ...ysis_Summary__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...tory_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ment_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...BI__DocClass__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ded_Exposure__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...chronization__e-LLC_BI__en_US.objectTranslation |   4 +
+ ...an_Aggregate__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...LoanDocument__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...C_BI__Legal_Entities__c-en_US.objectTranslation |   4 +
+ ..._Assumptions__c-LLC_BI__en_US.objectTranslation |   4 +
+ ..._Collateral2__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...al_Aggregate__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...n_Collateral__c-LLC_BI__en_US.objectTranslation |   4 +
+ ..._BI__Loan_Collateral__c-en_US.objectTranslation |   4 +
+ ...kbox_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...C_BI__Matrix__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...I__Memo_Data__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...eous_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...nity_History__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...nity_Product__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...erty_Details__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...V_Category__mdt-LLC_BI__en_US.objectTranslation |   8 +-
+ ...C_BI__Policy__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...erty_Details__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...icing_Matrix__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...__ProductCCL__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ield_Mapping__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...Config_Pivot__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...State_Config__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...emplate_Join__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...rofitability__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...erty_Details__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...tion_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...onfiguration__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ture_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...Roll_Summary__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...ting_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ent_Category__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...t_Dependency__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...ment_History__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...hedule_Entry__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...ity_Analysis__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...Service_Mgmt__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...Notification__e-LLC_BI__en_US.objectTranslation |   4 +
+ ...ement_Period__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...onfiguration__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...BI__Strategy__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...m_Properties__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...I__Team_Keys__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...late_Records__c-LLC_BI__en_US.objectTranslation |   4 +
+ ..._BI__Tenancy__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ..._Information__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...erty_Details__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...sury_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...erty_Details__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...ting_Summary__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...it_Occupancy__c-LLC_BI__en_US.objectTranslation |   8 +-
+ ...ser_Settings__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...Wire_Service__c-LLC_BI__en_US.objectTranslation |   4 +
+ ...C__Preferences__c-NDOC__en_US.objectTranslation |   4 +
+ ...rce_Registry__mdt-NDOC__en_US.objectTranslation |   8 +-
+ ...ation_Setting__c-SESOC__en_US.objectTranslation |   4 +
+ ...SESOCSettings__c-SESOC__en_US.objectTranslation |   4 +
+ ...m_BKK_Loan_Mapping__mdt-en_US.objectTranslation |   4 +
+ .../cm_BKK_Scheduler__mdt-en_US.objectTranslation  |   4 +
+ ...cm_CIE_Source_Fields__c-en_US.objectTranslation |   4 +
+ .../cm_ERS__c-en_US.objectTranslation              |   4 +
+ ...ortgages_and_Charges__c-en_US.objectTranslation |   4 +
+ .../cm_People__c-en_US.objectTranslation           |   4 +
+ ...BIDC__BI_Data__c-nBIDC__en_US.objectTranslation |   4 +
+ ..._Capability__c-nCinoCB__en_US.objectTranslation |   4 +
+ ...IGN__Layout__c-nDESIGN__en_US.objectTranslation |   4 +
+ ...onfiguration__c-nFORCE__en_US.objectTranslation |   4 +
+ ...ess_Activity__c-nFORCE__en_US.objectTranslation |   8 +-
+ ...ess_Settings__c-nFORCE__en_US.objectTranslation |   4 +
+ ...onfiguration__c-nFORCE__en_US.objectTranslation |   4 +
+ ...shot_Archive__b-nFORCE__en_US.objectTranslation |   4 +
+ ...Dependency__mdt-nFORCE__en_US.objectTranslation |   8 +-
+ ..._Extension__mdt-nFORCE__en_US.objectTranslation |   4 +
+ ...ORCE__Layout__c-nFORCE__en_US.objectTranslation |   4 +
+ ..._Route_Terms__c-nFORCE__en_US.objectTranslation |   4 +
+ ...onfiguration__c-nFORCE__en_US.objectTranslation |   4 +
+ ...m_Properties__c-nFORCE__en_US.objectTranslation |   4 +
+ ...n_Settings__c-nMONITOR__en_US.objectTranslation |   4 +
+ objects/ContentVersion.object                      |   3 +
+ objects/DevopsEnvironment.object                   | 213 ++++++
+ objects/DevopsRequestInfo.object                   | 161 +++++
+ objects/EmailMessage.object                        |  14 -
+ objects/FlowOrchestrationInstance.object           |   3 +
+ objects/FlowOrchestrationVersion.object            |  87 +++
+ objects/Site.object                                |  28 +
+ objects/SocialPost.object                          |  28 -
+ objects/User.object                                | 104 +++
+ objects/nFORCE__Field_Configuration__c.object      |  12 +-
+ package.xml                                        | 792 ++++++++++++++++++++-
+ permissionsets/Data_Services_PS.permissionset      | 256 +++++--
+ .../Docusign_API_User_only.permissionset           | 256 +++++--
+ .../Integration_User_API_Only.permissionset        | 256 +++++--
+ .../Standard_Release_Deployments.permissionset     | 256 +++++--
+ permissionsets/View_Modify_All_Data.permissionset  | 256 +++++--
+ .../nCino_Communicator_Service.permissionset       | 256 +++++--
+ profiles/Admin.profile                             |  26 +
+ profiles/Analytics Cloud Integration User.profile  |  18 +
+ profiles/ContractManager.profile                   |   4 +
+ .../Customer Community Plus Login User.profile     |  13 +
+ profiles/MarketingProfile.profile                  |   4 +
+ profiles/SolutionManager.profile                   |   4 +
+ profiles/Standard.profile                          |   4 +
+ settings/Security.settings                         |   2 +-
+ settings/SocialCustomerService.settings            |   2 +-
+ sharingRules/DevopsEnvironment.sharingRules        |   2 +
+ sharingRules/DevopsRequestInfo.sharingRules        |   2 +
+ sharingRules/LLC_BI_CRIF_Error_Log__c.sharingRules |   2 +
+ sharingRules/cm_CRIF_CCR_Result__c.sharingRules    |   2 +
+ .../cm_Company_Report_Result__c.sharingRules       |   2 +
+ ...noCB__Background_Tool_Execution__c.sharingRules |   2 +
+ siteDotComSites/Customer_Portal1.site              | Bin 6172 -> 6172 bytes
+ .../ProcessExceptionCategory.standardValueSet      |  10 +
+ 151 files changed, 3193 insertions(+), 680 deletions(-)
+ create mode 100644 objects/DevopsEnvironment.object
+ create mode 100644 objects/DevopsRequestInfo.object
+ create mode 100644 objects/FlowOrchestrationVersion.object
+ create mode 100644 sharingRules/DevopsEnvironment.sharingRules
+ create mode 100644 sharingRules/DevopsRequestInfo.sharingRules
+ create mode 100644 sharingRules/LLC_BI_CRIF_Error_Log__c.sharingRules
+ create mode 100644 sharingRules/cm_CRIF_CCR_Result__c.sharingRules
+ create mode 100644 sharingRules/cm_Company_Report_Result__c.sharingRules
+ create mode 100644 sharingRules/nCinoCB__Background_Tool_Execution__c.sharingRules
+/c/devops/gsh/git/ncino-repo_rob1/
+rob1
+Updating 6d45a7f80..7d7ebdc15
+Fast-forward
+ .../Create_Collateral_Prospect.customPermission    |   5 +
+ flexipages/Relationship_Layout.flexipage           | 137 ++++++++-
+ ...no_CM_Screen_Flow_Prospect_Record_Creation.flow | 325 ++++++++++++++++++---
+ objects/Account.object                             |  30 ++
+ package.xml                                        |   6 +
+ permissionsets/HCL_Resource.permissionset          | 141 +++++++++
+ profiles/SB%26A Branch.profile                     |  15 +
+ profiles/SB%26A CCR Compliance.profile             |  15 +
+ profiles/SB%26A Fulfillment.profile                |  15 +
+ profiles/SB%26A Lending Support.profile            |  15 +
+ profiles/SB%26A Readonly.profile                   |  15 +
+ profiles/SB%26A Registration Team.profile          |  15 +
+ profiles/SB%26A Sales.profile                      |  15 +
+ profiles/SB%26A Sec Ops.profile                    |  15 +
+ profiles/SB%26A Underwriting.profile               |  15 +
+ profiles/Super User.profile                        |  15 +
+ 16 files changed, 752 insertions(+), 42 deletions(-)
+ create mode 100644 customPermissions/Create_Collateral_Prospect.customPermission
+ create mode 100644 permissionsets/HCL_Resource.permissionset
+/c/devops/ps1a/git/ncino-repo/
+znightly_preprod
+Already up to date.
+/c/devops/ps1u/git/ncino-repo_BOI_R1QA/
+BOI_R1QA
+Updating f5719452d..c70852312
+Fast-forward
+ flexipages/Business_Relationship_Layout.flexipage  | 997 ++++++++++++++++++---
+ ...usiness_Relationship_Layout_Read_Only.flexipage | 836 ++++-------------
+ flexipages/PersonsonAccount_Layout.flexipage       |   9 +-
+ flexipages/Relationship_Layout_Read_Only.flexipage |  28 -
+ profiles/SB%26A Branch.profile                     |   4 +-
+ profiles/SB%26A CCR Compliance.profile             |   4 +-
+ profiles/SB%26A Fulfillment.profile                |   8 +-
+ profiles/SB%26A Lending Support.profile            |   4 +-
+ profiles/SB%26A Readonly.profile                   |   4 +-
+ profiles/SB%26A Registration Team.profile          |   8 +-
+ profiles/SB%26A Sales.profile                      |   8 +-
+ profiles/SB%26A Sec Ops.profile                    |   8 +-
+ profiles/SB%26A Underwriting.profile               |   8 +-
+ ...Salesforce API Only System Integrations.profile |  10 +
+ profiles/Super User.profile                        |   8 +-
+ 15 files changed, 1088 insertions(+), 856 deletions(-)
+/c/devops/ps1u/git/ncino-repo_BOI_SIT/
+BOI_SIT
+Updating 801ea0bc7..c16c96121
+Fast-forward
+ flexipages/PersonsonAccount_Layout.flexipage             |  2 +-
+ profiles/SB%26A Branch.profile                           | 10 ++++++++++
+ profiles/SB%26A CCR Compliance.profile                   | 10 ++++++++++
+ profiles/SB%26A Fulfillment.profile                      | 10 ++++++++++
+ profiles/SB%26A Lending Support.profile                  | 10 ++++++++++
+ profiles/SB%26A Readonly.profile                         | 10 ++++++++++
+ profiles/SB%26A Registration Team.profile                | 10 ++++++++++
+ profiles/SB%26A Sales.profile                            | 10 ++++++++++
+ profiles/SB%26A Sec Ops.profile                          | 10 ++++++++++
+ profiles/SB%26A Underwriting.profile                     | 10 ++++++++++
+ profiles/Salesforce API Only System Integrations.profile | 10 ++++++++++
+ profiles/Super User.profile                              | 10 ++++++++++
+ 12 files changed, 111 insertions(+), 1 deletion(-)
+/c/devops/ps1u/git/ncino-repo_Preprod/
+BOI_PreProd
+Already up to date.
+/c/devops/ps1u/git/ncino-repo_Production/
+Production
+Already up to date.
+/c/devops/ps1u/git/ncino-repo_r1dev/
+R1DEV
+Already up to date.
+/c/devops/ps1u/git/ncino-repo_r2dev/
+BOI_R2DEV
+Already up to date.
+/c/devops/ps1u/git/ncino-repo_r3dev/
+r3dev
+Already up to date.
+/c/devops/ps1u/git/ncino-repo_spreads1/
+spreads1
+/c/devops/wkr2/git/ncino-repo/
+BOI_R1QA
+Updating f5719452d..c70852312
+Fast-forward
+ flexipages/Business_Relationship_Layout.flexipage  | 997 ++++++++++++++++++---
+ ...usiness_Relationship_Layout_Read_Only.flexipage | 836 ++++-------------
+ flexipages/PersonsonAccount_Layout.flexipage       |   9 +-
+ flexipages/Relationship_Layout_Read_Only.flexipage |  28 -
+ profiles/SB%26A Branch.profile                     |   4 +-
+ profiles/SB%26A CCR Compliance.profile             |   4 +-
+ profiles/SB%26A Fulfillment.profile                |   8 +-
+ profiles/SB%26A Lending Support.profile            |   4 +-
+ profiles/SB%26A Readonly.profile                   |   4 +-
+ profiles/SB%26A Registration Team.profile          |   8 +-
+ profiles/SB%26A Sales.profile                      |   8 +-
+ profiles/SB%26A Sec Ops.profile                    |   8 +-
+ profiles/SB%26A Underwriting.profile               |   8 +-
+ ...Salesforce API Only System Integrations.profile |  10 +
+ profiles/Super User.profile                        |   8 +-
+ 15 files changed, 1088 insertions(+), 856 deletions(-)
